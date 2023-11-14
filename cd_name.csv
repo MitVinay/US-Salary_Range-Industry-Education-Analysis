@@ -1,0 +1,1312 @@
+year,cd,Industry,Income,District_number,State,cd_name,scaled
+2019,0_AK,Educationalservices healthcare socialassistance,100k-149k,0,Alaska,us-ak-00,1
+2019,0_DC,Professional services,150k and more,0,District of Columbia,us-dc-00,2
+2019,0_DE,Educationalservices healthcare socialassistance,50k-74k,0,Delaware,us-de-00,1
+2019,0_ND,Educationalservices healthcare socialassistance,50k-74k,0,North Dakota,us-nd-00,1
+2019,0_PR,Educationalservices healthcare socialassistance,Less than 5k,0,Puerto Rico,us-pr-00,1
+2019,0_SD,Educationalservices healthcare socialassistance,50k-74k,0,South Dakota,us-sd-00,1
+2019,0_VT,Educationalservices healthcare socialassistance,50k-74k,0,Vermont,us-vt-00,1
+2019,0_WY,Educationalservices healthcare socialassistance,50k-74k,0,Wyoming,us-wy-00,1
+2019,1_AL,Educationalservices healthcare socialassistance,50k-74k,1,Alabama,us-al-01,1
+2019,1_AR,Educationalservices healthcare socialassistance,50k-74k,1,Arkansas,us-ar-01,1
+2019,1_AZ,Educationalservices healthcare socialassistance,150k and more,1,Arizona,us-az-01,1
+2019,1_CA,Educationalservices healthcare socialassistance,50k-74k,1,California,us-ca-01,1
+2019,1_CO,Professional services,150k and more,1,Colorado,us-co-01,2
+2019,1_CT,Educationalservices healthcare socialassistance,100k-149k,1,Connecticut,us-ct-01,1
+2019,1_FL,Educationalservices healthcare socialassistance,50k-74k,1,Florida,us-fl-01,1
+2019,1_GA,Educationalservices healthcare socialassistance,50k-74k,1,Georgia,us-ga-01,1
+2019,1_HI,Educationalservices healthcare socialassistance,150k and more,1,Hawaii,us-hi-01,1
+2019,1_IA,Educationalservices healthcare socialassistance,50k-74k,1,Iowa,us-ia-01,1
+2019,1_ID,Educationalservices healthcare socialassistance,50k-74k,1,Idaho,us-id-01,1
+2019,1_IL,Educationalservices healthcare socialassistance,150k and more,1,Illinois,us-il-01,1
+2019,1_IN,Educationalservices healthcare socialassistance,50k-74k,1,Indiana,us-in-01,1
+2019,1_KS,Educationalservices healthcare socialassistance,50k-74k,1,Kansas,us-ks-01,1
+2019,1_KY,Educationalservices healthcare socialassistance,50k-74k,1,Kentucky,us-ky-01,1
+2019,1_LA,Educationalservices healthcare socialassistance,50k-74k,1,Louisiana,us-la-01,1
+2019,1_MA,Educationalservices healthcare socialassistance,50k-74k,1,Massachusetts,us-ma-01,1
+2019,1_MD,Educationalservices healthcare socialassistance,100k-149k,1,Maryland,us-md-01,1
+2019,1_ME,Educationalservices healthcare socialassistance,50k-74k,1,Maine,us-me-01,1
+2019,1_MI,Educationalservices healthcare socialassistance,50k-74k,1,Michigan,us-mi-01,1
+2019,1_MN,Educationalservices healthcare socialassistance,50k-74k,1,Minnesota,us-mn-01,1
+2019,1_MO,Educationalservices healthcare socialassistance,50k-74k,1,Missouri,us-mo-01,1
+2019,1_MS,Educationalservices healthcare socialassistance,50k-74k,1,Mississippi,us-ms-01,1
+2019,1_MT,Educationalservices healthcare socialassistance,50k-74k,1,Montana,us-mt-01,1
+2019,1_NC,Educationalservices healthcare socialassistance,50k-74k,1,North Carolina,us-nc-01,1
+2019,1_NE,Educationalservices healthcare socialassistance,50k-74k,1,Nebraska,us-ne-01,1
+2019,1_NH,Educationalservices healthcare socialassistance,100k-149k,1,New Hampshire,us-nh-01,1
+2019,1_NJ,Educationalservices healthcare socialassistance,150k and more,1,New Jersey,us-nj-01,1
+2019,1_NM,Educationalservices healthcare socialassistance,50k-74k,1,New Mexico,us-nm-01,1
+2019,1_NV,Arts entertainment and foodservices,50k-74k,1,Nevada,us-nv-01,3
+2019,1_NY,Educationalservices healthcare socialassistance,150k and more,1,New York,us-ny-01,1
+2019,1_OH,Educationalservices healthcare socialassistance,50k-74k,1,Ohio,us-oh-01,1
+2019,1_OK,Educationalservices healthcare socialassistance,50k-74k,1,Oklahoma,us-ok-01,1
+2019,1_OR,Manufacturing,150k and more,1,Oregon,us-or-01,4
+2019,1_PA,Educationalservices healthcare socialassistance,150k and more,1,Pennsylvania,us-pa-01,1
+2019,1_RI,Educationalservices healthcare socialassistance,150k and more,1,Rhode Island,us-ri-01,1
+2019,1_SC,Educationalservices healthcare socialassistance,150k and more,1,South Carolina,us-sc-01,1
+2019,1_TN,Educationalservices healthcare socialassistance,50k-74k,1,Tennessee,us-tn-01,1
+2019,1_TX,Educationalservices healthcare socialassistance,50k-74k,1,Texas,us-tx-01,1
+2019,1_UT,Manufacturing,50k-74k,1,Utah,us-ut-01,4
+2019,1_VA,Educationalservices healthcare socialassistance,100k-149k,1,Virginia,us-va-01,1
+2019,1_WA,Professional services,150k and more,1,Washington,us-wa-01,2
+2019,1_WI,Manufacturing,50k-74k,1,Wisconsin,us-wi-01,4
+2019,1_WV,Educationalservices healthcare socialassistance,50k-74k,1,West Virginia,us-wv-01,1
+2019,10_CA,Professional services,150k and more,10,California,us-ca-10,2
+2019,10_FL,Educationalservices healthcare socialassistance,50k-74k,10,Florida,us-fl-10,1
+2019,10_GA,Educationalservices healthcare socialassistance,50k-74k,10,Georgia,us-ga-10,1
+2019,10_IL,Educationalservices healthcare socialassistance,150k and more,10,Illinois,us-il-10,1
+2019,10_MI,Manufacturing,50k-74k,10,Michigan,us-mi-10,4
+2019,10_NC,Manufacturing,50k-74k,10,North Carolina,us-nc-10,4
+2019,10_NJ,Educationalservices healthcare socialassistance,50k-74k,10,New Jersey,us-nj-10,1
+2019,10_NY,Professional services,150k and more,10,New York,us-ny-10,2
+2019,10_OH,Educationalservices healthcare socialassistance,50k-74k,10,Ohio,us-oh-10,1
+2019,10_PA,Educationalservices healthcare socialassistance,50k-74k,10,Pennsylvania,us-pa-10,1
+2019,10_TX,Educationalservices healthcare socialassistance,150k and more,10,Texas,us-tx-10,1
+2019,10_VA,Professional services,150k and more,10,Virginia,us-va-10,2
+2019,10_WA,Educationalservices healthcare socialassistance,100k-149k,10,Washington,us-wa-10,1
+2019,11_CA,Professional services,150k and more,11,California,us-ca-11,2
+2019,11_FL,Educationalservices healthcare socialassistance,50k-74k,11,Florida,us-fl-11,1
+2019,11_GA,Professional services,150k and more,11,Georgia,us-ga-11,2
+2019,11_IL,Educationalservices healthcare socialassistance,150k and more,11,Illinois,us-il-11,1
+2019,11_MI,Manufacturing,150k and more,11,Michigan,us-mi-11,4
+2019,11_NC,Educationalservices healthcare socialassistance,50k-74k,11,North Carolina,us-nc-11,1
+2019,11_NJ,Educationalservices healthcare socialassistance,150k and more,11,New Jersey,us-nj-11,1
+2019,11_NY,Educationalservices healthcare socialassistance,150k and more,11,New York,us-ny-11,1
+2019,11_OH,Educationalservices healthcare socialassistance,50k-74k,11,Ohio,us-oh-11,1
+2019,11_PA,Educationalservices healthcare socialassistance,50k-74k,11,Pennsylvania,us-pa-11,1
+2019,11_TX,Educationalservices healthcare socialassistance,50k-74k,11,Texas,us-tx-11,1
+2019,11_VA,Professional services,150k and more,11,Virginia,us-va-11,2
+2019,12_CA,Educationalservices healthcare socialassistance,150k and more,12,California,us-ca-12,1
+2019,12_FL,Educationalservices healthcare socialassistance,50k-74k,12,Florida,us-fl-12,1
+2019,12_GA,Educationalservices healthcare socialassistance,50k-74k,12,Georgia,us-ga-12,1
+2019,12_IL,Educationalservices healthcare socialassistance,50k-74k,12,Illinois,us-il-12,1
+2019,12_MI,Educationalservices healthcare socialassistance,50k-74k,12,Michigan,us-mi-12,1
+2019,12_NC,Educationalservices healthcare socialassistance,50k-74k,12,North Carolina,us-nc-12,1
+2019,12_NJ,Educationalservices healthcare socialassistance,150k and more,12,New Jersey,us-nj-12,1
+2019,12_NY,Professional services,150k and more,12,New York,us-ny-12,2
+2019,12_OH,Educationalservices healthcare socialassistance,50k-74k,12,Ohio,us-oh-12,1
+2019,12_PA,Educationalservices healthcare socialassistance,50k-74k,12,Pennsylvania,us-pa-12,1
+2019,12_TX,Educationalservices healthcare socialassistance,50k-74k,12,Texas,us-tx-12,1
+2019,13_CA,Educationalservices healthcare socialassistance,50k-74k,13,California,us-ca-13,1
+2019,13_FL,Educationalservices healthcare socialassistance,50k-74k,13,Florida,us-fl-13,1
+2019,13_GA,Educationalservices healthcare socialassistance,50k-74k,13,Georgia,us-ga-13,1
+2019,13_IL,Educationalservices healthcare socialassistance,50k-74k,13,Illinois,us-il-13,1
+2019,13_MI,Educationalservices healthcare socialassistance,50k-74k,13,Michigan,us-mi-13,1
+2019,13_NC,Educationalservices healthcare socialassistance,50k-74k,13,North Carolina,us-nc-13,1
+2019,13_NY,Educationalservices healthcare socialassistance,50k-74k,13,New York,us-ny-13,1
+2019,13_OH,Educationalservices healthcare socialassistance,50k-74k,13,Ohio,us-oh-13,1
+2019,13_PA,Educationalservices healthcare socialassistance,50k-74k,13,Pennsylvania,us-pa-13,1
+2019,13_TX,Educationalservices healthcare socialassistance,50k-74k,13,Texas,us-tx-13,1
+2019,14_CA,Professional services,150k and more,14,California,us-ca-14,2
+2019,14_FL,Educationalservices healthcare socialassistance,50k-74k,14,Florida,us-fl-14,1
+2019,14_GA,Manufacturing,50k-74k,14,Georgia,us-ga-14,4
+2019,14_IL,Educationalservices healthcare socialassistance,100k-149k,14,Illinois,us-il-14,1
+2019,14_NC,Educationalservices healthcare socialassistance,50k-74k,14,North Carolina,us-nc-14,1
+2019,14_NY,Educationalservices healthcare socialassistance,50k-74k,14,New York,us-ny-14,1
+2019,14_OH,Manufacturing,50k-74k,14,Ohio,us-oh-14,4
+2019,14_PA,Educationalservices healthcare socialassistance,50k-74k,14,Pennsylvania,us-pa-14,1
+2019,14_TX,Educationalservices healthcare socialassistance,50k-74k,14,Texas,us-tx-14,1
+2019,15_CA,Professional services,150k and more,15,California,us-ca-15,2
+2019,15_FL,Educationalservices healthcare socialassistance,50k-74k,15,Florida,us-fl-15,1
+2019,15_IL,Educationalservices healthcare socialassistance,50k-74k,15,Illinois,us-il-15,1
+2019,15_NY,Educationalservices healthcare socialassistance,50k-74k,15,New York,us-ny-15,1
+2019,15_OH,Educationalservices healthcare socialassistance,50k-74k,15,Ohio,us-oh-15,1
+2019,15_PA,Educationalservices healthcare socialassistance,50k-74k,15,Pennsylvania,us-pa-15,1
+2019,15_TX,Educationalservices healthcare socialassistance,50k-74k,15,Texas,us-tx-15,1
+2019,16_CA,Professional services,150k and more,16,California,us-ca-16,2
+2019,16_FL,Educationalservices healthcare socialassistance,50k-74k,16,Florida,us-fl-16,1
+2019,16_IL,Manufacturing,50k-74k,16,Illinois,us-il-16,4
+2019,16_NY,Educationalservices healthcare socialassistance,150k and more,16,New York,us-ny-16,1
+2019,16_PA,Educationalservices healthcare socialassistance,50k-74k,16,Pennsylvania,us-pa-16,1
+2019,16_TX,Educationalservices healthcare socialassistance,50k-74k,16,Texas,us-tx-16,1
+2019,17_CA,Professional services,150k and more,17,California,us-ca-17,2
+2019,17_FL,Educationalservices healthcare socialassistance,50k-74k,17,Florida,us-fl-17,1
+2019,17_IL,Educationalservices healthcare socialassistance,50k-74k,17,Illinois,us-il-17,1
+2019,17_NY,Educationalservices healthcare socialassistance,150k and more,17,New York,us-ny-17,1
+2019,17_PA,Educationalservices healthcare socialassistance,50k-74k,17,Pennsylvania,us-pa-17,1
+2019,17_TX,Educationalservices healthcare socialassistance,50k-74k,17,Texas,us-tx-17,1
+2019,18_CA,Educationalservices healthcare socialassistance,150k and more,18,California,us-ca-18,1
+2019,18_FL,Educationalservices healthcare socialassistance,50k-74k,18,Florida,us-fl-18,1
+2019,18_NY,Educationalservices healthcare socialassistance,150k and more,18,New York,us-ny-18,1
+2019,18_TX,Educationalservices healthcare socialassistance,50k-74k,18,Texas,us-tx-18,1
+2019,19_CA,Educationalservices healthcare socialassistance,150k and more,19,California,us-ca-19,1
+2019,19_FL,Educationalservices healthcare socialassistance,50k-74k,19,Florida,us-fl-19,1
+2019,19_NY,Educationalservices healthcare socialassistance,50k-74k,19,New York,us-ny-19,1
+2019,19_TX,Educationalservices healthcare socialassistance,50k-74k,19,Texas,us-tx-19,1
+2019,2_AL,Educationalservices healthcare socialassistance,50k-74k,2,Alabama,us-al-02,1
+2019,2_AR,Educationalservices healthcare socialassistance,50k-74k,2,Arkansas,us-ar-02,1
+2019,2_AZ,Educationalservices healthcare socialassistance,50k-74k,2,Arizona,us-az-02,1
+2019,2_CA,Educationalservices healthcare socialassistance,150k and more,2,California,us-ca-02,1
+2019,2_CO,Educationalservices healthcare socialassistance,150k and more,2,Colorado,us-co-02,1
+2019,2_CT,Educationalservices healthcare socialassistance,150k and more,2,Connecticut,us-ct-02,1
+2019,2_FL,Educationalservices healthcare socialassistance,50k-74k,2,Florida,us-fl-02,1
+2019,2_GA,Educationalservices healthcare socialassistance,50k-74k,2,Georgia,us-ga-02,1
+2019,2_HI,Educationalservices healthcare socialassistance,100k-149k,2,Hawaii,us-hi-02,1
+2019,2_IA,Manufacturing,50k-74k,2,Iowa,us-ia-02,4
+2019,2_ID,Educationalservices healthcare socialassistance,50k-74k,2,Idaho,us-id-02,1
+2019,2_IL,Educationalservices healthcare socialassistance,50k-74k,2,Illinois,us-il-02,1
+2019,2_IN,Manufacturing,50k-74k,2,Indiana,us-in-02,4
+2019,2_KS,Educationalservices healthcare socialassistance,50k-74k,2,Kansas,us-ks-02,1
+2019,2_KY,Manufacturing,50k-74k,2,Kentucky,us-ky-02,4
+2019,2_LA,Educationalservices healthcare socialassistance,50k-74k,2,Louisiana,us-la-02,1
+2019,2_MA,Educationalservices healthcare socialassistance,150k and more,2,Massachusetts,us-ma-02,1
+2019,2_MD,Educationalservices healthcare socialassistance,150k and more,2,Maryland,us-md-02,1
+2019,2_ME,Educationalservices healthcare socialassistance,50k-74k,2,Maine,us-me-02,1
+2019,2_MI,Manufacturing,50k-74k,2,Michigan,us-mi-02,4
+2019,2_MN,Educationalservices healthcare socialassistance,150k and more,2,Minnesota,us-mn-02,1
+2019,2_MO,Educationalservices healthcare socialassistance,150k and more,2,Missouri,us-mo-02,1
+2019,2_MS,Educationalservices healthcare socialassistance,50k-74k,2,Mississippi,us-ms-02,1
+2019,2_MT,Educationalservices healthcare socialassistance,50k-74k,2,Montana,us-mt-02,1
+2019,2_NC,Professional services,150k and more,2,North Carolina,us-nc-02,2
+2019,2_NE,Educationalservices healthcare socialassistance,50k-74k,2,Nebraska,us-ne-02,1
+2019,2_NH,Educationalservices healthcare socialassistance,150k and more,2,New Hampshire,us-nh-02,1
+2019,2_NJ,Educationalservices healthcare socialassistance,100k-149k,2,New Jersey,us-nj-02,1
+2019,2_NM,Educationalservices healthcare socialassistance,50k-74k,2,New Mexico,us-nm-02,1
+2019,2_NV,Educationalservices healthcare socialassistance,50k-74k,2,Nevada,us-nv-02,1
+2019,2_NY,Educationalservices healthcare socialassistance,150k and more,2,New York,us-ny-02,1
+2019,2_OH,Educationalservices healthcare socialassistance,50k-74k,2,Ohio,us-oh-02,1
+2019,2_OK,Educationalservices healthcare socialassistance,50k-74k,2,Oklahoma,us-ok-02,1
+2019,2_OR,Educationalservices healthcare socialassistance,50k-74k,2,Oregon,us-or-02,1
+2019,2_PA,Educationalservices healthcare socialassistance,50k-74k,2,Pennsylvania,us-pa-02,1
+2019,2_RI,Educationalservices healthcare socialassistance,100k-149k,2,Rhode Island,us-ri-02,1
+2019,2_SC,Educationalservices healthcare socialassistance,50k-74k,2,South Carolina,us-sc-02,1
+2019,2_TN,Educationalservices healthcare socialassistance,50k-74k,2,Tennessee,us-tn-02,1
+2019,2_TX,Educationalservices healthcare socialassistance,150k and more,2,Texas,us-tx-02,1
+2019,2_UT,Educationalservices healthcare socialassistance,50k-74k,2,Utah,us-ut-02,1
+2019,2_VA,Educationalservices healthcare socialassistance,100k-149k,2,Virginia,us-va-02,1
+2019,2_WA,Educationalservices healthcare socialassistance,50k-74k,2,Washington,us-wa-02,1
+2019,2_WI,Educationalservices healthcare socialassistance,100k-149k,2,Wisconsin,us-wi-02,1
+2019,2_WV,Educationalservices healthcare socialassistance,50k-74k,2,West Virginia,us-wv-02,1
+2019,20_CA,Educationalservices healthcare socialassistance,50k-74k,20,California,us-ca-20,1
+2019,20_FL,Educationalservices healthcare socialassistance,50k-74k,20,Florida,us-fl-20,1
+2019,20_NY,Educationalservices healthcare socialassistance,100k-149k,20,New York,us-ny-20,1
+2019,20_TX,Educationalservices healthcare socialassistance,50k-74k,20,Texas,us-tx-20,1
+2019,21_CA,Educationalservices healthcare socialassistance,50k-74k,21,California,us-ca-21,1
+2019,21_FL,Educationalservices healthcare socialassistance,50k-74k,21,Florida,us-fl-21,1
+2019,21_NY,Educationalservices healthcare socialassistance,50k-74k,21,New York,us-ny-21,1
+2019,21_TX,Educationalservices healthcare socialassistance,50k-74k,21,Texas,us-tx-21,1
+2019,22_CA,Educationalservices healthcare socialassistance,50k-74k,22,California,us-ca-22,1
+2019,22_FL,Educationalservices healthcare socialassistance,50k-74k,22,Florida,us-fl-22,1
+2019,22_NY,Educationalservices healthcare socialassistance,50k-74k,22,New York,us-ny-22,1
+2019,22_TX,Educationalservices healthcare socialassistance,150k and more,22,Texas,us-tx-22,1
+2019,23_CA,Educationalservices healthcare socialassistance,50k-74k,23,California,us-ca-23,1
+2019,23_FL,Educationalservices healthcare socialassistance,150k and more,23,Florida,us-fl-23,1
+2019,23_NY,Educationalservices healthcare socialassistance,50k-74k,23,New York,us-ny-23,1
+2019,23_TX,Educationalservices healthcare socialassistance,50k-74k,23,Texas,us-tx-23,1
+2019,24_CA,Educationalservices healthcare socialassistance,150k and more,24,California,us-ca-24,1
+2019,24_FL,Educationalservices healthcare socialassistance,50k-74k,24,Florida,us-fl-24,1
+2019,24_NY,Educationalservices healthcare socialassistance,50k-74k,24,New York,us-ny-24,1
+2019,24_TX,Professional services,150k and more,24,Texas,us-tx-24,2
+2019,25_CA,Educationalservices healthcare socialassistance,50k-74k,25,California,us-ca-25,1
+2019,25_FL,Educationalservices healthcare socialassistance,50k-74k,25,Florida,us-fl-25,1
+2019,25_NY,Educationalservices healthcare socialassistance,50k-74k,25,New York,us-ny-25,1
+2019,25_TX,Educationalservices healthcare socialassistance,50k-74k,25,Texas,us-tx-25,1
+2019,26_CA,Educationalservices healthcare socialassistance,150k and more,26,California,us-ca-26,1
+2019,26_FL,Educationalservices healthcare socialassistance,50k-74k,26,Florida,us-fl-26,1
+2019,26_NY,Educationalservices healthcare socialassistance,50k-74k,26,New York,us-ny-26,1
+2019,26_TX,Educationalservices healthcare socialassistance,150k and more,26,Texas,us-tx-26,1
+2019,27_CA,Educationalservices healthcare socialassistance,150k and more,27,California,us-ca-27,1
+2019,27_FL,Educationalservices healthcare socialassistance,50k-74k,27,Florida,us-fl-27,1
+2019,27_TX,Educationalservices healthcare socialassistance,50k-74k,27,Texas,us-tx-27,1
+2019,28_CA,Educationalservices healthcare socialassistance,150k and more,28,California,us-ca-28,1
+2019,28_FL,Educationalservices healthcare socialassistance,50k-74k,28,Florida,us-fl-28,1
+2019,28_TX,Educationalservices healthcare socialassistance,50k-74k,28,Texas,us-tx-28,1
+2019,29_CA,Educationalservices healthcare socialassistance,50k-74k,29,California,us-ca-29,1
+2019,29_TX,Construction,50k-74k,29,Texas,us-tx-29,6
+2019,3_AL,Educationalservices healthcare socialassistance,50k-74k,3,Alabama,us-al-03,1
+2019,3_AR,Educationalservices healthcare socialassistance,50k-74k,3,Arkansas,us-ar-03,1
+2019,3_AZ,Educationalservices healthcare socialassistance,50k-74k,3,Arizona,us-az-03,1
+2019,3_CA,Educationalservices healthcare socialassistance,150k and more,3,California,us-ca-03,1
+2019,3_CO,Educationalservices healthcare socialassistance,50k-74k,3,Colorado,us-co-03,1
+2019,3_CT,Educationalservices healthcare socialassistance,150k and more,3,Connecticut,us-ct-03,1
+2019,3_FL,Educationalservices healthcare socialassistance,50k-74k,3,Florida,us-fl-03,1
+2019,3_GA,Educationalservices healthcare socialassistance,50k-74k,3,Georgia,us-ga-03,1
+2019,3_IA,Educationalservices healthcare socialassistance,50k-74k,3,Iowa,us-ia-03,1
+2019,3_IL,Educationalservices healthcare socialassistance,150k and more,3,Illinois,us-il-03,1
+2019,3_IN,Manufacturing,50k-74k,3,Indiana,us-in-03,4
+2019,3_KS,Educationalservices healthcare socialassistance,150k and more,3,Kansas,us-ks-03,1
+2019,3_KY,Educationalservices healthcare socialassistance,50k-74k,3,Kentucky,us-ky-03,1
+2019,3_LA,Educationalservices healthcare socialassistance,50k-74k,3,Louisiana,us-la-03,1
+2019,3_MA,Educationalservices healthcare socialassistance,150k and more,3,Massachusetts,us-ma-03,1
+2019,3_MD,Educationalservices healthcare socialassistance,150k and more,3,Maryland,us-md-03,1
+2019,3_MI,Manufacturing,50k-74k,3,Michigan,us-mi-03,4
+2019,3_MN,Manufacturing,150k and more,3,Minnesota,us-mn-03,4
+2019,3_MO,Educationalservices healthcare socialassistance,50k-74k,3,Missouri,us-mo-03,1
+2019,3_MS,Educationalservices healthcare socialassistance,50k-74k,3,Mississippi,us-ms-03,1
+2019,3_NC,Educationalservices healthcare socialassistance,50k-74k,3,North Carolina,us-nc-03,1
+2019,3_NE,Educationalservices healthcare socialassistance,50k-74k,3,Nebraska,us-ne-03,1
+2019,3_NJ,Educationalservices healthcare socialassistance,150k and more,3,New Jersey,us-nj-03,1
+2019,3_NM,Educationalservices healthcare socialassistance,50k-74k,3,New Mexico,us-nm-03,1
+2019,3_NV,Arts entertainment and foodservices,50k-74k,3,Nevada,us-nv-03,3
+2019,3_NY,Educationalservices healthcare socialassistance,150k and more,3,New York,us-ny-03,1
+2019,3_OH,Educationalservices healthcare socialassistance,50k-74k,3,Ohio,us-oh-03,1
+2019,3_OK,Educationalservices healthcare socialassistance,50k-74k,3,Oklahoma,us-ok-03,1
+2019,3_OR,Educationalservices healthcare socialassistance,50k-74k,3,Oregon,us-or-03,1
+2019,3_PA,Educationalservices healthcare socialassistance,50k-74k,3,Pennsylvania,us-pa-03,1
+2019,3_SC,Manufacturing,50k-74k,3,South Carolina,us-sc-03,4
+2019,3_TN,Educationalservices healthcare socialassistance,50k-74k,3,Tennessee,us-tn-03,1
+2019,3_TX,Educationalservices healthcare socialassistance,150k and more,3,Texas,us-tx-03,1
+2019,3_UT,Educationalservices healthcare socialassistance,50k-74k,3,Utah,us-ut-03,1
+2019,3_VA,Educationalservices healthcare socialassistance,50k-74k,3,Virginia,us-va-03,1
+2019,3_WA,Educationalservices healthcare socialassistance,50k-74k,3,Washington,us-wa-03,1
+2019,3_WI,Educationalservices healthcare socialassistance,50k-74k,3,Wisconsin,us-wi-03,1
+2019,30_CA,Educationalservices healthcare socialassistance,50k-74k,30,California,us-ca-30,1
+2019,30_TX,Educationalservices healthcare socialassistance,50k-74k,30,Texas,us-tx-30,1
+2019,31_CA,Educationalservices healthcare socialassistance,50k-74k,31,California,us-ca-31,1
+2019,31_TX,Educationalservices healthcare socialassistance,50k-74k,31,Texas,us-tx-31,1
+2019,32_CA,Educationalservices healthcare socialassistance,150k and more,32,California,us-ca-32,1
+2019,32_TX,Educationalservices healthcare socialassistance,150k and more,32,Texas,us-tx-32,1
+2019,33_CA,Transportation warehousing utilities,50k-74k,33,California,us-ca-33,7
+2019,33_TX,Construction,50k-74k,33,Texas,us-tx-33,6
+2019,34_CA,Educationalservices healthcare socialassistance,50k-74k,34,California,us-ca-34,1
+2019,34_TX,Educationalservices healthcare socialassistance,50k-74k,34,Texas,us-tx-34,1
+2019,35_CA,Educationalservices healthcare socialassistance,100k-149k,35,California,us-ca-35,1
+2019,35_TX,Educationalservices healthcare socialassistance,50k-74k,35,Texas,us-tx-35,1
+2019,36_CA,Professional services,150k and more,36,California,us-ca-36,2
+2019,36_TX,Educationalservices healthcare socialassistance,50k-74k,36,Texas,us-tx-36,1
+2019,37_CA,Professional services,150k and more,37,California,us-ca-37,2
+2019,37_TX,Professional services,150k and more,37,Texas,us-tx-37,2
+2019,38_CA,Educationalservices healthcare socialassistance,100k-149k,38,California,us-ca-38,1
+2019,38_TX,Educationalservices healthcare socialassistance,50k-74k,38,Texas,us-tx-38,1
+2019,39_CA,Educationalservices healthcare socialassistance,100k-149k,39,California,us-ca-39,1
+2019,4_AL,Manufacturing,50k-74k,4,Alabama,us-al-04,4
+2019,4_AR,Educationalservices healthcare socialassistance,50k-74k,4,Arkansas,us-ar-04,1
+2019,4_AZ,Educationalservices healthcare socialassistance,50k-74k,4,Arizona,us-az-04,1
+2019,4_CA,Educationalservices healthcare socialassistance,150k and more,4,California,us-ca-04,1
+2019,4_CO,Educationalservices healthcare socialassistance,150k and more,4,Colorado,us-co-04,1
+2019,4_CT,Educationalservices healthcare socialassistance,150k and more,4,Connecticut,us-ct-04,1
+2019,4_FL,Educationalservices healthcare socialassistance,50k-74k,4,Florida,us-fl-04,1
+2019,4_GA,Educationalservices healthcare socialassistance,50k-74k,4,Georgia,us-ga-04,1
+2019,4_IA,Educationalservices healthcare socialassistance,50k-74k,4,Iowa,us-ia-04,1
+2019,4_IL,Educationalservices healthcare socialassistance,50k-74k,4,Illinois,us-il-04,1
+2019,4_IN,Manufacturing,50k-74k,4,Indiana,us-in-04,4
+2019,4_KS,Educationalservices healthcare socialassistance,50k-74k,4,Kansas,us-ks-04,1
+2019,4_KY,Educationalservices healthcare socialassistance,50k-74k,4,Kentucky,us-ky-04,1
+2019,4_LA,Educationalservices healthcare socialassistance,50k-74k,4,Louisiana,us-la-04,1
+2019,4_MA,Educationalservices healthcare socialassistance,150k and more,4,Massachusetts,us-ma-04,1
+2019,4_MD,Educationalservices healthcare socialassistance,150k and more,4,Maryland,us-md-04,1
+2019,4_MI,Manufacturing,50k-74k,4,Michigan,us-mi-04,4
+2019,4_MN,Educationalservices healthcare socialassistance,50k-74k,4,Minnesota,us-mn-04,1
+2019,4_MO,Educationalservices healthcare socialassistance,50k-74k,4,Missouri,us-mo-04,1
+2019,4_MS,Educationalservices healthcare socialassistance,50k-74k,4,Mississippi,us-ms-04,1
+2019,4_NC,Educationalservices healthcare socialassistance,50k-74k,4,North Carolina,us-nc-04,1
+2019,4_NJ,Educationalservices healthcare socialassistance,150k and more,4,New Jersey,us-nj-04,1
+2019,4_NV,Arts entertainment and foodservices,50k-74k,4,Nevada,us-nv-04,3
+2019,4_NY,Educationalservices healthcare socialassistance,150k and more,4,New York,us-ny-04,1
+2019,4_OH,Manufacturing,50k-74k,4,Ohio,us-oh-04,4
+2019,4_OK,Educationalservices healthcare socialassistance,50k-74k,4,Oklahoma,us-ok-04,1
+2019,4_OR,Educationalservices healthcare socialassistance,50k-74k,4,Oregon,us-or-04,1
+2019,4_PA,Educationalservices healthcare socialassistance,150k and more,4,Pennsylvania,us-pa-04,1
+2019,4_SC,Manufacturing,50k-74k,4,South Carolina,us-sc-04,4
+2019,4_TN,Manufacturing,50k-74k,4,Tennessee,us-tn-04,4
+2019,4_TX,Educationalservices healthcare socialassistance,50k-74k,4,Texas,us-tx-04,1
+2019,4_UT,Educationalservices healthcare socialassistance,100k-149k,4,Utah,us-ut-04,1
+2019,4_VA,Educationalservices healthcare socialassistance,50k-74k,4,Virginia,us-va-04,1
+2019,4_WA,Educationalservices healthcare socialassistance,50k-74k,4,Washington,us-wa-04,1
+2019,4_WI,Educationalservices healthcare socialassistance,50k-74k,4,Wisconsin,us-wi-04,1
+2019,40_CA,Educationalservices healthcare socialassistance,150k and more,40,California,us-ca-40,1
+2019,41_CA,Educationalservices healthcare socialassistance,150k and more,41,California,us-ca-41,1
+2019,42_CA,Educationalservices healthcare socialassistance,50k-74k,42,California,us-ca-42,1
+2019,43_CA,Educationalservices healthcare socialassistance,50k-74k,43,California,us-ca-43,1
+2019,44_CA,Educationalservices healthcare socialassistance,50k-74k,44,California,us-ca-44,1
+2019,45_CA,Educationalservices healthcare socialassistance,150k and more,45,California,us-ca-45,1
+2019,46_CA,Manufacturing,50k-74k,46,California,us-ca-46,4
+2019,47_CA,Professional services,150k and more,47,California,us-ca-47,2
+2019,48_CA,Educationalservices healthcare socialassistance,150k and more,48,California,us-ca-48,1
+2019,49_CA,Professional services,150k and more,49,California,us-ca-49,2
+2019,5_AL,Educationalservices healthcare socialassistance,50k-74k,5,Alabama,us-al-05,1
+2019,5_AZ,Educationalservices healthcare socialassistance,100k-149k,5,Arizona,us-az-05,1
+2019,5_CA,Educationalservices healthcare socialassistance,50k-74k,5,California,us-ca-05,1
+2019,5_CO,Educationalservices healthcare socialassistance,50k-74k,5,Colorado,us-co-05,1
+2019,5_CT,Educationalservices healthcare socialassistance,150k and more,5,Connecticut,us-ct-05,1
+2019,5_FL,Educationalservices healthcare socialassistance,50k-74k,5,Florida,us-fl-05,1
+2019,5_GA,Professional services,150k and more,5,Georgia,us-ga-05,2
+2019,5_IL,Professional services,150k and more,5,Illinois,us-il-05,2
+2019,5_IN,Educationalservices healthcare socialassistance,50k-74k,5,Indiana,us-in-05,1
+2019,5_KY,Educationalservices healthcare socialassistance,50k-74k,5,Kentucky,us-ky-05,1
+2019,5_LA,Educationalservices healthcare socialassistance,50k-74k,5,Louisiana,us-la-05,1
+2019,5_MA,Educationalservices healthcare socialassistance,150k and more,5,Massachusetts,us-ma-05,1
+2019,5_MD,Public administration,150k and more,5,Maryland,us-md-05,5
+2019,5_MI,Manufacturing,50k-74k,5,Michigan,us-mi-05,4
+2019,5_MN,Educationalservices healthcare socialassistance,50k-74k,5,Minnesota,us-mn-05,1
+2019,5_MO,Educationalservices healthcare socialassistance,50k-74k,5,Missouri,us-mo-05,1
+2019,5_NC,Educationalservices healthcare socialassistance,50k-74k,5,North Carolina,us-nc-05,1
+2019,5_NJ,Educationalservices healthcare socialassistance,150k and more,5,New Jersey,us-nj-05,1
+2019,5_NY,Educationalservices healthcare socialassistance,150k and more,5,New York,us-ny-05,1
+2019,5_OH,Manufacturing,50k-74k,5,Ohio,us-oh-05,4
+2019,5_OK,Educationalservices healthcare socialassistance,50k-74k,5,Oklahoma,us-ok-05,1
+2019,5_OR,Educationalservices healthcare socialassistance,50k-74k,5,Oregon,us-or-05,1
+2019,5_PA,Educationalservices healthcare socialassistance,150k and more,5,Pennsylvania,us-pa-05,1
+2019,5_SC,Manufacturing,50k-74k,5,South Carolina,us-sc-05,4
+2019,5_TN,Educationalservices healthcare socialassistance,50k-74k,5,Tennessee,us-tn-05,1
+2019,5_TX,Educationalservices healthcare socialassistance,50k-74k,5,Texas,us-tx-05,1
+2019,5_VA,Educationalservices healthcare socialassistance,50k-74k,5,Virginia,us-va-05,1
+2019,5_WA,Educationalservices healthcare socialassistance,50k-74k,5,Washington,us-wa-05,1
+2019,5_WI,Manufacturing,150k and more,5,Wisconsin,us-wi-05,4
+2019,50_CA,Professional services,150k and more,50,California,us-ca-50,2
+2019,51_CA,Educationalservices healthcare socialassistance,150k and more,51,California,us-ca-51,1
+2019,52_CA,Educationalservices healthcare socialassistance,50k-74k,52,California,us-ca-52,1
+2019,6_AL,Educationalservices healthcare socialassistance,50k-74k,6,Alabama,us-al-06,1
+2019,6_AZ,Educationalservices healthcare socialassistance,50k-74k,6,Arizona,us-az-06,1
+2019,6_CA,Educationalservices healthcare socialassistance,50k-74k,6,California,us-ca-06,1
+2019,6_CO,Educationalservices healthcare socialassistance,100k-149k,6,Colorado,us-co-06,1
+2019,6_FL,Educationalservices healthcare socialassistance,50k-74k,6,Florida,us-fl-06,1
+2019,6_GA,Professional services,150k and more,6,Georgia,us-ga-06,2
+2019,6_IL,Educationalservices healthcare socialassistance,50k-74k,6,Illinois,us-il-06,1
+2019,6_IN,Educationalservices healthcare socialassistance,50k-74k,6,Indiana,us-in-06,1
+2019,6_KY,Educationalservices healthcare socialassistance,50k-74k,6,Kentucky,us-ky-06,1
+2019,6_LA,Educationalservices healthcare socialassistance,100k-149k,6,Louisiana,us-la-06,1
+2019,6_MA,Educationalservices healthcare socialassistance,150k and more,6,Massachusetts,us-ma-06,1
+2019,6_MD,Professional services,150k and more,6,Maryland,us-md-06,2
+2019,6_MI,Educationalservices healthcare socialassistance,150k and more,6,Michigan,us-mi-06,1
+2019,6_MN,Educationalservices healthcare socialassistance,100k-149k,6,Minnesota,us-mn-06,1
+2019,6_MO,Educationalservices healthcare socialassistance,50k-74k,6,Missouri,us-mo-06,1
+2019,6_NC,Educationalservices healthcare socialassistance,50k-74k,6,North Carolina,us-nc-06,1
+2019,6_NJ,Educationalservices healthcare socialassistance,150k and more,6,New Jersey,us-nj-06,1
+2019,6_NY,Educationalservices healthcare socialassistance,50k-74k,6,New York,us-ny-06,1
+2019,6_OH,Educationalservices healthcare socialassistance,50k-74k,6,Ohio,us-oh-06,1
+2019,6_OR,Educationalservices healthcare socialassistance,50k-74k,6,Oregon,us-or-06,1
+2019,6_PA,Educationalservices healthcare socialassistance,150k and more,6,Pennsylvania,us-pa-06,1
+2019,6_SC,Educationalservices healthcare socialassistance,50k-74k,6,South Carolina,us-sc-06,1
+2019,6_TN,Educationalservices healthcare socialassistance,50k-74k,6,Tennessee,us-tn-06,1
+2019,6_TX,Educationalservices healthcare socialassistance,50k-74k,6,Texas,us-tx-06,1
+2019,6_VA,Educationalservices healthcare socialassistance,50k-74k,6,Virginia,us-va-06,1
+2019,6_WA,Educationalservices healthcare socialassistance,50k-74k,6,Washington,us-wa-06,1
+2019,6_WI,Manufacturing,50k-74k,6,Wisconsin,us-wi-06,4
+2019,7_AL,Educationalservices healthcare socialassistance,50k-74k,7,Alabama,us-al-07,1
+2019,7_AZ,Educationalservices healthcare socialassistance,50k-74k,7,Arizona,us-az-07,1
+2019,7_CA,Educationalservices healthcare socialassistance,50k-74k,7,California,us-ca-07,1
+2019,7_CO,Educationalservices healthcare socialassistance,50k-74k,7,Colorado,us-co-07,1
+2019,7_FL,Educationalservices healthcare socialassistance,50k-74k,7,Florida,us-fl-07,1
+2019,7_GA,Professional services,50k-74k,7,Georgia,us-ga-07,2
+2019,7_IL,Educationalservices healthcare socialassistance,150k and more,7,Illinois,us-il-07,1
+2019,7_IN,Educationalservices healthcare socialassistance,50k-74k,7,Indiana,us-in-07,1
+2019,7_MA,Educationalservices healthcare socialassistance,150k and more,7,Massachusetts,us-ma-07,1
+2019,7_MD,Educationalservices healthcare socialassistance,50k-74k,7,Maryland,us-md-07,1
+2019,7_MI,Educationalservices healthcare socialassistance,50k-74k,7,Michigan,us-mi-07,1
+2019,7_MN,Educationalservices healthcare socialassistance,50k-74k,7,Minnesota,us-mn-07,1
+2019,7_MO,Educationalservices healthcare socialassistance,50k-74k,7,Missouri,us-mo-07,1
+2019,7_NC,Educationalservices healthcare socialassistance,50k-74k,7,North Carolina,us-nc-07,1
+2019,7_NJ,Educationalservices healthcare socialassistance,150k and more,7,New Jersey,us-nj-07,1
+2019,7_NY,Educationalservices healthcare socialassistance,150k and more,7,New York,us-ny-07,1
+2019,7_OH,Educationalservices healthcare socialassistance,100k-149k,7,Ohio,us-oh-07,1
+2019,7_PA,Educationalservices healthcare socialassistance,50k-74k,7,Pennsylvania,us-pa-07,1
+2019,7_SC,Educationalservices healthcare socialassistance,50k-74k,7,South Carolina,us-sc-07,1
+2019,7_TN,Educationalservices healthcare socialassistance,50k-74k,7,Tennessee,us-tn-07,1
+2019,7_TX,Educationalservices healthcare socialassistance,150k and more,7,Texas,us-tx-07,1
+2019,7_VA,Educationalservices healthcare socialassistance,150k and more,7,Virginia,us-va-07,1
+2019,7_WA,Professional services,150k and more,7,Washington,us-wa-07,2
+2019,7_WI,Manufacturing,50k-74k,7,Wisconsin,us-wi-07,4
+2019,8_AZ,Educationalservices healthcare socialassistance,50k-74k,8,Arizona,us-az-08,1
+2019,8_CA,Educationalservices healthcare socialassistance,50k-74k,8,California,us-ca-08,1
+2019,8_CO,Educationalservices healthcare socialassistance,100k-149k,8,Colorado,us-co-08,1
+2019,8_FL,Educationalservices healthcare socialassistance,50k-74k,8,Florida,us-fl-08,1
+2019,8_GA,Educationalservices healthcare socialassistance,50k-74k,8,Georgia,us-ga-08,1
+2019,8_IL,Educationalservices healthcare socialassistance,150k and more,8,Illinois,us-il-08,1
+2019,8_IN,Manufacturing,50k-74k,8,Indiana,us-in-08,4
+2019,8_MA,Educationalservices healthcare socialassistance,150k and more,8,Massachusetts,us-ma-08,1
+2019,8_MD,Professional services,150k and more,8,Maryland,us-md-08,2
+2019,8_MI,Educationalservices healthcare socialassistance,50k-74k,8,Michigan,us-mi-08,1
+2019,8_MN,Educationalservices healthcare socialassistance,50k-74k,8,Minnesota,us-mn-08,1
+2019,8_MO,Educationalservices healthcare socialassistance,50k-74k,8,Missouri,us-mo-08,1
+2019,8_NC,Educationalservices healthcare socialassistance,50k-74k,8,North Carolina,us-nc-08,1
+2019,8_NJ,Professional services,150k and more,8,New Jersey,us-nj-08,2
+2019,8_NY,Educationalservices healthcare socialassistance,50k-74k,8,New York,us-ny-08,1
+2019,8_OH,Manufacturing,50k-74k,8,Ohio,us-oh-08,4
+2019,8_PA,Educationalservices healthcare socialassistance,50k-74k,8,Pennsylvania,us-pa-08,1
+2019,8_TN,Educationalservices healthcare socialassistance,50k-74k,8,Tennessee,us-tn-08,1
+2019,8_TX,Educationalservices healthcare socialassistance,100k-149k,8,Texas,us-tx-08,1
+2019,8_VA,Professional services,150k and more,8,Virginia,us-va-08,2
+2019,8_WA,Professional services,150k and more,8,Washington,us-wa-08,2
+2019,8_WI,Manufacturing,50k-74k,8,Wisconsin,us-wi-08,4
+2019,9_AZ,Educationalservices healthcare socialassistance,50k-74k,9,Arizona,us-az-09,1
+2019,9_CA,Educationalservices healthcare socialassistance,100k-149k,9,California,us-ca-09,1
+2019,9_FL,Arts entertainment and foodservices,50k-74k,9,Florida,us-fl-09,3
+2019,9_GA,Manufacturing,50k-74k,9,Georgia,us-ga-09,4
+2019,9_IL,Educationalservices healthcare socialassistance,150k and more,9,Illinois,us-il-09,1
+2019,9_IN,Manufacturing,50k-74k,9,Indiana,us-in-09,4
+2019,9_MA,Educationalservices healthcare socialassistance,150k and more,9,Massachusetts,us-ma-09,1
+2019,9_MI,Manufacturing,100k-149k,9,Michigan,us-mi-09,4
+2019,9_NC,Educationalservices healthcare socialassistance,50k-74k,9,North Carolina,us-nc-09,1
+2019,9_NJ,Educationalservices healthcare socialassistance,150k and more,9,New Jersey,us-nj-09,1
+2019,9_NY,Educationalservices healthcare socialassistance,50k-74k,9,New York,us-ny-09,1
+2019,9_OH,Manufacturing,50k-74k,9,Ohio,us-oh-09,4
+2019,9_PA,Educationalservices healthcare socialassistance,50k-74k,9,Pennsylvania,us-pa-09,1
+2019,9_TN,Educationalservices healthcare socialassistance,50k-74k,9,Tennessee,us-tn-09,1
+2019,9_TX,Educationalservices healthcare socialassistance,50k-74k,9,Texas,us-tx-09,1
+2019,9_VA,Educationalservices healthcare socialassistance,50k-74k,9,Virginia,us-va-09,1
+2019,9_WA,Professional services,150k and more,9,Washington,us-wa-09,2
+2020,0_AK,Educationalservices healthcare socialassistance,100k-149k,0,Alaska,us-ak-00,1
+2020,0_DC,Professional services,150k and more,0,District of Columbia,us-dc-00,2
+2020,0_DE,Educationalservices healthcare socialassistance,50k-74k,0,Delaware,us-de-00,1
+2020,0_ND,Educationalservices healthcare socialassistance,50k-74k,0,North Dakota,us-nd-00,1
+2020,0_PR,Educationalservices healthcare socialassistance,Less than 5k,0,Puerto Rico,us-pr-00,1
+2020,0_SD,Educationalservices healthcare socialassistance,50k-74k,0,South Dakota,us-sd-00,1
+2020,0_VT,Educationalservices healthcare socialassistance,50k-74k,0,Vermont,us-vt-00,1
+2020,0_WY,Educationalservices healthcare socialassistance,50k-74k,0,Wyoming,us-wy-00,1
+2020,1_AL,Educationalservices healthcare socialassistance,50k-74k,1,Alabama,us-al-01,1
+2020,1_AR,Educationalservices healthcare socialassistance,50k-74k,1,Arkansas,us-ar-01,1
+2020,1_AZ,Educationalservices healthcare socialassistance,150k and more,1,Arizona,us-az-01,1
+2020,1_CA,Educationalservices healthcare socialassistance,50k-74k,1,California,us-ca-01,1
+2020,1_CO,Educationalservices healthcare socialassistance,150k and more,1,Colorado,us-co-01,1
+2020,1_CT,Educationalservices healthcare socialassistance,100k-149k,1,Connecticut,us-ct-01,1
+2020,1_FL,Educationalservices healthcare socialassistance,50k-74k,1,Florida,us-fl-01,1
+2020,1_GA,Educationalservices healthcare socialassistance,50k-74k,1,Georgia,us-ga-01,1
+2020,1_HI,Educationalservices healthcare socialassistance,150k and more,1,Hawaii,us-hi-01,1
+2020,1_IA,Educationalservices healthcare socialassistance,50k-74k,1,Iowa,us-ia-01,1
+2020,1_ID,Educationalservices healthcare socialassistance,50k-74k,1,Idaho,us-id-01,1
+2020,1_IL,Educationalservices healthcare socialassistance,150k and more,1,Illinois,us-il-01,1
+2020,1_IN,Educationalservices healthcare socialassistance,50k-74k,1,Indiana,us-in-01,1
+2020,1_KS,Educationalservices healthcare socialassistance,50k-74k,1,Kansas,us-ks-01,1
+2020,1_KY,Educationalservices healthcare socialassistance,50k-74k,1,Kentucky,us-ky-01,1
+2020,1_LA,Educationalservices healthcare socialassistance,50k-74k,1,Louisiana,us-la-01,1
+2020,1_MA,Educationalservices healthcare socialassistance,50k-74k,1,Massachusetts,us-ma-01,1
+2020,1_MD,Educationalservices healthcare socialassistance,100k-149k,1,Maryland,us-md-01,1
+2020,1_ME,Educationalservices healthcare socialassistance,50k-74k,1,Maine,us-me-01,1
+2020,1_MI,Educationalservices healthcare socialassistance,50k-74k,1,Michigan,us-mi-01,1
+2020,1_MN,Educationalservices healthcare socialassistance,50k-74k,1,Minnesota,us-mn-01,1
+2020,1_MO,Educationalservices healthcare socialassistance,50k-74k,1,Missouri,us-mo-01,1
+2020,1_MS,Educationalservices healthcare socialassistance,50k-74k,1,Mississippi,us-ms-01,1
+2020,1_MT,Educationalservices healthcare socialassistance,50k-74k,1,Montana,us-mt-01,1
+2020,1_NC,Educationalservices healthcare socialassistance,50k-74k,1,North Carolina,us-nc-01,1
+2020,1_NE,Educationalservices healthcare socialassistance,50k-74k,1,Nebraska,us-ne-01,1
+2020,1_NH,Educationalservices healthcare socialassistance,150k and more,1,New Hampshire,us-nh-01,1
+2020,1_NJ,Educationalservices healthcare socialassistance,150k and more,1,New Jersey,us-nj-01,1
+2020,1_NM,Educationalservices healthcare socialassistance,50k-74k,1,New Mexico,us-nm-01,1
+2020,1_NV,Arts entertainment and foodservices,50k-74k,1,Nevada,us-nv-01,3
+2020,1_NY,Educationalservices healthcare socialassistance,150k and more,1,New York,us-ny-01,1
+2020,1_OH,Educationalservices healthcare socialassistance,150k and more,1,Ohio,us-oh-01,1
+2020,1_OK,Educationalservices healthcare socialassistance,50k-74k,1,Oklahoma,us-ok-01,1
+2020,1_OR,Manufacturing,150k and more,1,Oregon,us-or-01,4
+2020,1_PA,Educationalservices healthcare socialassistance,150k and more,1,Pennsylvania,us-pa-01,1
+2020,1_RI,Educationalservices healthcare socialassistance,100k-149k,1,Rhode Island,us-ri-01,1
+2020,1_SC,Educationalservices healthcare socialassistance,150k and more,1,South Carolina,us-sc-01,1
+2020,1_TN,Educationalservices healthcare socialassistance,50k-74k,1,Tennessee,us-tn-01,1
+2020,1_TX,Educationalservices healthcare socialassistance,50k-74k,1,Texas,us-tx-01,1
+2020,1_UT,Manufacturing,50k-74k,1,Utah,us-ut-01,4
+2020,1_VA,Educationalservices healthcare socialassistance,100k-149k,1,Virginia,us-va-01,1
+2020,1_WA,Professional services,150k and more,1,Washington,us-wa-01,2
+2020,1_WI,Manufacturing,50k-74k,1,Wisconsin,us-wi-01,4
+2020,1_WV,Educationalservices healthcare socialassistance,50k-74k,1,West Virginia,us-wv-01,1
+2020,10_CA,Professional services,150k and more,10,California,us-ca-10,2
+2020,10_FL,Educationalservices healthcare socialassistance,50k-74k,10,Florida,us-fl-10,1
+2020,10_GA,Educationalservices healthcare socialassistance,50k-74k,10,Georgia,us-ga-10,1
+2020,10_IL,Educationalservices healthcare socialassistance,150k and more,10,Illinois,us-il-10,1
+2020,10_MI,Manufacturing,50k-74k,10,Michigan,us-mi-10,4
+2020,10_NC,Manufacturing,50k-74k,10,North Carolina,us-nc-10,4
+2020,10_NJ,Educationalservices healthcare socialassistance,50k-74k,10,New Jersey,us-nj-10,1
+2020,10_NY,Professional services,150k and more,10,New York,us-ny-10,2
+2020,10_OH,Educationalservices healthcare socialassistance,50k-74k,10,Ohio,us-oh-10,1
+2020,10_PA,Educationalservices healthcare socialassistance,50k-74k,10,Pennsylvania,us-pa-10,1
+2020,10_TX,Educationalservices healthcare socialassistance,150k and more,10,Texas,us-tx-10,1
+2020,10_VA,Professional services,150k and more,10,Virginia,us-va-10,2
+2020,10_WA,Educationalservices healthcare socialassistance,100k-149k,10,Washington,us-wa-10,1
+2020,11_CA,Professional services,150k and more,11,California,us-ca-11,2
+2020,11_FL,Educationalservices healthcare socialassistance,50k-74k,11,Florida,us-fl-11,1
+2020,11_GA,Professional services,150k and more,11,Georgia,us-ga-11,2
+2020,11_IL,Educationalservices healthcare socialassistance,150k and more,11,Illinois,us-il-11,1
+2020,11_MI,Manufacturing,150k and more,11,Michigan,us-mi-11,4
+2020,11_NC,Educationalservices healthcare socialassistance,50k-74k,11,North Carolina,us-nc-11,1
+2020,11_NJ,Educationalservices healthcare socialassistance,150k and more,11,New Jersey,us-nj-11,1
+2020,11_NY,Educationalservices healthcare socialassistance,150k and more,11,New York,us-ny-11,1
+2020,11_OH,Educationalservices healthcare socialassistance,50k-74k,11,Ohio,us-oh-11,1
+2020,11_PA,Educationalservices healthcare socialassistance,50k-74k,11,Pennsylvania,us-pa-11,1
+2020,11_TX,Educationalservices healthcare socialassistance,50k-74k,11,Texas,us-tx-11,1
+2020,11_VA,Professional services,150k and more,11,Virginia,us-va-11,2
+2020,12_CA,Educationalservices healthcare socialassistance,150k and more,12,California,us-ca-12,1
+2020,12_FL,Educationalservices healthcare socialassistance,50k-74k,12,Florida,us-fl-12,1
+2020,12_GA,Educationalservices healthcare socialassistance,50k-74k,12,Georgia,us-ga-12,1
+2020,12_IL,Educationalservices healthcare socialassistance,50k-74k,12,Illinois,us-il-12,1
+2020,12_MI,Educationalservices healthcare socialassistance,50k-74k,12,Michigan,us-mi-12,1
+2020,12_NC,Educationalservices healthcare socialassistance,50k-74k,12,North Carolina,us-nc-12,1
+2020,12_NJ,Educationalservices healthcare socialassistance,150k and more,12,New Jersey,us-nj-12,1
+2020,12_NY,Professional services,150k and more,12,New York,us-ny-12,2
+2020,12_OH,Educationalservices healthcare socialassistance,50k-74k,12,Ohio,us-oh-12,1
+2020,12_PA,Educationalservices healthcare socialassistance,50k-74k,12,Pennsylvania,us-pa-12,1
+2020,12_TX,Educationalservices healthcare socialassistance,50k-74k,12,Texas,us-tx-12,1
+2020,13_CA,Educationalservices healthcare socialassistance,50k-74k,13,California,us-ca-13,1
+2020,13_FL,Educationalservices healthcare socialassistance,50k-74k,13,Florida,us-fl-13,1
+2020,13_GA,Educationalservices healthcare socialassistance,50k-74k,13,Georgia,us-ga-13,1
+2020,13_IL,Educationalservices healthcare socialassistance,50k-74k,13,Illinois,us-il-13,1
+2020,13_MI,Educationalservices healthcare socialassistance,50k-74k,13,Michigan,us-mi-13,1
+2020,13_NC,Educationalservices healthcare socialassistance,50k-74k,13,North Carolina,us-nc-13,1
+2020,13_NY,Educationalservices healthcare socialassistance,50k-74k,13,New York,us-ny-13,1
+2020,13_OH,Educationalservices healthcare socialassistance,50k-74k,13,Ohio,us-oh-13,1
+2020,13_PA,Educationalservices healthcare socialassistance,50k-74k,13,Pennsylvania,us-pa-13,1
+2020,13_TX,Educationalservices healthcare socialassistance,50k-74k,13,Texas,us-tx-13,1
+2020,14_CA,Professional services,150k and more,14,California,us-ca-14,2
+2020,14_FL,Educationalservices healthcare socialassistance,50k-74k,14,Florida,us-fl-14,1
+2020,14_GA,Manufacturing,50k-74k,14,Georgia,us-ga-14,4
+2020,14_IL,Educationalservices healthcare socialassistance,100k-149k,14,Illinois,us-il-14,1
+2020,14_NC,Educationalservices healthcare socialassistance,150k and more,14,North Carolina,us-nc-14,1
+2020,14_NY,Educationalservices healthcare socialassistance,100k-149k,14,New York,us-ny-14,1
+2020,14_OH,Manufacturing,50k-74k,14,Ohio,us-oh-14,4
+2020,14_PA,Educationalservices healthcare socialassistance,50k-74k,14,Pennsylvania,us-pa-14,1
+2020,14_TX,Educationalservices healthcare socialassistance,50k-74k,14,Texas,us-tx-14,1
+2020,15_CA,Professional services,150k and more,15,California,us-ca-15,2
+2020,15_FL,Educationalservices healthcare socialassistance,50k-74k,15,Florida,us-fl-15,1
+2020,15_IL,Educationalservices healthcare socialassistance,50k-74k,15,Illinois,us-il-15,1
+2020,15_NY,Educationalservices healthcare socialassistance,50k-74k,15,New York,us-ny-15,1
+2020,15_OH,Educationalservices healthcare socialassistance,50k-74k,15,Ohio,us-oh-15,1
+2020,15_PA,Educationalservices healthcare socialassistance,50k-74k,15,Pennsylvania,us-pa-15,1
+2020,15_TX,Educationalservices healthcare socialassistance,50k-74k,15,Texas,us-tx-15,1
+2020,16_CA,Professional services,150k and more,16,California,us-ca-16,2
+2020,16_FL,Educationalservices healthcare socialassistance,50k-74k,16,Florida,us-fl-16,1
+2020,16_IL,Manufacturing,50k-74k,16,Illinois,us-il-16,4
+2020,16_NY,Educationalservices healthcare socialassistance,150k and more,16,New York,us-ny-16,1
+2020,16_PA,Educationalservices healthcare socialassistance,50k-74k,16,Pennsylvania,us-pa-16,1
+2020,16_TX,Educationalservices healthcare socialassistance,50k-74k,16,Texas,us-tx-16,1
+2020,17_CA,Professional services,150k and more,17,California,us-ca-17,2
+2020,17_FL,Educationalservices healthcare socialassistance,50k-74k,17,Florida,us-fl-17,1
+2020,17_IL,Educationalservices healthcare socialassistance,50k-74k,17,Illinois,us-il-17,1
+2020,17_NY,Educationalservices healthcare socialassistance,150k and more,17,New York,us-ny-17,1
+2020,17_PA,Educationalservices healthcare socialassistance,50k-74k,17,Pennsylvania,us-pa-17,1
+2020,17_TX,Educationalservices healthcare socialassistance,50k-74k,17,Texas,us-tx-17,1
+2020,18_CA,Professional services,150k and more,18,California,us-ca-18,2
+2020,18_FL,Educationalservices healthcare socialassistance,50k-74k,18,Florida,us-fl-18,1
+2020,18_NY,Educationalservices healthcare socialassistance,150k and more,18,New York,us-ny-18,1
+2020,18_TX,Educationalservices healthcare socialassistance,50k-74k,18,Texas,us-tx-18,1
+2020,19_CA,Educationalservices healthcare socialassistance,150k and more,19,California,us-ca-19,1
+2020,19_FL,Educationalservices healthcare socialassistance,50k-74k,19,Florida,us-fl-19,1
+2020,19_NY,Educationalservices healthcare socialassistance,50k-74k,19,New York,us-ny-19,1
+2020,19_TX,Educationalservices healthcare socialassistance,50k-74k,19,Texas,us-tx-19,1
+2020,2_AL,Educationalservices healthcare socialassistance,50k-74k,2,Alabama,us-al-02,1
+2020,2_AR,Educationalservices healthcare socialassistance,50k-74k,2,Arkansas,us-ar-02,1
+2020,2_AZ,Educationalservices healthcare socialassistance,50k-74k,2,Arizona,us-az-02,1
+2020,2_CA,Educationalservices healthcare socialassistance,150k and more,2,California,us-ca-02,1
+2020,2_CO,Educationalservices healthcare socialassistance,150k and more,2,Colorado,us-co-02,1
+2020,2_CT,Educationalservices healthcare socialassistance,150k and more,2,Connecticut,us-ct-02,1
+2020,2_FL,Educationalservices healthcare socialassistance,50k-74k,2,Florida,us-fl-02,1
+2020,2_GA,Educationalservices healthcare socialassistance,50k-74k,2,Georgia,us-ga-02,1
+2020,2_HI,Educationalservices healthcare socialassistance,150k and more,2,Hawaii,us-hi-02,1
+2020,2_IA,Educationalservices healthcare socialassistance,50k-74k,2,Iowa,us-ia-02,1
+2020,2_ID,Educationalservices healthcare socialassistance,50k-74k,2,Idaho,us-id-02,1
+2020,2_IL,Educationalservices healthcare socialassistance,50k-74k,2,Illinois,us-il-02,1
+2020,2_IN,Manufacturing,50k-74k,2,Indiana,us-in-02,4
+2020,2_KS,Educationalservices healthcare socialassistance,50k-74k,2,Kansas,us-ks-02,1
+2020,2_KY,Educationalservices healthcare socialassistance,50k-74k,2,Kentucky,us-ky-02,1
+2020,2_LA,Educationalservices healthcare socialassistance,50k-74k,2,Louisiana,us-la-02,1
+2020,2_MA,Educationalservices healthcare socialassistance,150k and more,2,Massachusetts,us-ma-02,1
+2020,2_MD,Educationalservices healthcare socialassistance,150k and more,2,Maryland,us-md-02,1
+2020,2_ME,Educationalservices healthcare socialassistance,50k-74k,2,Maine,us-me-02,1
+2020,2_MI,Manufacturing,50k-74k,2,Michigan,us-mi-02,4
+2020,2_MN,Educationalservices healthcare socialassistance,150k and more,2,Minnesota,us-mn-02,1
+2020,2_MO,Educationalservices healthcare socialassistance,150k and more,2,Missouri,us-mo-02,1
+2020,2_MS,Educationalservices healthcare socialassistance,50k-74k,2,Mississippi,us-ms-02,1
+2020,2_MT,Educationalservices healthcare socialassistance,50k-74k,2,Montana,us-mt-02,1
+2020,2_NC,Professional services,150k and more,2,North Carolina,us-nc-02,2
+2020,2_NE,Educationalservices healthcare socialassistance,50k-74k,2,Nebraska,us-ne-02,1
+2020,2_NH,Educationalservices healthcare socialassistance,100k-149k,2,New Hampshire,us-nh-02,1
+2020,2_NJ,Educationalservices healthcare socialassistance,100k-149k,2,New Jersey,us-nj-02,1
+2020,2_NM,Educationalservices healthcare socialassistance,50k-74k,2,New Mexico,us-nm-02,1
+2020,2_NV,Educationalservices healthcare socialassistance,50k-74k,2,Nevada,us-nv-02,1
+2020,2_NY,Educationalservices healthcare socialassistance,150k and more,2,New York,us-ny-02,1
+2020,2_OH,Educationalservices healthcare socialassistance,50k-74k,2,Ohio,us-oh-02,1
+2020,2_OK,Educationalservices healthcare socialassistance,50k-74k,2,Oklahoma,us-ok-02,1
+2020,2_OR,Educationalservices healthcare socialassistance,50k-74k,2,Oregon,us-or-02,1
+2020,2_PA,Educationalservices healthcare socialassistance,50k-74k,2,Pennsylvania,us-pa-02,1
+2020,2_RI,Educationalservices healthcare socialassistance,100k-149k,2,Rhode Island,us-ri-02,1
+2020,2_SC,Educationalservices healthcare socialassistance,50k-74k,2,South Carolina,us-sc-02,1
+2020,2_TN,Educationalservices healthcare socialassistance,50k-74k,2,Tennessee,us-tn-02,1
+2020,2_TX,Educationalservices healthcare socialassistance,150k and more,2,Texas,us-tx-02,1
+2020,2_UT,Educationalservices healthcare socialassistance,50k-74k,2,Utah,us-ut-02,1
+2020,2_VA,Educationalservices healthcare socialassistance,100k-149k,2,Virginia,us-va-02,1
+2020,2_WA,Educationalservices healthcare socialassistance,50k-74k,2,Washington,us-wa-02,1
+2020,2_WI,Educationalservices healthcare socialassistance,100k-149k,2,Wisconsin,us-wi-02,1
+2020,2_WV,Educationalservices healthcare socialassistance,50k-74k,2,West Virginia,us-wv-02,1
+2020,20_CA,Educationalservices healthcare socialassistance,50k-74k,20,California,us-ca-20,1
+2020,20_FL,Educationalservices healthcare socialassistance,50k-74k,20,Florida,us-fl-20,1
+2020,20_NY,Educationalservices healthcare socialassistance,100k-149k,20,New York,us-ny-20,1
+2020,20_TX,Educationalservices healthcare socialassistance,50k-74k,20,Texas,us-tx-20,1
+2020,21_CA,Educationalservices healthcare socialassistance,50k-74k,21,California,us-ca-21,1
+2020,21_FL,Educationalservices healthcare socialassistance,50k-74k,21,Florida,us-fl-21,1
+2020,21_NY,Educationalservices healthcare socialassistance,50k-74k,21,New York,us-ny-21,1
+2020,21_TX,Educationalservices healthcare socialassistance,50k-74k,21,Texas,us-tx-21,1
+2020,22_CA,Educationalservices healthcare socialassistance,50k-74k,22,California,us-ca-22,1
+2020,22_FL,Educationalservices healthcare socialassistance,50k-74k,22,Florida,us-fl-22,1
+2020,22_NY,Educationalservices healthcare socialassistance,50k-74k,22,New York,us-ny-22,1
+2020,22_TX,Educationalservices healthcare socialassistance,150k and more,22,Texas,us-tx-22,1
+2020,23_CA,Educationalservices healthcare socialassistance,50k-74k,23,California,us-ca-23,1
+2020,23_FL,Educationalservices healthcare socialassistance,150k and more,23,Florida,us-fl-23,1
+2020,23_NY,Educationalservices healthcare socialassistance,50k-74k,23,New York,us-ny-23,1
+2020,23_TX,Educationalservices healthcare socialassistance,50k-74k,23,Texas,us-tx-23,1
+2020,24_CA,Educationalservices healthcare socialassistance,150k and more,24,California,us-ca-24,1
+2020,24_FL,Educationalservices healthcare socialassistance,50k-74k,24,Florida,us-fl-24,1
+2020,24_NY,Educationalservices healthcare socialassistance,50k-74k,24,New York,us-ny-24,1
+2020,24_TX,Professional services,150k and more,24,Texas,us-tx-24,2
+2020,25_CA,Educationalservices healthcare socialassistance,50k-74k,25,California,us-ca-25,1
+2020,25_FL,Educationalservices healthcare socialassistance,150k and more,25,Florida,us-fl-25,1
+2020,25_NY,Educationalservices healthcare socialassistance,50k-74k,25,New York,us-ny-25,1
+2020,25_TX,Educationalservices healthcare socialassistance,50k-74k,25,Texas,us-tx-25,1
+2020,26_CA,Educationalservices healthcare socialassistance,150k and more,26,California,us-ca-26,1
+2020,26_FL,Educationalservices healthcare socialassistance,50k-74k,26,Florida,us-fl-26,1
+2020,26_NY,Educationalservices healthcare socialassistance,50k-74k,26,New York,us-ny-26,1
+2020,26_TX,Educationalservices healthcare socialassistance,150k and more,26,Texas,us-tx-26,1
+2020,27_CA,Educationalservices healthcare socialassistance,150k and more,27,California,us-ca-27,1
+2020,27_FL,Educationalservices healthcare socialassistance,50k-74k,27,Florida,us-fl-27,1
+2020,27_TX,Educationalservices healthcare socialassistance,50k-74k,27,Texas,us-tx-27,1
+2020,28_CA,Educationalservices healthcare socialassistance,150k and more,28,California,us-ca-28,1
+2020,28_FL,Educationalservices healthcare socialassistance,50k-74k,28,Florida,us-fl-28,1
+2020,28_TX,Educationalservices healthcare socialassistance,50k-74k,28,Texas,us-tx-28,1
+2020,29_CA,Educationalservices healthcare socialassistance,50k-74k,29,California,us-ca-29,1
+2020,29_TX,Construction,50k-74k,29,Texas,us-tx-29,6
+2020,3_AL,Educationalservices healthcare socialassistance,50k-74k,3,Alabama,us-al-03,1
+2020,3_AR,Educationalservices healthcare socialassistance,50k-74k,3,Arkansas,us-ar-03,1
+2020,3_AZ,Educationalservices healthcare socialassistance,50k-74k,3,Arizona,us-az-03,1
+2020,3_CA,Educationalservices healthcare socialassistance,150k and more,3,California,us-ca-03,1
+2020,3_CO,Educationalservices healthcare socialassistance,50k-74k,3,Colorado,us-co-03,1
+2020,3_CT,Educationalservices healthcare socialassistance,150k and more,3,Connecticut,us-ct-03,1
+2020,3_FL,Educationalservices healthcare socialassistance,50k-74k,3,Florida,us-fl-03,1
+2020,3_GA,Educationalservices healthcare socialassistance,50k-74k,3,Georgia,us-ga-03,1
+2020,3_IA,Educationalservices healthcare socialassistance,50k-74k,3,Iowa,us-ia-03,1
+2020,3_IL,Educationalservices healthcare socialassistance,150k and more,3,Illinois,us-il-03,1
+2020,3_IN,Manufacturing,50k-74k,3,Indiana,us-in-03,4
+2020,3_KS,Educationalservices healthcare socialassistance,150k and more,3,Kansas,us-ks-03,1
+2020,3_KY,Educationalservices healthcare socialassistance,50k-74k,3,Kentucky,us-ky-03,1
+2020,3_LA,Educationalservices healthcare socialassistance,50k-74k,3,Louisiana,us-la-03,1
+2020,3_MA,Educationalservices healthcare socialassistance,150k and more,3,Massachusetts,us-ma-03,1
+2020,3_MD,Educationalservices healthcare socialassistance,150k and more,3,Maryland,us-md-03,1
+2020,3_MI,Manufacturing,50k-74k,3,Michigan,us-mi-03,4
+2020,3_MN,Educationalservices healthcare socialassistance,150k and more,3,Minnesota,us-mn-03,1
+2020,3_MO,Educationalservices healthcare socialassistance,50k-74k,3,Missouri,us-mo-03,1
+2020,3_MS,Educationalservices healthcare socialassistance,50k-74k,3,Mississippi,us-ms-03,1
+2020,3_NC,Educationalservices healthcare socialassistance,50k-74k,3,North Carolina,us-nc-03,1
+2020,3_NE,Educationalservices healthcare socialassistance,50k-74k,3,Nebraska,us-ne-03,1
+2020,3_NJ,Educationalservices healthcare socialassistance,150k and more,3,New Jersey,us-nj-03,1
+2020,3_NM,Educationalservices healthcare socialassistance,50k-74k,3,New Mexico,us-nm-03,1
+2020,3_NV,Arts entertainment and foodservices,50k-74k,3,Nevada,us-nv-03,3
+2020,3_NY,Educationalservices healthcare socialassistance,150k and more,3,New York,us-ny-03,1
+2020,3_OH,Educationalservices healthcare socialassistance,50k-74k,3,Ohio,us-oh-03,1
+2020,3_OK,Educationalservices healthcare socialassistance,50k-74k,3,Oklahoma,us-ok-03,1
+2020,3_OR,Educationalservices healthcare socialassistance,50k-74k,3,Oregon,us-or-03,1
+2020,3_PA,Educationalservices healthcare socialassistance,50k-74k,3,Pennsylvania,us-pa-03,1
+2020,3_SC,Educationalservices healthcare socialassistance,50k-74k,3,South Carolina,us-sc-03,1
+2020,3_TN,Educationalservices healthcare socialassistance,50k-74k,3,Tennessee,us-tn-03,1
+2020,3_TX,Educationalservices healthcare socialassistance,150k and more,3,Texas,us-tx-03,1
+2020,3_UT,Educationalservices healthcare socialassistance,50k-74k,3,Utah,us-ut-03,1
+2020,3_VA,Educationalservices healthcare socialassistance,50k-74k,3,Virginia,us-va-03,1
+2020,3_WA,Educationalservices healthcare socialassistance,50k-74k,3,Washington,us-wa-03,1
+2020,3_WI,Educationalservices healthcare socialassistance,50k-74k,3,Wisconsin,us-wi-03,1
+2020,30_CA,Educationalservices healthcare socialassistance,150k and more,30,California,us-ca-30,1
+2020,30_TX,Educationalservices healthcare socialassistance,50k-74k,30,Texas,us-tx-30,1
+2020,31_CA,Educationalservices healthcare socialassistance,100k-149k,31,California,us-ca-31,1
+2020,31_TX,Educationalservices healthcare socialassistance,100k-149k,31,Texas,us-tx-31,1
+2020,32_CA,Educationalservices healthcare socialassistance,150k and more,32,California,us-ca-32,1
+2020,32_TX,Professional services,150k and more,32,Texas,us-tx-32,2
+2020,33_CA,Transportation warehousing utilities,50k-74k,33,California,us-ca-33,7
+2020,33_TX,Construction,50k-74k,33,Texas,us-tx-33,6
+2020,34_CA,Educationalservices healthcare socialassistance,50k-74k,34,California,us-ca-34,1
+2020,34_TX,Educationalservices healthcare socialassistance,50k-74k,34,Texas,us-tx-34,1
+2020,35_CA,Educationalservices healthcare socialassistance,150k and more,35,California,us-ca-35,1
+2020,35_TX,Educationalservices healthcare socialassistance,50k-74k,35,Texas,us-tx-35,1
+2020,36_CA,Professional services,150k and more,36,California,us-ca-36,2
+2020,36_TX,Educationalservices healthcare socialassistance,50k-74k,36,Texas,us-tx-36,1
+2020,37_CA,Professional services,150k and more,37,California,us-ca-37,2
+2020,37_TX,Professional services,150k and more,37,Texas,us-tx-37,2
+2020,38_CA,Educationalservices healthcare socialassistance,150k and more,38,California,us-ca-38,1
+2020,38_TX,Educationalservices healthcare socialassistance,100k-149k,38,Texas,us-tx-38,1
+2020,39_CA,Educationalservices healthcare socialassistance,100k-149k,39,California,us-ca-39,1
+2020,4_AL,Manufacturing,50k-74k,4,Alabama,us-al-04,4
+2020,4_AR,Educationalservices healthcare socialassistance,50k-74k,4,Arkansas,us-ar-04,1
+2020,4_AZ,Educationalservices healthcare socialassistance,50k-74k,4,Arizona,us-az-04,1
+2020,4_CA,Educationalservices healthcare socialassistance,150k and more,4,California,us-ca-04,1
+2020,4_CO,Educationalservices healthcare socialassistance,150k and more,4,Colorado,us-co-04,1
+2020,4_CT,Educationalservices healthcare socialassistance,150k and more,4,Connecticut,us-ct-04,1
+2020,4_FL,Educationalservices healthcare socialassistance,50k-74k,4,Florida,us-fl-04,1
+2020,4_GA,Educationalservices healthcare socialassistance,50k-74k,4,Georgia,us-ga-04,1
+2020,4_IA,Educationalservices healthcare socialassistance,50k-74k,4,Iowa,us-ia-04,1
+2020,4_IL,Educationalservices healthcare socialassistance,50k-74k,4,Illinois,us-il-04,1
+2020,4_IN,Manufacturing,50k-74k,4,Indiana,us-in-04,4
+2020,4_KS,Educationalservices healthcare socialassistance,50k-74k,4,Kansas,us-ks-04,1
+2020,4_KY,Educationalservices healthcare socialassistance,50k-74k,4,Kentucky,us-ky-04,1
+2020,4_LA,Educationalservices healthcare socialassistance,50k-74k,4,Louisiana,us-la-04,1
+2020,4_MA,Educationalservices healthcare socialassistance,150k and more,4,Massachusetts,us-ma-04,1
+2020,4_MD,Educationalservices healthcare socialassistance,150k and more,4,Maryland,us-md-04,1
+2020,4_MI,Manufacturing,50k-74k,4,Michigan,us-mi-04,4
+2020,4_MN,Educationalservices healthcare socialassistance,50k-74k,4,Minnesota,us-mn-04,1
+2020,4_MO,Educationalservices healthcare socialassistance,50k-74k,4,Missouri,us-mo-04,1
+2020,4_MS,Educationalservices healthcare socialassistance,50k-74k,4,Mississippi,us-ms-04,1
+2020,4_NC,Educationalservices healthcare socialassistance,50k-74k,4,North Carolina,us-nc-04,1
+2020,4_NJ,Educationalservices healthcare socialassistance,150k and more,4,New Jersey,us-nj-04,1
+2020,4_NV,Arts entertainment and foodservices,50k-74k,4,Nevada,us-nv-04,3
+2020,4_NY,Educationalservices healthcare socialassistance,150k and more,4,New York,us-ny-04,1
+2020,4_OH,Manufacturing,50k-74k,4,Ohio,us-oh-04,4
+2020,4_OK,Educationalservices healthcare socialassistance,50k-74k,4,Oklahoma,us-ok-04,1
+2020,4_OR,Educationalservices healthcare socialassistance,50k-74k,4,Oregon,us-or-04,1
+2020,4_PA,Educationalservices healthcare socialassistance,150k and more,4,Pennsylvania,us-pa-04,1
+2020,4_SC,Manufacturing,50k-74k,4,South Carolina,us-sc-04,4
+2020,4_TN,Manufacturing,50k-74k,4,Tennessee,us-tn-04,4
+2020,4_TX,Educationalservices healthcare socialassistance,50k-74k,4,Texas,us-tx-04,1
+2020,4_UT,Educationalservices healthcare socialassistance,100k-149k,4,Utah,us-ut-04,1
+2020,4_VA,Educationalservices healthcare socialassistance,50k-74k,4,Virginia,us-va-04,1
+2020,4_WA,Educationalservices healthcare socialassistance,50k-74k,4,Washington,us-wa-04,1
+2020,4_WI,Educationalservices healthcare socialassistance,50k-74k,4,Wisconsin,us-wi-04,1
+2020,40_CA,Educationalservices healthcare socialassistance,150k and more,40,California,us-ca-40,1
+2020,41_CA,Educationalservices healthcare socialassistance,150k and more,41,California,us-ca-41,1
+2020,42_CA,Educationalservices healthcare socialassistance,50k-74k,42,California,us-ca-42,1
+2020,43_CA,Educationalservices healthcare socialassistance,50k-74k,43,California,us-ca-43,1
+2020,44_CA,Educationalservices healthcare socialassistance,50k-74k,44,California,us-ca-44,1
+2020,45_CA,Educationalservices healthcare socialassistance,150k and more,45,California,us-ca-45,1
+2020,46_CA,Manufacturing,100k-149k,46,California,us-ca-46,4
+2020,47_CA,Educationalservices healthcare socialassistance,150k and more,47,California,us-ca-47,1
+2020,48_CA,Educationalservices healthcare socialassistance,150k and more,48,California,us-ca-48,1
+2020,49_CA,Professional services,150k and more,49,California,us-ca-49,2
+2020,5_AL,Educationalservices healthcare socialassistance,50k-74k,5,Alabama,us-al-05,1
+2020,5_AZ,Educationalservices healthcare socialassistance,150k and more,5,Arizona,us-az-05,1
+2020,5_CA,Educationalservices healthcare socialassistance,50k-74k,5,California,us-ca-05,1
+2020,5_CO,Educationalservices healthcare socialassistance,50k-74k,5,Colorado,us-co-05,1
+2020,5_CT,Educationalservices healthcare socialassistance,150k and more,5,Connecticut,us-ct-05,1
+2020,5_FL,Educationalservices healthcare socialassistance,50k-74k,5,Florida,us-fl-05,1
+2020,5_GA,Professional services,150k and more,5,Georgia,us-ga-05,2
+2020,5_IL,Professional services,150k and more,5,Illinois,us-il-05,2
+2020,5_IN,Educationalservices healthcare socialassistance,50k-74k,5,Indiana,us-in-05,1
+2020,5_KY,Educationalservices healthcare socialassistance,50k-74k,5,Kentucky,us-ky-05,1
+2020,5_LA,Educationalservices healthcare socialassistance,50k-74k,5,Louisiana,us-la-05,1
+2020,5_MA,Educationalservices healthcare socialassistance,150k and more,5,Massachusetts,us-ma-05,1
+2020,5_MD,Public administration,150k and more,5,Maryland,us-md-05,5
+2020,5_MI,Manufacturing,50k-74k,5,Michigan,us-mi-05,4
+2020,5_MN,Educationalservices healthcare socialassistance,50k-74k,5,Minnesota,us-mn-05,1
+2020,5_MO,Educationalservices healthcare socialassistance,50k-74k,5,Missouri,us-mo-05,1
+2020,5_NC,Educationalservices healthcare socialassistance,50k-74k,5,North Carolina,us-nc-05,1
+2020,5_NJ,Educationalservices healthcare socialassistance,150k and more,5,New Jersey,us-nj-05,1
+2020,5_NY,Educationalservices healthcare socialassistance,150k and more,5,New York,us-ny-05,1
+2020,5_OH,Manufacturing,50k-74k,5,Ohio,us-oh-05,4
+2020,5_OK,Educationalservices healthcare socialassistance,50k-74k,5,Oklahoma,us-ok-05,1
+2020,5_OR,Educationalservices healthcare socialassistance,50k-74k,5,Oregon,us-or-05,1
+2020,5_PA,Educationalservices healthcare socialassistance,150k and more,5,Pennsylvania,us-pa-05,1
+2020,5_SC,Manufacturing,50k-74k,5,South Carolina,us-sc-05,4
+2020,5_TN,Educationalservices healthcare socialassistance,50k-74k,5,Tennessee,us-tn-05,1
+2020,5_TX,Educationalservices healthcare socialassistance,50k-74k,5,Texas,us-tx-05,1
+2020,5_VA,Educationalservices healthcare socialassistance,50k-74k,5,Virginia,us-va-05,1
+2020,5_WA,Educationalservices healthcare socialassistance,50k-74k,5,Washington,us-wa-05,1
+2020,5_WI,Manufacturing,150k and more,5,Wisconsin,us-wi-05,4
+2020,50_CA,Professional services,150k and more,50,California,us-ca-50,2
+2020,51_CA,Educationalservices healthcare socialassistance,150k and more,51,California,us-ca-51,1
+2020,52_CA,Educationalservices healthcare socialassistance,100k-149k,52,California,us-ca-52,1
+2020,6_AL,Educationalservices healthcare socialassistance,50k-74k,6,Alabama,us-al-06,1
+2020,6_AZ,Educationalservices healthcare socialassistance,50k-74k,6,Arizona,us-az-06,1
+2020,6_CA,Educationalservices healthcare socialassistance,50k-74k,6,California,us-ca-06,1
+2020,6_CO,Educationalservices healthcare socialassistance,150k and more,6,Colorado,us-co-06,1
+2020,6_FL,Educationalservices healthcare socialassistance,50k-74k,6,Florida,us-fl-06,1
+2020,6_GA,Professional services,150k and more,6,Georgia,us-ga-06,2
+2020,6_IL,Educationalservices healthcare socialassistance,100k-149k,6,Illinois,us-il-06,1
+2020,6_IN,Educationalservices healthcare socialassistance,50k-74k,6,Indiana,us-in-06,1
+2020,6_KY,Educationalservices healthcare socialassistance,50k-74k,6,Kentucky,us-ky-06,1
+2020,6_LA,Educationalservices healthcare socialassistance,100k-149k,6,Louisiana,us-la-06,1
+2020,6_MA,Educationalservices healthcare socialassistance,150k and more,6,Massachusetts,us-ma-06,1
+2020,6_MD,Educationalservices healthcare socialassistance,150k and more,6,Maryland,us-md-06,1
+2020,6_MI,Educationalservices healthcare socialassistance,150k and more,6,Michigan,us-mi-06,1
+2020,6_MN,Educationalservices healthcare socialassistance,100k-149k,6,Minnesota,us-mn-06,1
+2020,6_MO,Educationalservices healthcare socialassistance,50k-74k,6,Missouri,us-mo-06,1
+2020,6_NC,Educationalservices healthcare socialassistance,50k-74k,6,North Carolina,us-nc-06,1
+2020,6_NJ,Educationalservices healthcare socialassistance,150k and more,6,New Jersey,us-nj-06,1
+2020,6_NY,Educationalservices healthcare socialassistance,50k-74k,6,New York,us-ny-06,1
+2020,6_OH,Educationalservices healthcare socialassistance,50k-74k,6,Ohio,us-oh-06,1
+2020,6_OR,Educationalservices healthcare socialassistance,100k-149k,6,Oregon,us-or-06,1
+2020,6_PA,Educationalservices healthcare socialassistance,150k and more,6,Pennsylvania,us-pa-06,1
+2020,6_SC,Educationalservices healthcare socialassistance,50k-74k,6,South Carolina,us-sc-06,1
+2020,6_TN,Educationalservices healthcare socialassistance,50k-74k,6,Tennessee,us-tn-06,1
+2020,6_TX,Educationalservices healthcare socialassistance,50k-74k,6,Texas,us-tx-06,1
+2020,6_VA,Educationalservices healthcare socialassistance,50k-74k,6,Virginia,us-va-06,1
+2020,6_WA,Educationalservices healthcare socialassistance,50k-74k,6,Washington,us-wa-06,1
+2020,6_WI,Manufacturing,50k-74k,6,Wisconsin,us-wi-06,4
+2020,7_AL,Educationalservices healthcare socialassistance,50k-74k,7,Alabama,us-al-07,1
+2020,7_AZ,Educationalservices healthcare socialassistance,50k-74k,7,Arizona,us-az-07,1
+2020,7_CA,Educationalservices healthcare socialassistance,50k-74k,7,California,us-ca-07,1
+2020,7_CO,Educationalservices healthcare socialassistance,150k and more,7,Colorado,us-co-07,1
+2020,7_FL,Educationalservices healthcare socialassistance,50k-74k,7,Florida,us-fl-07,1
+2020,7_GA,Professional services,150k and more,7,Georgia,us-ga-07,2
+2020,7_IL,Educationalservices healthcare socialassistance,150k and more,7,Illinois,us-il-07,1
+2020,7_IN,Educationalservices healthcare socialassistance,50k-74k,7,Indiana,us-in-07,1
+2020,7_MA,Educationalservices healthcare socialassistance,150k and more,7,Massachusetts,us-ma-07,1
+2020,7_MD,Educationalservices healthcare socialassistance,50k-74k,7,Maryland,us-md-07,1
+2020,7_MI,Educationalservices healthcare socialassistance,50k-74k,7,Michigan,us-mi-07,1
+2020,7_MN,Educationalservices healthcare socialassistance,50k-74k,7,Minnesota,us-mn-07,1
+2020,7_MO,Educationalservices healthcare socialassistance,50k-74k,7,Missouri,us-mo-07,1
+2020,7_NC,Educationalservices healthcare socialassistance,50k-74k,7,North Carolina,us-nc-07,1
+2020,7_NJ,Educationalservices healthcare socialassistance,150k and more,7,New Jersey,us-nj-07,1
+2020,7_NY,Educationalservices healthcare socialassistance,150k and more,7,New York,us-ny-07,1
+2020,7_OH,Educationalservices healthcare socialassistance,100k-149k,7,Ohio,us-oh-07,1
+2020,7_PA,Educationalservices healthcare socialassistance,50k-74k,7,Pennsylvania,us-pa-07,1
+2020,7_SC,Educationalservices healthcare socialassistance,50k-74k,7,South Carolina,us-sc-07,1
+2020,7_TN,Educationalservices healthcare socialassistance,50k-74k,7,Tennessee,us-tn-07,1
+2020,7_TX,Educationalservices healthcare socialassistance,150k and more,7,Texas,us-tx-07,1
+2020,7_VA,Educationalservices healthcare socialassistance,150k and more,7,Virginia,us-va-07,1
+2020,7_WA,Professional services,150k and more,7,Washington,us-wa-07,2
+2020,7_WI,Manufacturing,50k-74k,7,Wisconsin,us-wi-07,4
+2020,8_AZ,Educationalservices healthcare socialassistance,50k-74k,8,Arizona,us-az-08,1
+2020,8_CA,Educationalservices healthcare socialassistance,150k and more,8,California,us-ca-08,1
+2020,8_CO,Educationalservices healthcare socialassistance,100k-149k,8,Colorado,us-co-08,1
+2020,8_FL,Educationalservices healthcare socialassistance,50k-74k,8,Florida,us-fl-08,1
+2020,8_GA,Educationalservices healthcare socialassistance,50k-74k,8,Georgia,us-ga-08,1
+2020,8_IL,Educationalservices healthcare socialassistance,150k and more,8,Illinois,us-il-08,1
+2020,8_IN,Manufacturing,50k-74k,8,Indiana,us-in-08,4
+2020,8_MA,Educationalservices healthcare socialassistance,150k and more,8,Massachusetts,us-ma-08,1
+2020,8_MD,Professional services,150k and more,8,Maryland,us-md-08,2
+2020,8_MI,Educationalservices healthcare socialassistance,50k-74k,8,Michigan,us-mi-08,1
+2020,8_MN,Educationalservices healthcare socialassistance,50k-74k,8,Minnesota,us-mn-08,1
+2020,8_MO,Educationalservices healthcare socialassistance,50k-74k,8,Missouri,us-mo-08,1
+2020,8_NC,Educationalservices healthcare socialassistance,50k-74k,8,North Carolina,us-nc-08,1
+2020,8_NJ,Professional services,150k and more,8,New Jersey,us-nj-08,2
+2020,8_NY,Educationalservices healthcare socialassistance,100k-149k,8,New York,us-ny-08,1
+2020,8_OH,Manufacturing,50k-74k,8,Ohio,us-oh-08,4
+2020,8_PA,Educationalservices healthcare socialassistance,50k-74k,8,Pennsylvania,us-pa-08,1
+2020,8_TN,Educationalservices healthcare socialassistance,50k-74k,8,Tennessee,us-tn-08,1
+2020,8_TX,Educationalservices healthcare socialassistance,100k-149k,8,Texas,us-tx-08,1
+2020,8_VA,Professional services,150k and more,8,Virginia,us-va-08,2
+2020,8_WA,Professional services,150k and more,8,Washington,us-wa-08,2
+2020,8_WI,Manufacturing,50k-74k,8,Wisconsin,us-wi-08,4
+2020,9_AZ,Educationalservices healthcare socialassistance,50k-74k,9,Arizona,us-az-09,1
+2020,9_CA,Educationalservices healthcare socialassistance,150k and more,9,California,us-ca-09,1
+2020,9_FL,Arts entertainment and foodservices,50k-74k,9,Florida,us-fl-09,3
+2020,9_GA,Manufacturing,50k-74k,9,Georgia,us-ga-09,4
+2020,9_IL,Educationalservices healthcare socialassistance,150k and more,9,Illinois,us-il-09,1
+2020,9_IN,Manufacturing,50k-74k,9,Indiana,us-in-09,4
+2020,9_MA,Educationalservices healthcare socialassistance,150k and more,9,Massachusetts,us-ma-09,1
+2020,9_MI,Manufacturing,100k-149k,9,Michigan,us-mi-09,4
+2020,9_NC,Educationalservices healthcare socialassistance,50k-74k,9,North Carolina,us-nc-09,1
+2020,9_NJ,Educationalservices healthcare socialassistance,150k and more,9,New Jersey,us-nj-09,1
+2020,9_NY,Educationalservices healthcare socialassistance,50k-74k,9,New York,us-ny-09,1
+2020,9_OH,Manufacturing,50k-74k,9,Ohio,us-oh-09,4
+2020,9_PA,Educationalservices healthcare socialassistance,50k-74k,9,Pennsylvania,us-pa-09,1
+2020,9_TN,Educationalservices healthcare socialassistance,50k-74k,9,Tennessee,us-tn-09,1
+2020,9_TX,Educationalservices healthcare socialassistance,50k-74k,9,Texas,us-tx-09,1
+2020,9_VA,Educationalservices healthcare socialassistance,50k-74k,9,Virginia,us-va-09,1
+2020,9_WA,Professional services,150k and more,9,Washington,us-wa-09,2
+2021,0_AK,Educationalservices healthcare socialassistance,150k and more,0,Alaska,us-ak-00,1
+2021,0_DC,Professional services,150k and more,0,District of Columbia,us-dc-00,2
+2021,0_DE,Educationalservices healthcare socialassistance,100k-149k,0,Delaware,us-de-00,1
+2021,0_ND,Educationalservices healthcare socialassistance,100k-149k,0,North Dakota,us-nd-00,1
+2021,0_PR,Educationalservices healthcare socialassistance,Less than 5k,0,Puerto Rico,us-pr-00,1
+2021,0_SD,Educationalservices healthcare socialassistance,50k-74k,0,South Dakota,us-sd-00,1
+2021,0_VT,Educationalservices healthcare socialassistance,50k-74k,0,Vermont,us-vt-00,1
+2021,0_WY,Educationalservices healthcare socialassistance,50k-74k,0,Wyoming,us-wy-00,1
+2021,1_AL,Educationalservices healthcare socialassistance,50k-74k,1,Alabama,us-al-01,1
+2021,1_AR,Educationalservices healthcare socialassistance,50k-74k,1,Arkansas,us-ar-01,1
+2021,1_AZ,Educationalservices healthcare socialassistance,150k and more,1,Arizona,us-az-01,1
+2021,1_CA,Educationalservices healthcare socialassistance,50k-74k,1,California,us-ca-01,1
+2021,1_CO,Professional services,150k and more,1,Colorado,us-co-01,2
+2021,1_CT,Educationalservices healthcare socialassistance,150k and more,1,Connecticut,us-ct-01,1
+2021,1_FL,Educationalservices healthcare socialassistance,50k-74k,1,Florida,us-fl-01,1
+2021,1_GA,Educationalservices healthcare socialassistance,50k-74k,1,Georgia,us-ga-01,1
+2021,1_HI,Educationalservices healthcare socialassistance,150k and more,1,Hawaii,us-hi-01,1
+2021,1_IA,Educationalservices healthcare socialassistance,50k-74k,1,Iowa,us-ia-01,1
+2021,1_ID,Educationalservices healthcare socialassistance,50k-74k,1,Idaho,us-id-01,1
+2021,1_IL,Educationalservices healthcare socialassistance,150k and more,1,Illinois,us-il-01,1
+2021,1_IN,Educationalservices healthcare socialassistance,50k-74k,1,Indiana,us-in-01,1
+2021,1_KS,Educationalservices healthcare socialassistance,50k-74k,1,Kansas,us-ks-01,1
+2021,1_KY,Educationalservices healthcare socialassistance,50k-74k,1,Kentucky,us-ky-01,1
+2021,1_LA,Educationalservices healthcare socialassistance,50k-74k,1,Louisiana,us-la-01,1
+2021,1_MA,Educationalservices healthcare socialassistance,100k-149k,1,Massachusetts,us-ma-01,1
+2021,1_MD,Educationalservices healthcare socialassistance,150k and more,1,Maryland,us-md-01,1
+2021,1_ME,Educationalservices healthcare socialassistance,100k-149k,1,Maine,us-me-01,1
+2021,1_MI,Educationalservices healthcare socialassistance,50k-74k,1,Michigan,us-mi-01,1
+2021,1_MN,Educationalservices healthcare socialassistance,50k-74k,1,Minnesota,us-mn-01,1
+2021,1_MO,Educationalservices healthcare socialassistance,50k-74k,1,Missouri,us-mo-01,1
+2021,1_MS,Educationalservices healthcare socialassistance,50k-74k,1,Mississippi,us-ms-01,1
+2021,1_MT,Educationalservices healthcare socialassistance,50k-74k,1,Montana,us-mt-01,1
+2021,1_NC,Educationalservices healthcare socialassistance,50k-74k,1,North Carolina,us-nc-01,1
+2021,1_NE,Educationalservices healthcare socialassistance,50k-74k,1,Nebraska,us-ne-01,1
+2021,1_NH,Educationalservices healthcare socialassistance,150k and more,1,New Hampshire,us-nh-01,1
+2021,1_NJ,Educationalservices healthcare socialassistance,150k and more,1,New Jersey,us-nj-01,1
+2021,1_NM,Educationalservices healthcare socialassistance,50k-74k,1,New Mexico,us-nm-01,1
+2021,1_NV,Arts entertainment and foodservices,50k-74k,1,Nevada,us-nv-01,3
+2021,1_NY,Educationalservices healthcare socialassistance,150k and more,1,New York,us-ny-01,1
+2021,1_OH,Educationalservices healthcare socialassistance,150k and more,1,Ohio,us-oh-01,1
+2021,1_OK,Educationalservices healthcare socialassistance,50k-74k,1,Oklahoma,us-ok-01,1
+2021,1_OR,Manufacturing,150k and more,1,Oregon,us-or-01,4
+2021,1_PA,Educationalservices healthcare socialassistance,150k and more,1,Pennsylvania,us-pa-01,1
+2021,1_RI,Educationalservices healthcare socialassistance,150k and more,1,Rhode Island,us-ri-01,1
+2021,1_SC,Educationalservices healthcare socialassistance,150k and more,1,South Carolina,us-sc-01,1
+2021,1_TN,Educationalservices healthcare socialassistance,50k-74k,1,Tennessee,us-tn-01,1
+2021,1_TX,Educationalservices healthcare socialassistance,50k-74k,1,Texas,us-tx-01,1
+2021,1_UT,Manufacturing,100k-149k,1,Utah,us-ut-01,4
+2021,1_VA,Educationalservices healthcare socialassistance,100k-149k,1,Virginia,us-va-01,1
+2021,1_WA,Professional services,150k and more,1,Washington,us-wa-01,2
+2021,1_WI,Manufacturing,50k-74k,1,Wisconsin,us-wi-01,4
+2021,1_WV,Educationalservices healthcare socialassistance,50k-74k,1,West Virginia,us-wv-01,1
+2021,10_CA,Professional services,150k and more,10,California,us-ca-10,2
+2021,10_FL,Educationalservices healthcare socialassistance,50k-74k,10,Florida,us-fl-10,1
+2021,10_GA,Educationalservices healthcare socialassistance,50k-74k,10,Georgia,us-ga-10,1
+2021,10_IL,Educationalservices healthcare socialassistance,150k and more,10,Illinois,us-il-10,1
+2021,10_MI,Manufacturing,50k-74k,10,Michigan,us-mi-10,4
+2021,10_NC,Manufacturing,50k-74k,10,North Carolina,us-nc-10,4
+2021,10_NJ,Educationalservices healthcare socialassistance,150k and more,10,New Jersey,us-nj-10,1
+2021,10_NY,Professional services,150k and more,10,New York,us-ny-10,2
+2021,10_OH,Educationalservices healthcare socialassistance,50k-74k,10,Ohio,us-oh-10,1
+2021,10_PA,Educationalservices healthcare socialassistance,50k-74k,10,Pennsylvania,us-pa-10,1
+2021,10_TX,Educationalservices healthcare socialassistance,150k and more,10,Texas,us-tx-10,1
+2021,10_VA,Professional services,150k and more,10,Virginia,us-va-10,2
+2021,10_WA,Educationalservices healthcare socialassistance,100k-149k,10,Washington,us-wa-10,1
+2021,11_CA,Professional services,150k and more,11,California,us-ca-11,2
+2021,11_FL,Educationalservices healthcare socialassistance,50k-74k,11,Florida,us-fl-11,1
+2021,11_GA,Professional services,150k and more,11,Georgia,us-ga-11,2
+2021,11_IL,Educationalservices healthcare socialassistance,150k and more,11,Illinois,us-il-11,1
+2021,11_MI,Manufacturing,150k and more,11,Michigan,us-mi-11,4
+2021,11_NC,Educationalservices healthcare socialassistance,50k-74k,11,North Carolina,us-nc-11,1
+2021,11_NJ,Educationalservices healthcare socialassistance,150k and more,11,New Jersey,us-nj-11,1
+2021,11_NY,Educationalservices healthcare socialassistance,150k and more,11,New York,us-ny-11,1
+2021,11_OH,Educationalservices healthcare socialassistance,50k-74k,11,Ohio,us-oh-11,1
+2021,11_PA,Educationalservices healthcare socialassistance,100k-149k,11,Pennsylvania,us-pa-11,1
+2021,11_TX,Educationalservices healthcare socialassistance,50k-74k,11,Texas,us-tx-11,1
+2021,11_VA,Professional services,150k and more,11,Virginia,us-va-11,2
+2021,12_CA,Educationalservices healthcare socialassistance,150k and more,12,California,us-ca-12,1
+2021,12_FL,Educationalservices healthcare socialassistance,50k-74k,12,Florida,us-fl-12,1
+2021,12_GA,Educationalservices healthcare socialassistance,50k-74k,12,Georgia,us-ga-12,1
+2021,12_IL,Educationalservices healthcare socialassistance,50k-74k,12,Illinois,us-il-12,1
+2021,12_MI,Educationalservices healthcare socialassistance,50k-74k,12,Michigan,us-mi-12,1
+2021,12_NC,Educationalservices healthcare socialassistance,150k and more,12,North Carolina,us-nc-12,1
+2021,12_NJ,Educationalservices healthcare socialassistance,150k and more,12,New Jersey,us-nj-12,1
+2021,12_NY,Professional services,150k and more,12,New York,us-ny-12,2
+2021,12_OH,Educationalservices healthcare socialassistance,50k-74k,12,Ohio,us-oh-12,1
+2021,12_PA,Educationalservices healthcare socialassistance,50k-74k,12,Pennsylvania,us-pa-12,1
+2021,12_TX,Educationalservices healthcare socialassistance,100k-149k,12,Texas,us-tx-12,1
+2021,13_CA,Educationalservices healthcare socialassistance,50k-74k,13,California,us-ca-13,1
+2021,13_FL,Educationalservices healthcare socialassistance,50k-74k,13,Florida,us-fl-13,1
+2021,13_GA,Educationalservices healthcare socialassistance,50k-74k,13,Georgia,us-ga-13,1
+2021,13_IL,Educationalservices healthcare socialassistance,50k-74k,13,Illinois,us-il-13,1
+2021,13_MI,Educationalservices healthcare socialassistance,50k-74k,13,Michigan,us-mi-13,1
+2021,13_NC,Educationalservices healthcare socialassistance,100k-149k,13,North Carolina,us-nc-13,1
+2021,13_NY,Educationalservices healthcare socialassistance,50k-74k,13,New York,us-ny-13,1
+2021,13_OH,Educationalservices healthcare socialassistance,50k-74k,13,Ohio,us-oh-13,1
+2021,13_PA,Educationalservices healthcare socialassistance,50k-74k,13,Pennsylvania,us-pa-13,1
+2021,13_TX,Educationalservices healthcare socialassistance,50k-74k,13,Texas,us-tx-13,1
+2021,14_CA,Professional services,150k and more,14,California,us-ca-14,2
+2021,14_FL,Educationalservices healthcare socialassistance,50k-74k,14,Florida,us-fl-14,1
+2021,14_GA,Manufacturing,50k-74k,14,Georgia,us-ga-14,4
+2021,14_IL,Educationalservices healthcare socialassistance,100k-149k,14,Illinois,us-il-14,1
+2021,14_NC,Educationalservices healthcare socialassistance,150k and more,14,North Carolina,us-nc-14,1
+2021,14_NY,Educationalservices healthcare socialassistance,100k-149k,14,New York,us-ny-14,1
+2021,14_OH,Manufacturing,50k-74k,14,Ohio,us-oh-14,4
+2021,14_PA,Educationalservices healthcare socialassistance,50k-74k,14,Pennsylvania,us-pa-14,1
+2021,14_TX,Educationalservices healthcare socialassistance,150k and more,14,Texas,us-tx-14,1
+2021,15_CA,Professional services,150k and more,15,California,us-ca-15,2
+2021,15_FL,Educationalservices healthcare socialassistance,50k-74k,15,Florida,us-fl-15,1
+2021,15_IL,Educationalservices healthcare socialassistance,50k-74k,15,Illinois,us-il-15,1
+2021,15_NY,Educationalservices healthcare socialassistance,50k-74k,15,New York,us-ny-15,1
+2021,15_OH,Educationalservices healthcare socialassistance,100k-149k,15,Ohio,us-oh-15,1
+2021,15_PA,Educationalservices healthcare socialassistance,50k-74k,15,Pennsylvania,us-pa-15,1
+2021,15_TX,Educationalservices healthcare socialassistance,50k-74k,15,Texas,us-tx-15,1
+2021,16_CA,Professional services,150k and more,16,California,us-ca-16,2
+2021,16_FL,Educationalservices healthcare socialassistance,50k-74k,16,Florida,us-fl-16,1
+2021,16_IL,Educationalservices healthcare socialassistance,50k-74k,16,Illinois,us-il-16,1
+2021,16_NY,Educationalservices healthcare socialassistance,150k and more,16,New York,us-ny-16,1
+2021,16_PA,Educationalservices healthcare socialassistance,50k-74k,16,Pennsylvania,us-pa-16,1
+2021,16_TX,Educationalservices healthcare socialassistance,50k-74k,16,Texas,us-tx-16,1
+2021,17_CA,Professional services,150k and more,17,California,us-ca-17,2
+2021,17_FL,Educationalservices healthcare socialassistance,50k-74k,17,Florida,us-fl-17,1
+2021,17_IL,Educationalservices healthcare socialassistance,50k-74k,17,Illinois,us-il-17,1
+2021,17_NY,Educationalservices healthcare socialassistance,150k and more,17,New York,us-ny-17,1
+2021,17_PA,Educationalservices healthcare socialassistance,150k and more,17,Pennsylvania,us-pa-17,1
+2021,17_TX,Educationalservices healthcare socialassistance,50k-74k,17,Texas,us-tx-17,1
+2021,18_CA,Professional services,150k and more,18,California,us-ca-18,2
+2021,18_FL,Educationalservices healthcare socialassistance,50k-74k,18,Florida,us-fl-18,1
+2021,18_NY,Educationalservices healthcare socialassistance,150k and more,18,New York,us-ny-18,1
+2021,18_TX,Educationalservices healthcare socialassistance,50k-74k,18,Texas,us-tx-18,1
+2021,19_CA,Educationalservices healthcare socialassistance,150k and more,19,California,us-ca-19,1
+2021,19_FL,Educationalservices healthcare socialassistance,50k-74k,19,Florida,us-fl-19,1
+2021,19_NY,Educationalservices healthcare socialassistance,50k-74k,19,New York,us-ny-19,1
+2021,19_TX,Educationalservices healthcare socialassistance,50k-74k,19,Texas,us-tx-19,1
+2021,2_AL,Educationalservices healthcare socialassistance,50k-74k,2,Alabama,us-al-02,1
+2021,2_AR,Educationalservices healthcare socialassistance,50k-74k,2,Arkansas,us-ar-02,1
+2021,2_AZ,Educationalservices healthcare socialassistance,50k-74k,2,Arizona,us-az-02,1
+2021,2_CA,Educationalservices healthcare socialassistance,150k and more,2,California,us-ca-02,1
+2021,2_CO,Educationalservices healthcare socialassistance,150k and more,2,Colorado,us-co-02,1
+2021,2_CT,Educationalservices healthcare socialassistance,150k and more,2,Connecticut,us-ct-02,1
+2021,2_FL,Educationalservices healthcare socialassistance,50k-74k,2,Florida,us-fl-02,1
+2021,2_GA,Educationalservices healthcare socialassistance,50k-74k,2,Georgia,us-ga-02,1
+2021,2_HI,Educationalservices healthcare socialassistance,150k and more,2,Hawaii,us-hi-02,1
+2021,2_IA,Educationalservices healthcare socialassistance,50k-74k,2,Iowa,us-ia-02,1
+2021,2_ID,Educationalservices healthcare socialassistance,50k-74k,2,Idaho,us-id-02,1
+2021,2_IL,Educationalservices healthcare socialassistance,50k-74k,2,Illinois,us-il-02,1
+2021,2_IN,Manufacturing,50k-74k,2,Indiana,us-in-02,4
+2021,2_KS,Educationalservices healthcare socialassistance,50k-74k,2,Kansas,us-ks-02,1
+2021,2_KY,Educationalservices healthcare socialassistance,50k-74k,2,Kentucky,us-ky-02,1
+2021,2_LA,Educationalservices healthcare socialassistance,50k-74k,2,Louisiana,us-la-02,1
+2021,2_MA,Educationalservices healthcare socialassistance,150k and more,2,Massachusetts,us-ma-02,1
+2021,2_MD,Educationalservices healthcare socialassistance,150k and more,2,Maryland,us-md-02,1
+2021,2_ME,Educationalservices healthcare socialassistance,50k-74k,2,Maine,us-me-02,1
+2021,2_MI,Manufacturing,50k-74k,2,Michigan,us-mi-02,4
+2021,2_MN,Educationalservices healthcare socialassistance,150k and more,2,Minnesota,us-mn-02,1
+2021,2_MO,Educationalservices healthcare socialassistance,150k and more,2,Missouri,us-mo-02,1
+2021,2_MS,Educationalservices healthcare socialassistance,50k-74k,2,Mississippi,us-ms-02,1
+2021,2_MT,Educationalservices healthcare socialassistance,50k-74k,2,Montana,us-mt-02,1
+2021,2_NC,Professional services,150k and more,2,North Carolina,us-nc-02,2
+2021,2_NE,Educationalservices healthcare socialassistance,100k-149k,2,Nebraska,us-ne-02,1
+2021,2_NH,Educationalservices healthcare socialassistance,150k and more,2,New Hampshire,us-nh-02,1
+2021,2_NJ,Educationalservices healthcare socialassistance,100k-149k,2,New Jersey,us-nj-02,1
+2021,2_NM,Educationalservices healthcare socialassistance,50k-74k,2,New Mexico,us-nm-02,1
+2021,2_NV,Educationalservices healthcare socialassistance,100k-149k,2,Nevada,us-nv-02,1
+2021,2_NY,Educationalservices healthcare socialassistance,150k and more,2,New York,us-ny-02,1
+2021,2_OH,Educationalservices healthcare socialassistance,50k-74k,2,Ohio,us-oh-02,1
+2021,2_OK,Educationalservices healthcare socialassistance,50k-74k,2,Oklahoma,us-ok-02,1
+2021,2_OR,Educationalservices healthcare socialassistance,50k-74k,2,Oregon,us-or-02,1
+2021,2_PA,Educationalservices healthcare socialassistance,50k-74k,2,Pennsylvania,us-pa-02,1
+2021,2_RI,Educationalservices healthcare socialassistance,100k-149k,2,Rhode Island,us-ri-02,1
+2021,2_SC,Educationalservices healthcare socialassistance,50k-74k,2,South Carolina,us-sc-02,1
+2021,2_TN,Educationalservices healthcare socialassistance,50k-74k,2,Tennessee,us-tn-02,1
+2021,2_TX,Educationalservices healthcare socialassistance,150k and more,2,Texas,us-tx-02,1
+2021,2_UT,Educationalservices healthcare socialassistance,100k-149k,2,Utah,us-ut-02,1
+2021,2_VA,Educationalservices healthcare socialassistance,100k-149k,2,Virginia,us-va-02,1
+2021,2_WA,Educationalservices healthcare socialassistance,100k-149k,2,Washington,us-wa-02,1
+2021,2_WI,Educationalservices healthcare socialassistance,150k and more,2,Wisconsin,us-wi-02,1
+2021,2_WV,Educationalservices healthcare socialassistance,50k-74k,2,West Virginia,us-wv-02,1
+2021,20_CA,Educationalservices healthcare socialassistance,50k-74k,20,California,us-ca-20,1
+2021,20_FL,Educationalservices healthcare socialassistance,50k-74k,20,Florida,us-fl-20,1
+2021,20_NY,Educationalservices healthcare socialassistance,100k-149k,20,New York,us-ny-20,1
+2021,20_TX,Educationalservices healthcare socialassistance,50k-74k,20,Texas,us-tx-20,1
+2021,21_CA,Educationalservices healthcare socialassistance,50k-74k,21,California,us-ca-21,1
+2021,21_FL,Educationalservices healthcare socialassistance,50k-74k,21,Florida,us-fl-21,1
+2021,21_NY,Educationalservices healthcare socialassistance,50k-74k,21,New York,us-ny-21,1
+2021,21_TX,Educationalservices healthcare socialassistance,100k-149k,21,Texas,us-tx-21,1
+2021,22_CA,Educationalservices healthcare socialassistance,50k-74k,22,California,us-ca-22,1
+2021,22_FL,Educationalservices healthcare socialassistance,150k and more,22,Florida,us-fl-22,1
+2021,22_NY,Educationalservices healthcare socialassistance,50k-74k,22,New York,us-ny-22,1
+2021,22_TX,Educationalservices healthcare socialassistance,150k and more,22,Texas,us-tx-22,1
+2021,23_CA,Educationalservices healthcare socialassistance,50k-74k,23,California,us-ca-23,1
+2021,23_FL,Educationalservices healthcare socialassistance,150k and more,23,Florida,us-fl-23,1
+2021,23_NY,Educationalservices healthcare socialassistance,50k-74k,23,New York,us-ny-23,1
+2021,23_TX,Educationalservices healthcare socialassistance,150k and more,23,Texas,us-tx-23,1
+2021,24_CA,Educationalservices healthcare socialassistance,150k and more,24,California,us-ca-24,1
+2021,24_FL,Educationalservices healthcare socialassistance,50k-74k,24,Florida,us-fl-24,1
+2021,24_NY,Educationalservices healthcare socialassistance,50k-74k,24,New York,us-ny-24,1
+2021,24_TX,Professional services,150k and more,24,Texas,us-tx-24,2
+2021,25_CA,Educationalservices healthcare socialassistance,50k-74k,25,California,us-ca-25,1
+2021,25_FL,Educationalservices healthcare socialassistance,150k and more,25,Florida,us-fl-25,1
+2021,25_NY,Educationalservices healthcare socialassistance,50k-74k,25,New York,us-ny-25,1
+2021,25_TX,Educationalservices healthcare socialassistance,50k-74k,25,Texas,us-tx-25,1
+2021,26_CA,Educationalservices healthcare socialassistance,150k and more,26,California,us-ca-26,1
+2021,26_FL,Educationalservices healthcare socialassistance,50k-74k,26,Florida,us-fl-26,1
+2021,26_NY,Educationalservices healthcare socialassistance,50k-74k,26,New York,us-ny-26,1
+2021,26_TX,Educationalservices healthcare socialassistance,150k and more,26,Texas,us-tx-26,1
+2021,27_CA,Educationalservices healthcare socialassistance,150k and more,27,California,us-ca-27,1
+2021,27_FL,Educationalservices healthcare socialassistance,150k and more,27,Florida,us-fl-27,1
+2021,27_TX,Educationalservices healthcare socialassistance,50k-74k,27,Texas,us-tx-27,1
+2021,28_CA,Educationalservices healthcare socialassistance,150k and more,28,California,us-ca-28,1
+2021,28_FL,Educationalservices healthcare socialassistance,50k-74k,28,Florida,us-fl-28,1
+2021,28_TX,Educationalservices healthcare socialassistance,50k-74k,28,Texas,us-tx-28,1
+2021,29_CA,Educationalservices healthcare socialassistance,150k and more,29,California,us-ca-29,1
+2021,29_TX,Construction,50k-74k,29,Texas,us-tx-29,6
+2021,3_AL,Educationalservices healthcare socialassistance,50k-74k,3,Alabama,us-al-03,1
+2021,3_AR,Educationalservices healthcare socialassistance,50k-74k,3,Arkansas,us-ar-03,1
+2021,3_AZ,Educationalservices healthcare socialassistance,50k-74k,3,Arizona,us-az-03,1
+2021,3_CA,Educationalservices healthcare socialassistance,150k and more,3,California,us-ca-03,1
+2021,3_CO,Educationalservices healthcare socialassistance,50k-74k,3,Colorado,us-co-03,1
+2021,3_CT,Educationalservices healthcare socialassistance,150k and more,3,Connecticut,us-ct-03,1
+2021,3_FL,Educationalservices healthcare socialassistance,50k-74k,3,Florida,us-fl-03,1
+2021,3_GA,Educationalservices healthcare socialassistance,50k-74k,3,Georgia,us-ga-03,1
+2021,3_IA,Educationalservices healthcare socialassistance,50k-74k,3,Iowa,us-ia-03,1
+2021,3_IL,Educationalservices healthcare socialassistance,150k and more,3,Illinois,us-il-03,1
+2021,3_IN,Manufacturing,50k-74k,3,Indiana,us-in-03,4
+2021,3_KS,Educationalservices healthcare socialassistance,150k and more,3,Kansas,us-ks-03,1
+2021,3_KY,Educationalservices healthcare socialassistance,50k-74k,3,Kentucky,us-ky-03,1
+2021,3_LA,Educationalservices healthcare socialassistance,50k-74k,3,Louisiana,us-la-03,1
+2021,3_MA,Educationalservices healthcare socialassistance,150k and more,3,Massachusetts,us-ma-03,1
+2021,3_MD,Educationalservices healthcare socialassistance,150k and more,3,Maryland,us-md-03,1
+2021,3_MI,Manufacturing,50k-74k,3,Michigan,us-mi-03,4
+2021,3_MN,Educationalservices healthcare socialassistance,150k and more,3,Minnesota,us-mn-03,1
+2021,3_MO,Educationalservices healthcare socialassistance,100k-149k,3,Missouri,us-mo-03,1
+2021,3_MS,Educationalservices healthcare socialassistance,50k-74k,3,Mississippi,us-ms-03,1
+2021,3_NC,Educationalservices healthcare socialassistance,50k-74k,3,North Carolina,us-nc-03,1
+2021,3_NE,Educationalservices healthcare socialassistance,50k-74k,3,Nebraska,us-ne-03,1
+2021,3_NJ,Educationalservices healthcare socialassistance,150k and more,3,New Jersey,us-nj-03,1
+2021,3_NM,Educationalservices healthcare socialassistance,50k-74k,3,New Mexico,us-nm-03,1
+2021,3_NV,Arts entertainment and foodservices,50k-74k,3,Nevada,us-nv-03,3
+2021,3_NY,Educationalservices healthcare socialassistance,150k and more,3,New York,us-ny-03,1
+2021,3_OH,Educationalservices healthcare socialassistance,50k-74k,3,Ohio,us-oh-03,1
+2021,3_OK,Educationalservices healthcare socialassistance,50k-74k,3,Oklahoma,us-ok-03,1
+2021,3_OR,Educationalservices healthcare socialassistance,50k-74k,3,Oregon,us-or-03,1
+2021,3_PA,Educationalservices healthcare socialassistance,50k-74k,3,Pennsylvania,us-pa-03,1
+2021,3_SC,Educationalservices healthcare socialassistance,50k-74k,3,South Carolina,us-sc-03,1
+2021,3_TN,Educationalservices healthcare socialassistance,50k-74k,3,Tennessee,us-tn-03,1
+2021,3_TX,Educationalservices healthcare socialassistance,150k and more,3,Texas,us-tx-03,1
+2021,3_UT,Educationalservices healthcare socialassistance,50k-74k,3,Utah,us-ut-03,1
+2021,3_VA,Educationalservices healthcare socialassistance,50k-74k,3,Virginia,us-va-03,1
+2021,3_WA,Educationalservices healthcare socialassistance,100k-149k,3,Washington,us-wa-03,1
+2021,3_WI,Educationalservices healthcare socialassistance,50k-74k,3,Wisconsin,us-wi-03,1
+2021,30_CA,Educationalservices healthcare socialassistance,150k and more,30,California,us-ca-30,1
+2021,30_TX,Educationalservices healthcare socialassistance,50k-74k,30,Texas,us-tx-30,1
+2021,31_CA,Educationalservices healthcare socialassistance,150k and more,31,California,us-ca-31,1
+2021,31_TX,Educationalservices healthcare socialassistance,100k-149k,31,Texas,us-tx-31,1
+2021,32_CA,Educationalservices healthcare socialassistance,150k and more,32,California,us-ca-32,1
+2021,32_TX,Professional services,150k and more,32,Texas,us-tx-32,2
+2021,33_CA,Transportation warehousing utilities,50k-74k,33,California,us-ca-33,7
+2021,33_TX,Construction,50k-74k,33,Texas,us-tx-33,6
+2021,34_CA,Educationalservices healthcare socialassistance,50k-74k,34,California,us-ca-34,1
+2021,34_TX,Educationalservices healthcare socialassistance,50k-74k,34,Texas,us-tx-34,1
+2021,35_CA,Educationalservices healthcare socialassistance,150k and more,35,California,us-ca-35,1
+2021,35_TX,Educationalservices healthcare socialassistance,50k-74k,35,Texas,us-tx-35,1
+2021,36_CA,Professional services,150k and more,36,California,us-ca-36,2
+2021,36_TX,Educationalservices healthcare socialassistance,50k-74k,36,Texas,us-tx-36,1
+2021,37_CA,Professional services,150k and more,37,California,us-ca-37,2
+2021,37_TX,Professional services,150k and more,37,Texas,us-tx-37,2
+2021,38_CA,Educationalservices healthcare socialassistance,150k and more,38,California,us-ca-38,1
+2021,38_TX,Educationalservices healthcare socialassistance,150k and more,38,Texas,us-tx-38,1
+2021,39_CA,Educationalservices healthcare socialassistance,150k and more,39,California,us-ca-39,1
+2021,4_AL,Manufacturing,50k-74k,4,Alabama,us-al-04,4
+2021,4_AR,Educationalservices healthcare socialassistance,50k-74k,4,Arkansas,us-ar-04,1
+2021,4_AZ,Educationalservices healthcare socialassistance,50k-74k,4,Arizona,us-az-04,1
+2021,4_CA,Educationalservices healthcare socialassistance,150k and more,4,California,us-ca-04,1
+2021,4_CO,Educationalservices healthcare socialassistance,150k and more,4,Colorado,us-co-04,1
+2021,4_CT,Educationalservices healthcare socialassistance,150k and more,4,Connecticut,us-ct-04,1
+2021,4_FL,Educationalservices healthcare socialassistance,50k-74k,4,Florida,us-fl-04,1
+2021,4_GA,Educationalservices healthcare socialassistance,50k-74k,4,Georgia,us-ga-04,1
+2021,4_IA,Educationalservices healthcare socialassistance,50k-74k,4,Iowa,us-ia-04,1
+2021,4_IL,Educationalservices healthcare socialassistance,50k-74k,4,Illinois,us-il-04,1
+2021,4_IN,Manufacturing,50k-74k,4,Indiana,us-in-04,4
+2021,4_KS,Educationalservices healthcare socialassistance,50k-74k,4,Kansas,us-ks-04,1
+2021,4_KY,Educationalservices healthcare socialassistance,100k-149k,4,Kentucky,us-ky-04,1
+2021,4_LA,Educationalservices healthcare socialassistance,50k-74k,4,Louisiana,us-la-04,1
+2021,4_MA,Educationalservices healthcare socialassistance,150k and more,4,Massachusetts,us-ma-04,1
+2021,4_MD,Educationalservices healthcare socialassistance,150k and more,4,Maryland,us-md-04,1
+2021,4_MI,Manufacturing,50k-74k,4,Michigan,us-mi-04,4
+2021,4_MN,Educationalservices healthcare socialassistance,150k and more,4,Minnesota,us-mn-04,1
+2021,4_MO,Educationalservices healthcare socialassistance,50k-74k,4,Missouri,us-mo-04,1
+2021,4_MS,Educationalservices healthcare socialassistance,50k-74k,4,Mississippi,us-ms-04,1
+2021,4_NC,Educationalservices healthcare socialassistance,150k and more,4,North Carolina,us-nc-04,1
+2021,4_NJ,Educationalservices healthcare socialassistance,150k and more,4,New Jersey,us-nj-04,1
+2021,4_NV,Arts entertainment and foodservices,100k-149k,4,Nevada,us-nv-04,3
+2021,4_NY,Educationalservices healthcare socialassistance,150k and more,4,New York,us-ny-04,1
+2021,4_OH,Manufacturing,50k-74k,4,Ohio,us-oh-04,4
+2021,4_OK,Educationalservices healthcare socialassistance,50k-74k,4,Oklahoma,us-ok-04,1
+2021,4_OR,Educationalservices healthcare socialassistance,50k-74k,4,Oregon,us-or-04,1
+2021,4_PA,Educationalservices healthcare socialassistance,150k and more,4,Pennsylvania,us-pa-04,1
+2021,4_SC,Manufacturing,50k-74k,4,South Carolina,us-sc-04,4
+2021,4_TN,Manufacturing,50k-74k,4,Tennessee,us-tn-04,4
+2021,4_TX,Educationalservices healthcare socialassistance,50k-74k,4,Texas,us-tx-04,1
+2021,4_UT,Educationalservices healthcare socialassistance,100k-149k,4,Utah,us-ut-04,1
+2021,4_VA,Educationalservices healthcare socialassistance,50k-74k,4,Virginia,us-va-04,1
+2021,4_WA,Educationalservices healthcare socialassistance,50k-74k,4,Washington,us-wa-04,1
+2021,4_WI,Educationalservices healthcare socialassistance,50k-74k,4,Wisconsin,us-wi-04,1
+2021,40_CA,Educationalservices healthcare socialassistance,150k and more,40,California,us-ca-40,1
+2021,41_CA,Educationalservices healthcare socialassistance,150k and more,41,California,us-ca-41,1
+2021,42_CA,Educationalservices healthcare socialassistance,50k-74k,42,California,us-ca-42,1
+2021,43_CA,Educationalservices healthcare socialassistance,150k and more,43,California,us-ca-43,1
+2021,44_CA,Educationalservices healthcare socialassistance,50k-74k,44,California,us-ca-44,1
+2021,45_CA,Educationalservices healthcare socialassistance,150k and more,45,California,us-ca-45,1
+2021,46_CA,Educationalservices healthcare socialassistance,150k and more,46,California,us-ca-46,1
+2021,47_CA,Educationalservices healthcare socialassistance,150k and more,47,California,us-ca-47,1
+2021,48_CA,Educationalservices healthcare socialassistance,150k and more,48,California,us-ca-48,1
+2021,49_CA,Professional services,150k and more,49,California,us-ca-49,2
+2021,5_AL,Educationalservices healthcare socialassistance,150k and more,5,Alabama,us-al-05,1
+2021,5_AZ,Educationalservices healthcare socialassistance,150k and more,5,Arizona,us-az-05,1
+2021,5_CA,Educationalservices healthcare socialassistance,50k-74k,5,California,us-ca-05,1
+2021,5_CO,Educationalservices healthcare socialassistance,100k-149k,5,Colorado,us-co-05,1
+2021,5_CT,Educationalservices healthcare socialassistance,150k and more,5,Connecticut,us-ct-05,1
+2021,5_FL,Educationalservices healthcare socialassistance,150k and more,5,Florida,us-fl-05,1
+2021,5_GA,Professional services,150k and more,5,Georgia,us-ga-05,2
+2021,5_IL,Professional services,150k and more,5,Illinois,us-il-05,2
+2021,5_IN,Educationalservices healthcare socialassistance,150k and more,5,Indiana,us-in-05,1
+2021,5_KY,Educationalservices healthcare socialassistance,50k-74k,5,Kentucky,us-ky-05,1
+2021,5_LA,Educationalservices healthcare socialassistance,50k-74k,5,Louisiana,us-la-05,1
+2021,5_MA,Educationalservices healthcare socialassistance,150k and more,5,Massachusetts,us-ma-05,1
+2021,5_MD,Public administration,150k and more,5,Maryland,us-md-05,5
+2021,5_MI,Manufacturing,50k-74k,5,Michigan,us-mi-05,4
+2021,5_MN,Educationalservices healthcare socialassistance,150k and more,5,Minnesota,us-mn-05,1
+2021,5_MO,Educationalservices healthcare socialassistance,50k-74k,5,Missouri,us-mo-05,1
+2021,5_NC,Educationalservices healthcare socialassistance,50k-74k,5,North Carolina,us-nc-05,1
+2021,5_NJ,Educationalservices healthcare socialassistance,150k and more,5,New Jersey,us-nj-05,1
+2021,5_NY,Educationalservices healthcare socialassistance,150k and more,5,New York,us-ny-05,1
+2021,5_OH,Manufacturing,50k-74k,5,Ohio,us-oh-05,4
+2021,5_OK,Educationalservices healthcare socialassistance,50k-74k,5,Oklahoma,us-ok-05,1
+2021,5_OR,Educationalservices healthcare socialassistance,150k and more,5,Oregon,us-or-05,1
+2021,5_PA,Educationalservices healthcare socialassistance,150k and more,5,Pennsylvania,us-pa-05,1
+2021,5_SC,Manufacturing,50k-74k,5,South Carolina,us-sc-05,4
+2021,5_TN,Educationalservices healthcare socialassistance,150k and more,5,Tennessee,us-tn-05,1
+2021,5_TX,Educationalservices healthcare socialassistance,50k-74k,5,Texas,us-tx-05,1
+2021,5_VA,Educationalservices healthcare socialassistance,150k and more,5,Virginia,us-va-05,1
+2021,5_WA,Educationalservices healthcare socialassistance,50k-74k,5,Washington,us-wa-05,1
+2021,5_WI,Manufacturing,150k and more,5,Wisconsin,us-wi-05,4
+2021,50_CA,Professional services,150k and more,50,California,us-ca-50,2
+2021,51_CA,Educationalservices healthcare socialassistance,150k and more,51,California,us-ca-51,1
+2021,52_CA,Educationalservices healthcare socialassistance,100k-149k,52,California,us-ca-52,1
+2021,6_AL,Educationalservices healthcare socialassistance,50k-74k,6,Alabama,us-al-06,1
+2021,6_AZ,Educationalservices healthcare socialassistance,50k-74k,6,Arizona,us-az-06,1
+2021,6_CA,Educationalservices healthcare socialassistance,50k-74k,6,California,us-ca-06,1
+2021,6_CO,Educationalservices healthcare socialassistance,150k and more,6,Colorado,us-co-06,1
+2021,6_FL,Educationalservices healthcare socialassistance,50k-74k,6,Florida,us-fl-06,1
+2021,6_GA,Professional services,150k and more,6,Georgia,us-ga-06,2
+2021,6_IL,Educationalservices healthcare socialassistance,150k and more,6,Illinois,us-il-06,1
+2021,6_IN,Educationalservices healthcare socialassistance,50k-74k,6,Indiana,us-in-06,1
+2021,6_KY,Educationalservices healthcare socialassistance,50k-74k,6,Kentucky,us-ky-06,1
+2021,6_LA,Educationalservices healthcare socialassistance,150k and more,6,Louisiana,us-la-06,1
+2021,6_MA,Educationalservices healthcare socialassistance,150k and more,6,Massachusetts,us-ma-06,1
+2021,6_MD,Educationalservices healthcare socialassistance,150k and more,6,Maryland,us-md-06,1
+2021,6_MI,Educationalservices healthcare socialassistance,150k and more,6,Michigan,us-mi-06,1
+2021,6_MN,Educationalservices healthcare socialassistance,100k-149k,6,Minnesota,us-mn-06,1
+2021,6_MO,Educationalservices healthcare socialassistance,50k-74k,6,Missouri,us-mo-06,1
+2021,6_NC,Educationalservices healthcare socialassistance,50k-74k,6,North Carolina,us-nc-06,1
+2021,6_NJ,Educationalservices healthcare socialassistance,150k and more,6,New Jersey,us-nj-06,1
+2021,6_NY,Educationalservices healthcare socialassistance,50k-74k,6,New York,us-ny-06,1
+2021,6_OH,Educationalservices healthcare socialassistance,50k-74k,6,Ohio,us-oh-06,1
+2021,6_OR,Educationalservices healthcare socialassistance,100k-149k,6,Oregon,us-or-06,1
+2021,6_PA,Educationalservices healthcare socialassistance,150k and more,6,Pennsylvania,us-pa-06,1
+2021,6_SC,Educationalservices healthcare socialassistance,50k-74k,6,South Carolina,us-sc-06,1
+2021,6_TN,Educationalservices healthcare socialassistance,50k-74k,6,Tennessee,us-tn-06,1
+2021,6_TX,Educationalservices healthcare socialassistance,50k-74k,6,Texas,us-tx-06,1
+2021,6_VA,Educationalservices healthcare socialassistance,50k-74k,6,Virginia,us-va-06,1
+2021,6_WA,Educationalservices healthcare socialassistance,100k-149k,6,Washington,us-wa-06,1
+2021,6_WI,Manufacturing,50k-74k,6,Wisconsin,us-wi-06,4
+2021,7_AL,Educationalservices healthcare socialassistance,50k-74k,7,Alabama,us-al-07,1
+2021,7_AZ,Educationalservices healthcare socialassistance,50k-74k,7,Arizona,us-az-07,1
+2021,7_CA,Educationalservices healthcare socialassistance,100k-149k,7,California,us-ca-07,1
+2021,7_CO,Educationalservices healthcare socialassistance,150k and more,7,Colorado,us-co-07,1
+2021,7_FL,Educationalservices healthcare socialassistance,50k-74k,7,Florida,us-fl-07,1
+2021,7_GA,Educationalservices healthcare socialassistance,150k and more,7,Georgia,us-ga-07,1
+2021,7_IL,Educationalservices healthcare socialassistance,150k and more,7,Illinois,us-il-07,1
+2021,7_IN,Educationalservices healthcare socialassistance,50k-74k,7,Indiana,us-in-07,1
+2021,7_MA,Educationalservices healthcare socialassistance,150k and more,7,Massachusetts,us-ma-07,1
+2021,7_MD,Educationalservices healthcare socialassistance,50k-74k,7,Maryland,us-md-07,1
+2021,7_MI,Educationalservices healthcare socialassistance,50k-74k,7,Michigan,us-mi-07,1
+2021,7_MN,Educationalservices healthcare socialassistance,50k-74k,7,Minnesota,us-mn-07,1
+2021,7_MO,Educationalservices healthcare socialassistance,50k-74k,7,Missouri,us-mo-07,1
+2021,7_NC,Educationalservices healthcare socialassistance,50k-74k,7,North Carolina,us-nc-07,1
+2021,7_NJ,Educationalservices healthcare socialassistance,150k and more,7,New Jersey,us-nj-07,1
+2021,7_NY,Educationalservices healthcare socialassistance,150k and more,7,New York,us-ny-07,1
+2021,7_OH,Educationalservices healthcare socialassistance,150k and more,7,Ohio,us-oh-07,1
+2021,7_PA,Educationalservices healthcare socialassistance,100k-149k,7,Pennsylvania,us-pa-07,1
+2021,7_SC,Educationalservices healthcare socialassistance,50k-74k,7,South Carolina,us-sc-07,1
+2021,7_TN,Educationalservices healthcare socialassistance,50k-74k,7,Tennessee,us-tn-07,1
+2021,7_TX,Educationalservices healthcare socialassistance,150k and more,7,Texas,us-tx-07,1
+2021,7_VA,Educationalservices healthcare socialassistance,150k and more,7,Virginia,us-va-07,1
+2021,7_WA,Professional services,150k and more,7,Washington,us-wa-07,2
+2021,7_WI,Manufacturing,50k-74k,7,Wisconsin,us-wi-07,4
+2021,8_AZ,Educationalservices healthcare socialassistance,100k-149k,8,Arizona,us-az-08,1
+2021,8_CA,Educationalservices healthcare socialassistance,150k and more,8,California,us-ca-08,1
+2021,8_CO,Educationalservices healthcare socialassistance,100k-149k,8,Colorado,us-co-08,1
+2021,8_FL,Educationalservices healthcare socialassistance,50k-74k,8,Florida,us-fl-08,1
+2021,8_GA,Educationalservices healthcare socialassistance,50k-74k,8,Georgia,us-ga-08,1
+2021,8_IL,Educationalservices healthcare socialassistance,150k and more,8,Illinois,us-il-08,1
+2021,8_IN,Manufacturing,50k-74k,8,Indiana,us-in-08,4
+2021,8_MA,Educationalservices healthcare socialassistance,150k and more,8,Massachusetts,us-ma-08,1
+2021,8_MD,Professional services,150k and more,8,Maryland,us-md-08,2
+2021,8_MI,Educationalservices healthcare socialassistance,50k-74k,8,Michigan,us-mi-08,1
+2021,8_MN,Educationalservices healthcare socialassistance,50k-74k,8,Minnesota,us-mn-08,1
+2021,8_MO,Educationalservices healthcare socialassistance,50k-74k,8,Missouri,us-mo-08,1
+2021,8_NC,Educationalservices healthcare socialassistance,50k-74k,8,North Carolina,us-nc-08,1
+2021,8_NJ,Professional services,150k and more,8,New Jersey,us-nj-08,2
+2021,8_NY,Educationalservices healthcare socialassistance,150k and more,8,New York,us-ny-08,1
+2021,8_OH,Manufacturing,50k-74k,8,Ohio,us-oh-08,4
+2021,8_PA,Educationalservices healthcare socialassistance,50k-74k,8,Pennsylvania,us-pa-08,1
+2021,8_TN,Educationalservices healthcare socialassistance,50k-74k,8,Tennessee,us-tn-08,1
+2021,8_TX,Educationalservices healthcare socialassistance,150k and more,8,Texas,us-tx-08,1
+2021,8_VA,Professional services,150k and more,8,Virginia,us-va-08,2
+2021,8_WA,Professional services,150k and more,8,Washington,us-wa-08,2
+2021,8_WI,Manufacturing,50k-74k,8,Wisconsin,us-wi-08,4
+2021,9_AZ,Educationalservices healthcare socialassistance,50k-74k,9,Arizona,us-az-09,1
+2021,9_CA,Educationalservices healthcare socialassistance,150k and more,9,California,us-ca-09,1
+2021,9_FL,Educationalservices healthcare socialassistance,50k-74k,9,Florida,us-fl-09,1
+2021,9_GA,Educationalservices healthcare socialassistance,50k-74k,9,Georgia,us-ga-09,1
+2021,9_IL,Educationalservices healthcare socialassistance,150k and more,9,Illinois,us-il-09,1
+2021,9_IN,Manufacturing,50k-74k,9,Indiana,us-in-09,4
+2021,9_MA,Educationalservices healthcare socialassistance,150k and more,9,Massachusetts,us-ma-09,1
+2021,9_MI,Manufacturing,100k-149k,9,Michigan,us-mi-09,4
+2021,9_NC,Educationalservices healthcare socialassistance,50k-74k,9,North Carolina,us-nc-09,1
+2021,9_NJ,Educationalservices healthcare socialassistance,150k and more,9,New Jersey,us-nj-09,1
+2021,9_NY,Educationalservices healthcare socialassistance,50k-74k,9,New York,us-ny-09,1
+2021,9_OH,Manufacturing,50k-74k,9,Ohio,us-oh-09,4
+2021,9_PA,Educationalservices healthcare socialassistance,50k-74k,9,Pennsylvania,us-pa-09,1
+2021,9_TN,Educationalservices healthcare socialassistance,50k-74k,9,Tennessee,us-tn-09,1
+2021,9_TX,Educationalservices healthcare socialassistance,50k-74k,9,Texas,us-tx-09,1
+2021,9_VA,Educationalservices healthcare socialassistance,50k-74k,9,Virginia,us-va-09,1
+2021,9_WA,Professional services,150k and more,9,Washington,us-wa-09,2

@@ -1,0 +1,2029 @@
+Year,state_code,Industry,Values,Gender,State_name
+2019,AK,Agriculture ,1,Male,Alaska
+2019,AL,Agriculture ,1,Male,Alabama
+2019,AR,Agriculture ,1,Male,Arkansas
+2019,AZ,Agriculture ,1,Male,Arizona
+2019,CA,Agriculture ,1,Male,California
+2019,CO,Agriculture ,1,Male,Colorado
+2019,CT,Agriculture ,1,Male,Connecticut
+2019,DC,Agriculture ,0,Female,District of Columbia
+2019,DE,Agriculture ,1,Male,Delaware
+2019,FL,Agriculture ,1,Male,Florida
+2019,GA,Agriculture ,1,Male,Georgia
+2019,HI,Agriculture ,1,Male,Hawaii
+2019,IA,Agriculture ,1,Male,Iowa
+2019,ID,Agriculture ,1,Male,Idaho
+2019,IL,Agriculture ,1,Male,Illinois
+2019,IN,Agriculture ,1,Male,Indiana
+2019,KS,Agriculture ,1,Male,Kansas
+2019,KY,Agriculture ,1,Male,Kentucky
+2019,LA,Agriculture ,1,Male,Louisiana
+2019,MA,Agriculture ,1,Male,Massachusetts
+2019,MD,Agriculture ,1,Male,Maryland
+2019,ME,Agriculture ,1,Male,Maine
+2019,MI,Agriculture ,1,Male,Michigan
+2019,MN,Agriculture ,1,Male,Minnesota
+2019,MO,Agriculture ,1,Male,Missouri
+2019,MS,Agriculture ,1,Male,Mississippi
+2019,MT,Agriculture ,1,Male,Montana
+2019,NC,Agriculture ,1,Male,North Carolina
+2019,ND,Agriculture ,1,Male,North Dakota
+2019,NE,Agriculture ,1,Male,Nebraska
+2019,NH,Agriculture ,1,Male,New Hampshire
+2019,NJ,Agriculture ,1,Male,New Jersey
+2019,NM,Agriculture ,1,Male,New Mexico
+2019,NV,Agriculture ,1,Male,Nevada
+2019,NY,Agriculture ,1,Male,New York
+2019,OH,Agriculture ,1,Male,Ohio
+2019,OK,Agriculture ,1,Male,Oklahoma
+2019,OR,Agriculture ,1,Male,Oregon
+2019,PA,Agriculture ,1,Male,Pennsylvania
+2019,PR,Agriculture ,1,Male,Puerto Rico
+2019,RI,Agriculture ,1,Male,Rhode Island
+2019,SC,Agriculture ,1,Male,South Carolina
+2019,SD,Agriculture ,1,Male,South Dakota
+2019,TN,Agriculture ,1,Male,Tennessee
+2019,TX,Agriculture ,1,Male,Texas
+2019,UT,Agriculture ,1,Male,Utah
+2019,VA,Agriculture ,1,Male,Virginia
+2019,VT,Agriculture ,1,Male,Vermont
+2019,WA,Agriculture ,1,Male,Washington
+2019,WI,Agriculture ,1,Male,Wisconsin
+2019,WV,Agriculture ,1,Male,West Virginia
+2019,WY,Agriculture ,1,Male,Wyoming
+2020,AK,Agriculture ,1,Male,Alaska
+2020,AL,Agriculture ,1,Male,Alabama
+2020,AR,Agriculture ,1,Male,Arkansas
+2020,AZ,Agriculture ,1,Male,Arizona
+2020,CA,Agriculture ,1,Male,California
+2020,CO,Agriculture ,1,Male,Colorado
+2020,CT,Agriculture ,1,Male,Connecticut
+2020,DC,Agriculture ,0,Female,District of Columbia
+2020,DE,Agriculture ,1,Male,Delaware
+2020,FL,Agriculture ,1,Male,Florida
+2020,GA,Agriculture ,1,Male,Georgia
+2020,HI,Agriculture ,1,Male,Hawaii
+2020,IA,Agriculture ,1,Male,Iowa
+2020,ID,Agriculture ,1,Male,Idaho
+2020,IL,Agriculture ,1,Male,Illinois
+2020,IN,Agriculture ,1,Male,Indiana
+2020,KS,Agriculture ,1,Male,Kansas
+2020,KY,Agriculture ,1,Male,Kentucky
+2020,LA,Agriculture ,1,Male,Louisiana
+2020,MA,Agriculture ,1,Male,Massachusetts
+2020,MD,Agriculture ,1,Male,Maryland
+2020,ME,Agriculture ,1,Male,Maine
+2020,MI,Agriculture ,1,Male,Michigan
+2020,MN,Agriculture ,1,Male,Minnesota
+2020,MO,Agriculture ,1,Male,Missouri
+2020,MS,Agriculture ,1,Male,Mississippi
+2020,MT,Agriculture ,1,Male,Montana
+2020,NC,Agriculture ,1,Male,North Carolina
+2020,ND,Agriculture ,1,Male,North Dakota
+2020,NE,Agriculture ,1,Male,Nebraska
+2020,NH,Agriculture ,1,Male,New Hampshire
+2020,NJ,Agriculture ,1,Male,New Jersey
+2020,NM,Agriculture ,1,Male,New Mexico
+2020,NV,Agriculture ,1,Male,Nevada
+2020,NY,Agriculture ,1,Male,New York
+2020,OH,Agriculture ,1,Male,Ohio
+2020,OK,Agriculture ,1,Male,Oklahoma
+2020,OR,Agriculture ,1,Male,Oregon
+2020,PA,Agriculture ,1,Male,Pennsylvania
+2020,PR,Agriculture ,1,Male,Puerto Rico
+2020,RI,Agriculture ,1,Male,Rhode Island
+2020,SC,Agriculture ,1,Male,South Carolina
+2020,SD,Agriculture ,1,Male,South Dakota
+2020,TN,Agriculture ,1,Male,Tennessee
+2020,TX,Agriculture ,1,Male,Texas
+2020,UT,Agriculture ,1,Male,Utah
+2020,VA,Agriculture ,1,Male,Virginia
+2020,VT,Agriculture ,1,Male,Vermont
+2020,WA,Agriculture ,1,Male,Washington
+2020,WI,Agriculture ,1,Male,Wisconsin
+2020,WV,Agriculture ,1,Male,West Virginia
+2020,WY,Agriculture ,1,Male,Wyoming
+2021,AK,Agriculture ,1,Male,Alaska
+2021,AL,Agriculture ,1,Male,Alabama
+2021,AR,Agriculture ,1,Male,Arkansas
+2021,AZ,Agriculture ,1,Male,Arizona
+2021,CA,Agriculture ,1,Male,California
+2021,CO,Agriculture ,1,Male,Colorado
+2021,CT,Agriculture ,1,Male,Connecticut
+2021,DC,Agriculture ,0,Female,District of Columbia
+2021,DE,Agriculture ,1,Male,Delaware
+2021,FL,Agriculture ,1,Male,Florida
+2021,GA,Agriculture ,1,Male,Georgia
+2021,HI,Agriculture ,1,Male,Hawaii
+2021,IA,Agriculture ,1,Male,Iowa
+2021,ID,Agriculture ,1,Male,Idaho
+2021,IL,Agriculture ,1,Male,Illinois
+2021,IN,Agriculture ,1,Male,Indiana
+2021,KS,Agriculture ,1,Male,Kansas
+2021,KY,Agriculture ,1,Male,Kentucky
+2021,LA,Agriculture ,1,Male,Louisiana
+2021,MA,Agriculture ,1,Male,Massachusetts
+2021,MD,Agriculture ,1,Male,Maryland
+2021,ME,Agriculture ,1,Male,Maine
+2021,MI,Agriculture ,1,Male,Michigan
+2021,MN,Agriculture ,1,Male,Minnesota
+2021,MO,Agriculture ,1,Male,Missouri
+2021,MS,Agriculture ,1,Male,Mississippi
+2021,MT,Agriculture ,1,Male,Montana
+2021,NC,Agriculture ,1,Male,North Carolina
+2021,ND,Agriculture ,1,Male,North Dakota
+2021,NE,Agriculture ,1,Male,Nebraska
+2021,NH,Agriculture ,1,Male,New Hampshire
+2021,NJ,Agriculture ,1,Male,New Jersey
+2021,NM,Agriculture ,1,Male,New Mexico
+2021,NV,Agriculture ,1,Male,Nevada
+2021,NY,Agriculture ,1,Male,New York
+2021,OH,Agriculture ,1,Male,Ohio
+2021,OK,Agriculture ,1,Male,Oklahoma
+2021,OR,Agriculture ,1,Male,Oregon
+2021,PA,Agriculture ,1,Male,Pennsylvania
+2021,PR,Agriculture ,1,Male,Puerto Rico
+2021,RI,Agriculture ,1,Male,Rhode Island
+2021,SC,Agriculture ,1,Male,South Carolina
+2021,SD,Agriculture ,1,Male,South Dakota
+2021,TN,Agriculture ,1,Male,Tennessee
+2021,TX,Agriculture ,1,Male,Texas
+2021,UT,Agriculture ,1,Male,Utah
+2021,VA,Agriculture ,1,Male,Virginia
+2021,VT,Agriculture ,1,Male,Vermont
+2021,WA,Agriculture ,1,Male,Washington
+2021,WI,Agriculture ,1,Male,Wisconsin
+2021,WV,Agriculture ,1,Male,West Virginia
+2021,WY,Agriculture ,1,Male,Wyoming
+2019,AK,Construction,1,Male,Alaska
+2019,AL,Construction,1,Male,Alabama
+2019,AR,Construction,1,Male,Arkansas
+2019,AZ,Construction,1,Male,Arizona
+2019,CA,Construction,1,Male,California
+2019,CO,Construction,1,Male,Colorado
+2019,CT,Construction,1,Male,Connecticut
+2019,DC,Construction,1,Male,District of Columbia
+2019,DE,Construction,1,Male,Delaware
+2019,FL,Construction,1,Male,Florida
+2019,GA,Construction,1,Male,Georgia
+2019,HI,Construction,1,Male,Hawaii
+2019,IA,Construction,1,Male,Iowa
+2019,ID,Construction,1,Male,Idaho
+2019,IL,Construction,1,Male,Illinois
+2019,IN,Construction,1,Male,Indiana
+2019,KS,Construction,1,Male,Kansas
+2019,KY,Construction,1,Male,Kentucky
+2019,LA,Construction,1,Male,Louisiana
+2019,MA,Construction,1,Male,Massachusetts
+2019,MD,Construction,1,Male,Maryland
+2019,ME,Construction,1,Male,Maine
+2019,MI,Construction,1,Male,Michigan
+2019,MN,Construction,1,Male,Minnesota
+2019,MO,Construction,1,Male,Missouri
+2019,MS,Construction,1,Male,Mississippi
+2019,MT,Construction,1,Male,Montana
+2019,NC,Construction,1,Male,North Carolina
+2019,ND,Construction,1,Male,North Dakota
+2019,NE,Construction,1,Male,Nebraska
+2019,NH,Construction,1,Male,New Hampshire
+2019,NJ,Construction,1,Male,New Jersey
+2019,NM,Construction,1,Male,New Mexico
+2019,NV,Construction,1,Male,Nevada
+2019,NY,Construction,1,Male,New York
+2019,OH,Construction,1,Male,Ohio
+2019,OK,Construction,1,Male,Oklahoma
+2019,OR,Construction,1,Male,Oregon
+2019,PA,Construction,1,Male,Pennsylvania
+2019,PR,Construction,1,Male,Puerto Rico
+2019,RI,Construction,1,Male,Rhode Island
+2019,SC,Construction,1,Male,South Carolina
+2019,SD,Construction,1,Male,South Dakota
+2019,TN,Construction,1,Male,Tennessee
+2019,TX,Construction,1,Male,Texas
+2019,UT,Construction,1,Male,Utah
+2019,VA,Construction,1,Male,Virginia
+2019,VT,Construction,1,Male,Vermont
+2019,WA,Construction,1,Male,Washington
+2019,WI,Construction,1,Male,Wisconsin
+2019,WV,Construction,1,Male,West Virginia
+2019,WY,Construction,1,Male,Wyoming
+2020,AK,Construction,1,Male,Alaska
+2020,AL,Construction,1,Male,Alabama
+2020,AR,Construction,1,Male,Arkansas
+2020,AZ,Construction,1,Male,Arizona
+2020,CA,Construction,1,Male,California
+2020,CO,Construction,1,Male,Colorado
+2020,CT,Construction,1,Male,Connecticut
+2020,DC,Construction,1,Male,District of Columbia
+2020,DE,Construction,1,Male,Delaware
+2020,FL,Construction,1,Male,Florida
+2020,GA,Construction,1,Male,Georgia
+2020,HI,Construction,1,Male,Hawaii
+2020,IA,Construction,1,Male,Iowa
+2020,ID,Construction,1,Male,Idaho
+2020,IL,Construction,1,Male,Illinois
+2020,IN,Construction,1,Male,Indiana
+2020,KS,Construction,1,Male,Kansas
+2020,KY,Construction,1,Male,Kentucky
+2020,LA,Construction,1,Male,Louisiana
+2020,MA,Construction,1,Male,Massachusetts
+2020,MD,Construction,1,Male,Maryland
+2020,ME,Construction,1,Male,Maine
+2020,MI,Construction,1,Male,Michigan
+2020,MN,Construction,1,Male,Minnesota
+2020,MO,Construction,1,Male,Missouri
+2020,MS,Construction,1,Male,Mississippi
+2020,MT,Construction,1,Male,Montana
+2020,NC,Construction,1,Male,North Carolina
+2020,ND,Construction,1,Male,North Dakota
+2020,NE,Construction,1,Male,Nebraska
+2020,NH,Construction,1,Male,New Hampshire
+2020,NJ,Construction,1,Male,New Jersey
+2020,NM,Construction,1,Male,New Mexico
+2020,NV,Construction,1,Male,Nevada
+2020,NY,Construction,1,Male,New York
+2020,OH,Construction,1,Male,Ohio
+2020,OK,Construction,1,Male,Oklahoma
+2020,OR,Construction,1,Male,Oregon
+2020,PA,Construction,1,Male,Pennsylvania
+2020,PR,Construction,1,Male,Puerto Rico
+2020,RI,Construction,1,Male,Rhode Island
+2020,SC,Construction,1,Male,South Carolina
+2020,SD,Construction,1,Male,South Dakota
+2020,TN,Construction,1,Male,Tennessee
+2020,TX,Construction,1,Male,Texas
+2020,UT,Construction,1,Male,Utah
+2020,VA,Construction,1,Male,Virginia
+2020,VT,Construction,1,Male,Vermont
+2020,WA,Construction,1,Male,Washington
+2020,WI,Construction,1,Male,Wisconsin
+2020,WV,Construction,1,Male,West Virginia
+2020,WY,Construction,1,Male,Wyoming
+2021,AK,Construction,1,Male,Alaska
+2021,AL,Construction,1,Male,Alabama
+2021,AR,Construction,1,Male,Arkansas
+2021,AZ,Construction,1,Male,Arizona
+2021,CA,Construction,1,Male,California
+2021,CO,Construction,1,Male,Colorado
+2021,CT,Construction,1,Male,Connecticut
+2021,DC,Construction,1,Male,District of Columbia
+2021,DE,Construction,1,Male,Delaware
+2021,FL,Construction,1,Male,Florida
+2021,GA,Construction,1,Male,Georgia
+2021,HI,Construction,1,Male,Hawaii
+2021,IA,Construction,1,Male,Iowa
+2021,ID,Construction,1,Male,Idaho
+2021,IL,Construction,1,Male,Illinois
+2021,IN,Construction,1,Male,Indiana
+2021,KS,Construction,1,Male,Kansas
+2021,KY,Construction,1,Male,Kentucky
+2021,LA,Construction,1,Male,Louisiana
+2021,MA,Construction,1,Male,Massachusetts
+2021,MD,Construction,1,Male,Maryland
+2021,ME,Construction,1,Male,Maine
+2021,MI,Construction,1,Male,Michigan
+2021,MN,Construction,1,Male,Minnesota
+2021,MO,Construction,1,Male,Missouri
+2021,MS,Construction,1,Male,Mississippi
+2021,MT,Construction,1,Male,Montana
+2021,NC,Construction,1,Male,North Carolina
+2021,ND,Construction,1,Male,North Dakota
+2021,NE,Construction,1,Male,Nebraska
+2021,NH,Construction,1,Male,New Hampshire
+2021,NJ,Construction,1,Male,New Jersey
+2021,NM,Construction,1,Male,New Mexico
+2021,NV,Construction,1,Male,Nevada
+2021,NY,Construction,1,Male,New York
+2021,OH,Construction,1,Male,Ohio
+2021,OK,Construction,1,Male,Oklahoma
+2021,OR,Construction,1,Male,Oregon
+2021,PA,Construction,1,Male,Pennsylvania
+2021,PR,Construction,1,Male,Puerto Rico
+2021,RI,Construction,1,Male,Rhode Island
+2021,SC,Construction,1,Male,South Carolina
+2021,SD,Construction,1,Male,South Dakota
+2021,TN,Construction,1,Male,Tennessee
+2021,TX,Construction,1,Male,Texas
+2021,UT,Construction,1,Male,Utah
+2021,VA,Construction,1,Male,Virginia
+2021,VT,Construction,1,Male,Vermont
+2021,WA,Construction,1,Male,Washington
+2021,WI,Construction,1,Male,Wisconsin
+2021,WV,Construction,1,Male,West Virginia
+2021,WY,Construction,1,Male,Wyoming
+2019,AK,Manufacturing,1,Male,Alaska
+2019,AL,Manufacturing,1,Male,Alabama
+2019,AR,Manufacturing,1,Male,Arkansas
+2019,AZ,Manufacturing,1,Male,Arizona
+2019,CA,Manufacturing,1,Male,California
+2019,CO,Manufacturing,1,Male,Colorado
+2019,CT,Manufacturing,1,Male,Connecticut
+2019,DC,Manufacturing,1,Male,District of Columbia
+2019,DE,Manufacturing,1,Male,Delaware
+2019,FL,Manufacturing,1,Male,Florida
+2019,GA,Manufacturing,1,Male,Georgia
+2019,HI,Manufacturing,1,Male,Hawaii
+2019,IA,Manufacturing,1,Male,Iowa
+2019,ID,Manufacturing,1,Male,Idaho
+2019,IL,Manufacturing,1,Male,Illinois
+2019,IN,Manufacturing,1,Male,Indiana
+2019,KS,Manufacturing,1,Male,Kansas
+2019,KY,Manufacturing,1,Male,Kentucky
+2019,LA,Manufacturing,1,Male,Louisiana
+2019,MA,Manufacturing,1,Male,Massachusetts
+2019,MD,Manufacturing,1,Male,Maryland
+2019,ME,Manufacturing,1,Male,Maine
+2019,MI,Manufacturing,1,Male,Michigan
+2019,MN,Manufacturing,1,Male,Minnesota
+2019,MO,Manufacturing,1,Male,Missouri
+2019,MS,Manufacturing,1,Male,Mississippi
+2019,MT,Manufacturing,1,Male,Montana
+2019,NC,Manufacturing,1,Male,North Carolina
+2019,ND,Manufacturing,1,Male,North Dakota
+2019,NE,Manufacturing,1,Male,Nebraska
+2019,NH,Manufacturing,1,Male,New Hampshire
+2019,NJ,Manufacturing,1,Male,New Jersey
+2019,NM,Manufacturing,1,Male,New Mexico
+2019,NV,Manufacturing,1,Male,Nevada
+2019,NY,Manufacturing,1,Male,New York
+2019,OH,Manufacturing,1,Male,Ohio
+2019,OK,Manufacturing,1,Male,Oklahoma
+2019,OR,Manufacturing,1,Male,Oregon
+2019,PA,Manufacturing,1,Male,Pennsylvania
+2019,PR,Manufacturing,1,Male,Puerto Rico
+2019,RI,Manufacturing,1,Male,Rhode Island
+2019,SC,Manufacturing,1,Male,South Carolina
+2019,SD,Manufacturing,1,Male,South Dakota
+2019,TN,Manufacturing,1,Male,Tennessee
+2019,TX,Manufacturing,1,Male,Texas
+2019,UT,Manufacturing,1,Male,Utah
+2019,VA,Manufacturing,1,Male,Virginia
+2019,VT,Manufacturing,1,Male,Vermont
+2019,WA,Manufacturing,1,Male,Washington
+2019,WI,Manufacturing,1,Male,Wisconsin
+2019,WV,Manufacturing,1,Male,West Virginia
+2019,WY,Manufacturing,1,Male,Wyoming
+2020,AK,Manufacturing,1,Male,Alaska
+2020,AL,Manufacturing,1,Male,Alabama
+2020,AR,Manufacturing,1,Male,Arkansas
+2020,AZ,Manufacturing,1,Male,Arizona
+2020,CA,Manufacturing,1,Male,California
+2020,CO,Manufacturing,1,Male,Colorado
+2020,CT,Manufacturing,1,Male,Connecticut
+2020,DC,Manufacturing,1,Male,District of Columbia
+2020,DE,Manufacturing,1,Male,Delaware
+2020,FL,Manufacturing,1,Male,Florida
+2020,GA,Manufacturing,1,Male,Georgia
+2020,HI,Manufacturing,1,Male,Hawaii
+2020,IA,Manufacturing,1,Male,Iowa
+2020,ID,Manufacturing,1,Male,Idaho
+2020,IL,Manufacturing,1,Male,Illinois
+2020,IN,Manufacturing,1,Male,Indiana
+2020,KS,Manufacturing,1,Male,Kansas
+2020,KY,Manufacturing,1,Male,Kentucky
+2020,LA,Manufacturing,1,Male,Louisiana
+2020,MA,Manufacturing,1,Male,Massachusetts
+2020,MD,Manufacturing,1,Male,Maryland
+2020,ME,Manufacturing,1,Male,Maine
+2020,MI,Manufacturing,1,Male,Michigan
+2020,MN,Manufacturing,1,Male,Minnesota
+2020,MO,Manufacturing,1,Male,Missouri
+2020,MS,Manufacturing,1,Male,Mississippi
+2020,MT,Manufacturing,1,Male,Montana
+2020,NC,Manufacturing,1,Male,North Carolina
+2020,ND,Manufacturing,1,Male,North Dakota
+2020,NE,Manufacturing,1,Male,Nebraska
+2020,NH,Manufacturing,1,Male,New Hampshire
+2020,NJ,Manufacturing,1,Male,New Jersey
+2020,NM,Manufacturing,1,Male,New Mexico
+2020,NV,Manufacturing,1,Male,Nevada
+2020,NY,Manufacturing,1,Male,New York
+2020,OH,Manufacturing,1,Male,Ohio
+2020,OK,Manufacturing,1,Male,Oklahoma
+2020,OR,Manufacturing,1,Male,Oregon
+2020,PA,Manufacturing,1,Male,Pennsylvania
+2020,PR,Manufacturing,1,Male,Puerto Rico
+2020,RI,Manufacturing,1,Male,Rhode Island
+2020,SC,Manufacturing,1,Male,South Carolina
+2020,SD,Manufacturing,1,Male,South Dakota
+2020,TN,Manufacturing,1,Male,Tennessee
+2020,TX,Manufacturing,1,Male,Texas
+2020,UT,Manufacturing,1,Male,Utah
+2020,VA,Manufacturing,1,Male,Virginia
+2020,VT,Manufacturing,1,Male,Vermont
+2020,WA,Manufacturing,1,Male,Washington
+2020,WI,Manufacturing,1,Male,Wisconsin
+2020,WV,Manufacturing,1,Male,West Virginia
+2020,WY,Manufacturing,1,Male,Wyoming
+2021,AK,Manufacturing,1,Male,Alaska
+2021,AL,Manufacturing,1,Male,Alabama
+2021,AR,Manufacturing,1,Male,Arkansas
+2021,AZ,Manufacturing,1,Male,Arizona
+2021,CA,Manufacturing,1,Male,California
+2021,CO,Manufacturing,1,Male,Colorado
+2021,CT,Manufacturing,1,Male,Connecticut
+2021,DC,Manufacturing,1,Male,District of Columbia
+2021,DE,Manufacturing,1,Male,Delaware
+2021,FL,Manufacturing,1,Male,Florida
+2021,GA,Manufacturing,1,Male,Georgia
+2021,HI,Manufacturing,1,Male,Hawaii
+2021,IA,Manufacturing,1,Male,Iowa
+2021,ID,Manufacturing,1,Male,Idaho
+2021,IL,Manufacturing,1,Male,Illinois
+2021,IN,Manufacturing,1,Male,Indiana
+2021,KS,Manufacturing,1,Male,Kansas
+2021,KY,Manufacturing,1,Male,Kentucky
+2021,LA,Manufacturing,1,Male,Louisiana
+2021,MA,Manufacturing,1,Male,Massachusetts
+2021,MD,Manufacturing,1,Male,Maryland
+2021,ME,Manufacturing,1,Male,Maine
+2021,MI,Manufacturing,1,Male,Michigan
+2021,MN,Manufacturing,1,Male,Minnesota
+2021,MO,Manufacturing,1,Male,Missouri
+2021,MS,Manufacturing,1,Male,Mississippi
+2021,MT,Manufacturing,1,Male,Montana
+2021,NC,Manufacturing,1,Male,North Carolina
+2021,ND,Manufacturing,1,Male,North Dakota
+2021,NE,Manufacturing,1,Male,Nebraska
+2021,NH,Manufacturing,1,Male,New Hampshire
+2021,NJ,Manufacturing,1,Male,New Jersey
+2021,NM,Manufacturing,1,Male,New Mexico
+2021,NV,Manufacturing,1,Male,Nevada
+2021,NY,Manufacturing,1,Male,New York
+2021,OH,Manufacturing,1,Male,Ohio
+2021,OK,Manufacturing,1,Male,Oklahoma
+2021,OR,Manufacturing,1,Male,Oregon
+2021,PA,Manufacturing,1,Male,Pennsylvania
+2021,PR,Manufacturing,1,Male,Puerto Rico
+2021,RI,Manufacturing,1,Male,Rhode Island
+2021,SC,Manufacturing,1,Male,South Carolina
+2021,SD,Manufacturing,1,Male,South Dakota
+2021,TN,Manufacturing,1,Male,Tennessee
+2021,TX,Manufacturing,1,Male,Texas
+2021,UT,Manufacturing,1,Male,Utah
+2021,VA,Manufacturing,1,Male,Virginia
+2021,VT,Manufacturing,1,Male,Vermont
+2021,WA,Manufacturing,1,Male,Washington
+2021,WI,Manufacturing,1,Male,Wisconsin
+2021,WV,Manufacturing,1,Male,West Virginia
+2021,WY,Manufacturing,1,Male,Wyoming
+2019,AK,Wholesale trade,1,Male,Alaska
+2019,AL,Wholesale trade,1,Male,Alabama
+2019,AR,Wholesale trade,1,Male,Arkansas
+2019,AZ,Wholesale trade,1,Male,Arizona
+2019,CA,Wholesale trade,1,Male,California
+2019,CO,Wholesale trade,1,Male,Colorado
+2019,CT,Wholesale trade,1,Male,Connecticut
+2019,DC,Wholesale trade,1,Male,District of Columbia
+2019,DE,Wholesale trade,1,Male,Delaware
+2019,FL,Wholesale trade,1,Male,Florida
+2019,GA,Wholesale trade,1,Male,Georgia
+2019,HI,Wholesale trade,1,Male,Hawaii
+2019,IA,Wholesale trade,1,Male,Iowa
+2019,ID,Wholesale trade,1,Male,Idaho
+2019,IL,Wholesale trade,1,Male,Illinois
+2019,IN,Wholesale trade,1,Male,Indiana
+2019,KS,Wholesale trade,1,Male,Kansas
+2019,KY,Wholesale trade,1,Male,Kentucky
+2019,LA,Wholesale trade,1,Male,Louisiana
+2019,MA,Wholesale trade,1,Male,Massachusetts
+2019,MD,Wholesale trade,1,Male,Maryland
+2019,ME,Wholesale trade,1,Male,Maine
+2019,MI,Wholesale trade,1,Male,Michigan
+2019,MN,Wholesale trade,1,Male,Minnesota
+2019,MO,Wholesale trade,1,Male,Missouri
+2019,MS,Wholesale trade,1,Male,Mississippi
+2019,MT,Wholesale trade,1,Male,Montana
+2019,NC,Wholesale trade,1,Male,North Carolina
+2019,ND,Wholesale trade,1,Male,North Dakota
+2019,NE,Wholesale trade,1,Male,Nebraska
+2019,NH,Wholesale trade,1,Male,New Hampshire
+2019,NJ,Wholesale trade,1,Male,New Jersey
+2019,NM,Wholesale trade,1,Male,New Mexico
+2019,NV,Wholesale trade,1,Male,Nevada
+2019,NY,Wholesale trade,1,Male,New York
+2019,OH,Wholesale trade,1,Male,Ohio
+2019,OK,Wholesale trade,1,Male,Oklahoma
+2019,OR,Wholesale trade,1,Male,Oregon
+2019,PA,Wholesale trade,1,Male,Pennsylvania
+2019,PR,Wholesale trade,1,Male,Puerto Rico
+2019,RI,Wholesale trade,1,Male,Rhode Island
+2019,SC,Wholesale trade,1,Male,South Carolina
+2019,SD,Wholesale trade,1,Male,South Dakota
+2019,TN,Wholesale trade,1,Male,Tennessee
+2019,TX,Wholesale trade,1,Male,Texas
+2019,UT,Wholesale trade,1,Male,Utah
+2019,VA,Wholesale trade,1,Male,Virginia
+2019,VT,Wholesale trade,1,Male,Vermont
+2019,WA,Wholesale trade,1,Male,Washington
+2019,WI,Wholesale trade,1,Male,Wisconsin
+2019,WV,Wholesale trade,1,Male,West Virginia
+2019,WY,Wholesale trade,1,Male,Wyoming
+2020,AK,Wholesale trade,1,Male,Alaska
+2020,AL,Wholesale trade,1,Male,Alabama
+2020,AR,Wholesale trade,1,Male,Arkansas
+2020,AZ,Wholesale trade,1,Male,Arizona
+2020,CA,Wholesale trade,1,Male,California
+2020,CO,Wholesale trade,1,Male,Colorado
+2020,CT,Wholesale trade,1,Male,Connecticut
+2020,DC,Wholesale trade,1,Male,District of Columbia
+2020,DE,Wholesale trade,1,Male,Delaware
+2020,FL,Wholesale trade,1,Male,Florida
+2020,GA,Wholesale trade,1,Male,Georgia
+2020,HI,Wholesale trade,1,Male,Hawaii
+2020,IA,Wholesale trade,1,Male,Iowa
+2020,ID,Wholesale trade,1,Male,Idaho
+2020,IL,Wholesale trade,1,Male,Illinois
+2020,IN,Wholesale trade,1,Male,Indiana
+2020,KS,Wholesale trade,1,Male,Kansas
+2020,KY,Wholesale trade,1,Male,Kentucky
+2020,LA,Wholesale trade,1,Male,Louisiana
+2020,MA,Wholesale trade,1,Male,Massachusetts
+2020,MD,Wholesale trade,1,Male,Maryland
+2020,ME,Wholesale trade,1,Male,Maine
+2020,MI,Wholesale trade,1,Male,Michigan
+2020,MN,Wholesale trade,1,Male,Minnesota
+2020,MO,Wholesale trade,1,Male,Missouri
+2020,MS,Wholesale trade,1,Male,Mississippi
+2020,MT,Wholesale trade,1,Male,Montana
+2020,NC,Wholesale trade,1,Male,North Carolina
+2020,ND,Wholesale trade,1,Male,North Dakota
+2020,NE,Wholesale trade,1,Male,Nebraska
+2020,NH,Wholesale trade,1,Male,New Hampshire
+2020,NJ,Wholesale trade,1,Male,New Jersey
+2020,NM,Wholesale trade,1,Male,New Mexico
+2020,NV,Wholesale trade,1,Male,Nevada
+2020,NY,Wholesale trade,1,Male,New York
+2020,OH,Wholesale trade,1,Male,Ohio
+2020,OK,Wholesale trade,1,Male,Oklahoma
+2020,OR,Wholesale trade,1,Male,Oregon
+2020,PA,Wholesale trade,1,Male,Pennsylvania
+2020,PR,Wholesale trade,1,Male,Puerto Rico
+2020,RI,Wholesale trade,1,Male,Rhode Island
+2020,SC,Wholesale trade,1,Male,South Carolina
+2020,SD,Wholesale trade,1,Male,South Dakota
+2020,TN,Wholesale trade,1,Male,Tennessee
+2020,TX,Wholesale trade,1,Male,Texas
+2020,UT,Wholesale trade,1,Male,Utah
+2020,VA,Wholesale trade,1,Male,Virginia
+2020,VT,Wholesale trade,1,Male,Vermont
+2020,WA,Wholesale trade,1,Male,Washington
+2020,WI,Wholesale trade,1,Male,Wisconsin
+2020,WV,Wholesale trade,1,Male,West Virginia
+2020,WY,Wholesale trade,1,Male,Wyoming
+2021,AK,Wholesale trade,1,Male,Alaska
+2021,AL,Wholesale trade,1,Male,Alabama
+2021,AR,Wholesale trade,1,Male,Arkansas
+2021,AZ,Wholesale trade,1,Male,Arizona
+2021,CA,Wholesale trade,1,Male,California
+2021,CO,Wholesale trade,1,Male,Colorado
+2021,CT,Wholesale trade,1,Male,Connecticut
+2021,DC,Wholesale trade,1,Male,District of Columbia
+2021,DE,Wholesale trade,1,Male,Delaware
+2021,FL,Wholesale trade,1,Male,Florida
+2021,GA,Wholesale trade,1,Male,Georgia
+2021,HI,Wholesale trade,1,Male,Hawaii
+2021,IA,Wholesale trade,1,Male,Iowa
+2021,ID,Wholesale trade,1,Male,Idaho
+2021,IL,Wholesale trade,1,Male,Illinois
+2021,IN,Wholesale trade,1,Male,Indiana
+2021,KS,Wholesale trade,1,Male,Kansas
+2021,KY,Wholesale trade,1,Male,Kentucky
+2021,LA,Wholesale trade,1,Male,Louisiana
+2021,MA,Wholesale trade,1,Male,Massachusetts
+2021,MD,Wholesale trade,1,Male,Maryland
+2021,ME,Wholesale trade,1,Male,Maine
+2021,MI,Wholesale trade,1,Male,Michigan
+2021,MN,Wholesale trade,1,Male,Minnesota
+2021,MO,Wholesale trade,1,Male,Missouri
+2021,MS,Wholesale trade,1,Male,Mississippi
+2021,MT,Wholesale trade,1,Male,Montana
+2021,NC,Wholesale trade,1,Male,North Carolina
+2021,ND,Wholesale trade,1,Male,North Dakota
+2021,NE,Wholesale trade,1,Male,Nebraska
+2021,NH,Wholesale trade,1,Male,New Hampshire
+2021,NJ,Wholesale trade,1,Male,New Jersey
+2021,NM,Wholesale trade,1,Male,New Mexico
+2021,NV,Wholesale trade,1,Male,Nevada
+2021,NY,Wholesale trade,1,Male,New York
+2021,OH,Wholesale trade,1,Male,Ohio
+2021,OK,Wholesale trade,1,Male,Oklahoma
+2021,OR,Wholesale trade,1,Male,Oregon
+2021,PA,Wholesale trade,1,Male,Pennsylvania
+2021,PR,Wholesale trade,1,Male,Puerto Rico
+2021,RI,Wholesale trade,1,Male,Rhode Island
+2021,SC,Wholesale trade,1,Male,South Carolina
+2021,SD,Wholesale trade,1,Male,South Dakota
+2021,TN,Wholesale trade,1,Male,Tennessee
+2021,TX,Wholesale trade,1,Male,Texas
+2021,UT,Wholesale trade,1,Male,Utah
+2021,VA,Wholesale trade,1,Male,Virginia
+2021,VT,Wholesale trade,1,Male,Vermont
+2021,WA,Wholesale trade,1,Male,Washington
+2021,WI,Wholesale trade,1,Male,Wisconsin
+2021,WV,Wholesale trade,1,Male,West Virginia
+2021,WY,Wholesale trade,1,Male,Wyoming
+2019,AK,Retail trade,1,Male,Alaska
+2019,AL,Retail trade,1,Male,Alabama
+2019,AR,Retail trade,1,Male,Arkansas
+2019,AZ,Retail trade,1,Male,Arizona
+2019,CA,Retail trade,1,Male,California
+2019,CO,Retail trade,1,Male,Colorado
+2019,CT,Retail trade,1,Male,Connecticut
+2019,DC,Retail trade,1,Male,District of Columbia
+2019,DE,Retail trade,1,Male,Delaware
+2019,FL,Retail trade,1,Male,Florida
+2019,GA,Retail trade,1,Male,Georgia
+2019,HI,Retail trade,0,Female,Hawaii
+2019,IA,Retail trade,1,Male,Iowa
+2019,ID,Retail trade,1,Male,Idaho
+2019,IL,Retail trade,1,Male,Illinois
+2019,IN,Retail trade,1,Male,Indiana
+2019,KS,Retail trade,1,Male,Kansas
+2019,KY,Retail trade,1,Male,Kentucky
+2019,LA,Retail trade,1,Male,Louisiana
+2019,MA,Retail trade,1,Male,Massachusetts
+2019,MD,Retail trade,1,Male,Maryland
+2019,ME,Retail trade,1,Male,Maine
+2019,MI,Retail trade,1,Male,Michigan
+2019,MN,Retail trade,1,Male,Minnesota
+2019,MO,Retail trade,1,Male,Missouri
+2019,MS,Retail trade,1,Male,Mississippi
+2019,MT,Retail trade,1,Male,Montana
+2019,NC,Retail trade,1,Male,North Carolina
+2019,ND,Retail trade,1,Male,North Dakota
+2019,NE,Retail trade,1,Male,Nebraska
+2019,NH,Retail trade,1,Male,New Hampshire
+2019,NJ,Retail trade,1,Male,New Jersey
+2019,NM,Retail trade,1,Male,New Mexico
+2019,NV,Retail trade,1,Male,Nevada
+2019,NY,Retail trade,1,Male,New York
+2019,OH,Retail trade,1,Male,Ohio
+2019,OK,Retail trade,1,Male,Oklahoma
+2019,OR,Retail trade,1,Male,Oregon
+2019,PA,Retail trade,1,Male,Pennsylvania
+2019,PR,Retail trade,1,Male,Puerto Rico
+2019,RI,Retail trade,1,Male,Rhode Island
+2019,SC,Retail trade,1,Male,South Carolina
+2019,SD,Retail trade,1,Male,South Dakota
+2019,TN,Retail trade,1,Male,Tennessee
+2019,TX,Retail trade,1,Male,Texas
+2019,UT,Retail trade,1,Male,Utah
+2019,VA,Retail trade,1,Male,Virginia
+2019,VT,Retail trade,1,Male,Vermont
+2019,WA,Retail trade,1,Male,Washington
+2019,WI,Retail trade,1,Male,Wisconsin
+2019,WV,Retail trade,1,Male,West Virginia
+2019,WY,Retail trade,1,Male,Wyoming
+2020,AK,Retail trade,1,Male,Alaska
+2020,AL,Retail trade,1,Male,Alabama
+2020,AR,Retail trade,1,Male,Arkansas
+2020,AZ,Retail trade,1,Male,Arizona
+2020,CA,Retail trade,1,Male,California
+2020,CO,Retail trade,1,Male,Colorado
+2020,CT,Retail trade,1,Male,Connecticut
+2020,DC,Retail trade,1,Male,District of Columbia
+2020,DE,Retail trade,1,Male,Delaware
+2020,FL,Retail trade,1,Male,Florida
+2020,GA,Retail trade,1,Male,Georgia
+2020,HI,Retail trade,0,Female,Hawaii
+2020,IA,Retail trade,1,Male,Iowa
+2020,ID,Retail trade,1,Male,Idaho
+2020,IL,Retail trade,1,Male,Illinois
+2020,IN,Retail trade,1,Male,Indiana
+2020,KS,Retail trade,1,Male,Kansas
+2020,KY,Retail trade,1,Male,Kentucky
+2020,LA,Retail trade,1,Male,Louisiana
+2020,MA,Retail trade,1,Male,Massachusetts
+2020,MD,Retail trade,1,Male,Maryland
+2020,ME,Retail trade,1,Male,Maine
+2020,MI,Retail trade,1,Male,Michigan
+2020,MN,Retail trade,1,Male,Minnesota
+2020,MO,Retail trade,1,Male,Missouri
+2020,MS,Retail trade,1,Male,Mississippi
+2020,MT,Retail trade,1,Male,Montana
+2020,NC,Retail trade,1,Male,North Carolina
+2020,ND,Retail trade,1,Male,North Dakota
+2020,NE,Retail trade,1,Male,Nebraska
+2020,NH,Retail trade,1,Male,New Hampshire
+2020,NJ,Retail trade,1,Male,New Jersey
+2020,NM,Retail trade,1,Male,New Mexico
+2020,NV,Retail trade,1,Male,Nevada
+2020,NY,Retail trade,1,Male,New York
+2020,OH,Retail trade,1,Male,Ohio
+2020,OK,Retail trade,1,Male,Oklahoma
+2020,OR,Retail trade,1,Male,Oregon
+2020,PA,Retail trade,1,Male,Pennsylvania
+2020,PR,Retail trade,1,Male,Puerto Rico
+2020,RI,Retail trade,1,Male,Rhode Island
+2020,SC,Retail trade,1,Male,South Carolina
+2020,SD,Retail trade,1,Male,South Dakota
+2020,TN,Retail trade,1,Male,Tennessee
+2020,TX,Retail trade,1,Male,Texas
+2020,UT,Retail trade,1,Male,Utah
+2020,VA,Retail trade,1,Male,Virginia
+2020,VT,Retail trade,1,Male,Vermont
+2020,WA,Retail trade,1,Male,Washington
+2020,WI,Retail trade,1,Male,Wisconsin
+2020,WV,Retail trade,1,Male,West Virginia
+2020,WY,Retail trade,1,Male,Wyoming
+2021,AK,Retail trade,1,Male,Alaska
+2021,AL,Retail trade,1,Male,Alabama
+2021,AR,Retail trade,1,Male,Arkansas
+2021,AZ,Retail trade,1,Male,Arizona
+2021,CA,Retail trade,1,Male,California
+2021,CO,Retail trade,1,Male,Colorado
+2021,CT,Retail trade,1,Male,Connecticut
+2021,DC,Retail trade,1,Male,District of Columbia
+2021,DE,Retail trade,1,Male,Delaware
+2021,FL,Retail trade,1,Male,Florida
+2021,GA,Retail trade,1,Male,Georgia
+2021,HI,Retail trade,0,Female,Hawaii
+2021,IA,Retail trade,1,Male,Iowa
+2021,ID,Retail trade,1,Male,Idaho
+2021,IL,Retail trade,1,Male,Illinois
+2021,IN,Retail trade,1,Male,Indiana
+2021,KS,Retail trade,1,Male,Kansas
+2021,KY,Retail trade,1,Male,Kentucky
+2021,LA,Retail trade,1,Male,Louisiana
+2021,MA,Retail trade,1,Male,Massachusetts
+2021,MD,Retail trade,1,Male,Maryland
+2021,ME,Retail trade,1,Male,Maine
+2021,MI,Retail trade,1,Male,Michigan
+2021,MN,Retail trade,1,Male,Minnesota
+2021,MO,Retail trade,1,Male,Missouri
+2021,MS,Retail trade,1,Male,Mississippi
+2021,MT,Retail trade,1,Male,Montana
+2021,NC,Retail trade,1,Male,North Carolina
+2021,ND,Retail trade,1,Male,North Dakota
+2021,NE,Retail trade,1,Male,Nebraska
+2021,NH,Retail trade,1,Male,New Hampshire
+2021,NJ,Retail trade,1,Male,New Jersey
+2021,NM,Retail trade,1,Male,New Mexico
+2021,NV,Retail trade,1,Male,Nevada
+2021,NY,Retail trade,1,Male,New York
+2021,OH,Retail trade,1,Male,Ohio
+2021,OK,Retail trade,1,Male,Oklahoma
+2021,OR,Retail trade,1,Male,Oregon
+2021,PA,Retail trade,1,Male,Pennsylvania
+2021,PR,Retail trade,1,Male,Puerto Rico
+2021,RI,Retail trade,1,Male,Rhode Island
+2021,SC,Retail trade,1,Male,South Carolina
+2021,SD,Retail trade,1,Male,South Dakota
+2021,TN,Retail trade,1,Male,Tennessee
+2021,TX,Retail trade,1,Male,Texas
+2021,UT,Retail trade,1,Male,Utah
+2021,VA,Retail trade,1,Male,Virginia
+2021,VT,Retail trade,1,Male,Vermont
+2021,WA,Retail trade,1,Male,Washington
+2021,WI,Retail trade,1,Male,Wisconsin
+2021,WV,Retail trade,1,Male,West Virginia
+2021,WY,Retail trade,1,Male,Wyoming
+2019,AK,Transportation warehousing utilities,1,Male,Alaska
+2019,AL,Transportation warehousing utilities,1,Male,Alabama
+2019,AR,Transportation warehousing utilities,1,Male,Arkansas
+2019,AZ,Transportation warehousing utilities,1,Male,Arizona
+2019,CA,Transportation warehousing utilities,1,Male,California
+2019,CO,Transportation warehousing utilities,1,Male,Colorado
+2019,CT,Transportation warehousing utilities,1,Male,Connecticut
+2019,DC,Transportation warehousing utilities,1,Male,District of Columbia
+2019,DE,Transportation warehousing utilities,1,Male,Delaware
+2019,FL,Transportation warehousing utilities,1,Male,Florida
+2019,GA,Transportation warehousing utilities,1,Male,Georgia
+2019,HI,Transportation warehousing utilities,1,Male,Hawaii
+2019,IA,Transportation warehousing utilities,1,Male,Iowa
+2019,ID,Transportation warehousing utilities,1,Male,Idaho
+2019,IL,Transportation warehousing utilities,1,Male,Illinois
+2019,IN,Transportation warehousing utilities,1,Male,Indiana
+2019,KS,Transportation warehousing utilities,1,Male,Kansas
+2019,KY,Transportation warehousing utilities,1,Male,Kentucky
+2019,LA,Transportation warehousing utilities,1,Male,Louisiana
+2019,MA,Transportation warehousing utilities,1,Male,Massachusetts
+2019,MD,Transportation warehousing utilities,1,Male,Maryland
+2019,ME,Transportation warehousing utilities,1,Male,Maine
+2019,MI,Transportation warehousing utilities,1,Male,Michigan
+2019,MN,Transportation warehousing utilities,1,Male,Minnesota
+2019,MO,Transportation warehousing utilities,1,Male,Missouri
+2019,MS,Transportation warehousing utilities,1,Male,Mississippi
+2019,MT,Transportation warehousing utilities,1,Male,Montana
+2019,NC,Transportation warehousing utilities,1,Male,North Carolina
+2019,ND,Transportation warehousing utilities,1,Male,North Dakota
+2019,NE,Transportation warehousing utilities,1,Male,Nebraska
+2019,NH,Transportation warehousing utilities,1,Male,New Hampshire
+2019,NJ,Transportation warehousing utilities,1,Male,New Jersey
+2019,NM,Transportation warehousing utilities,1,Male,New Mexico
+2019,NV,Transportation warehousing utilities,1,Male,Nevada
+2019,NY,Transportation warehousing utilities,1,Male,New York
+2019,OH,Transportation warehousing utilities,1,Male,Ohio
+2019,OK,Transportation warehousing utilities,1,Male,Oklahoma
+2019,OR,Transportation warehousing utilities,1,Male,Oregon
+2019,PA,Transportation warehousing utilities,1,Male,Pennsylvania
+2019,PR,Transportation warehousing utilities,1,Male,Puerto Rico
+2019,RI,Transportation warehousing utilities,1,Male,Rhode Island
+2019,SC,Transportation warehousing utilities,1,Male,South Carolina
+2019,SD,Transportation warehousing utilities,1,Male,South Dakota
+2019,TN,Transportation warehousing utilities,1,Male,Tennessee
+2019,TX,Transportation warehousing utilities,1,Male,Texas
+2019,UT,Transportation warehousing utilities,1,Male,Utah
+2019,VA,Transportation warehousing utilities,1,Male,Virginia
+2019,VT,Transportation warehousing utilities,1,Male,Vermont
+2019,WA,Transportation warehousing utilities,1,Male,Washington
+2019,WI,Transportation warehousing utilities,1,Male,Wisconsin
+2019,WV,Transportation warehousing utilities,1,Male,West Virginia
+2019,WY,Transportation warehousing utilities,1,Male,Wyoming
+2020,AK,Transportation warehousing utilities,1,Male,Alaska
+2020,AL,Transportation warehousing utilities,1,Male,Alabama
+2020,AR,Transportation warehousing utilities,1,Male,Arkansas
+2020,AZ,Transportation warehousing utilities,1,Male,Arizona
+2020,CA,Transportation warehousing utilities,1,Male,California
+2020,CO,Transportation warehousing utilities,1,Male,Colorado
+2020,CT,Transportation warehousing utilities,1,Male,Connecticut
+2020,DC,Transportation warehousing utilities,1,Male,District of Columbia
+2020,DE,Transportation warehousing utilities,1,Male,Delaware
+2020,FL,Transportation warehousing utilities,1,Male,Florida
+2020,GA,Transportation warehousing utilities,1,Male,Georgia
+2020,HI,Transportation warehousing utilities,1,Male,Hawaii
+2020,IA,Transportation warehousing utilities,1,Male,Iowa
+2020,ID,Transportation warehousing utilities,1,Male,Idaho
+2020,IL,Transportation warehousing utilities,1,Male,Illinois
+2020,IN,Transportation warehousing utilities,1,Male,Indiana
+2020,KS,Transportation warehousing utilities,1,Male,Kansas
+2020,KY,Transportation warehousing utilities,1,Male,Kentucky
+2020,LA,Transportation warehousing utilities,1,Male,Louisiana
+2020,MA,Transportation warehousing utilities,1,Male,Massachusetts
+2020,MD,Transportation warehousing utilities,1,Male,Maryland
+2020,ME,Transportation warehousing utilities,1,Male,Maine
+2020,MI,Transportation warehousing utilities,1,Male,Michigan
+2020,MN,Transportation warehousing utilities,1,Male,Minnesota
+2020,MO,Transportation warehousing utilities,1,Male,Missouri
+2020,MS,Transportation warehousing utilities,1,Male,Mississippi
+2020,MT,Transportation warehousing utilities,1,Male,Montana
+2020,NC,Transportation warehousing utilities,1,Male,North Carolina
+2020,ND,Transportation warehousing utilities,1,Male,North Dakota
+2020,NE,Transportation warehousing utilities,1,Male,Nebraska
+2020,NH,Transportation warehousing utilities,1,Male,New Hampshire
+2020,NJ,Transportation warehousing utilities,1,Male,New Jersey
+2020,NM,Transportation warehousing utilities,1,Male,New Mexico
+2020,NV,Transportation warehousing utilities,1,Male,Nevada
+2020,NY,Transportation warehousing utilities,1,Male,New York
+2020,OH,Transportation warehousing utilities,1,Male,Ohio
+2020,OK,Transportation warehousing utilities,1,Male,Oklahoma
+2020,OR,Transportation warehousing utilities,1,Male,Oregon
+2020,PA,Transportation warehousing utilities,1,Male,Pennsylvania
+2020,PR,Transportation warehousing utilities,1,Male,Puerto Rico
+2020,RI,Transportation warehousing utilities,1,Male,Rhode Island
+2020,SC,Transportation warehousing utilities,1,Male,South Carolina
+2020,SD,Transportation warehousing utilities,1,Male,South Dakota
+2020,TN,Transportation warehousing utilities,1,Male,Tennessee
+2020,TX,Transportation warehousing utilities,1,Male,Texas
+2020,UT,Transportation warehousing utilities,1,Male,Utah
+2020,VA,Transportation warehousing utilities,1,Male,Virginia
+2020,VT,Transportation warehousing utilities,1,Male,Vermont
+2020,WA,Transportation warehousing utilities,1,Male,Washington
+2020,WI,Transportation warehousing utilities,1,Male,Wisconsin
+2020,WV,Transportation warehousing utilities,1,Male,West Virginia
+2020,WY,Transportation warehousing utilities,1,Male,Wyoming
+2021,AK,Transportation warehousing utilities,1,Male,Alaska
+2021,AL,Transportation warehousing utilities,1,Male,Alabama
+2021,AR,Transportation warehousing utilities,1,Male,Arkansas
+2021,AZ,Transportation warehousing utilities,1,Male,Arizona
+2021,CA,Transportation warehousing utilities,1,Male,California
+2021,CO,Transportation warehousing utilities,1,Male,Colorado
+2021,CT,Transportation warehousing utilities,1,Male,Connecticut
+2021,DC,Transportation warehousing utilities,1,Male,District of Columbia
+2021,DE,Transportation warehousing utilities,1,Male,Delaware
+2021,FL,Transportation warehousing utilities,1,Male,Florida
+2021,GA,Transportation warehousing utilities,1,Male,Georgia
+2021,HI,Transportation warehousing utilities,1,Male,Hawaii
+2021,IA,Transportation warehousing utilities,1,Male,Iowa
+2021,ID,Transportation warehousing utilities,1,Male,Idaho
+2021,IL,Transportation warehousing utilities,1,Male,Illinois
+2021,IN,Transportation warehousing utilities,1,Male,Indiana
+2021,KS,Transportation warehousing utilities,1,Male,Kansas
+2021,KY,Transportation warehousing utilities,1,Male,Kentucky
+2021,LA,Transportation warehousing utilities,1,Male,Louisiana
+2021,MA,Transportation warehousing utilities,1,Male,Massachusetts
+2021,MD,Transportation warehousing utilities,1,Male,Maryland
+2021,ME,Transportation warehousing utilities,1,Male,Maine
+2021,MI,Transportation warehousing utilities,1,Male,Michigan
+2021,MN,Transportation warehousing utilities,1,Male,Minnesota
+2021,MO,Transportation warehousing utilities,1,Male,Missouri
+2021,MS,Transportation warehousing utilities,1,Male,Mississippi
+2021,MT,Transportation warehousing utilities,1,Male,Montana
+2021,NC,Transportation warehousing utilities,1,Male,North Carolina
+2021,ND,Transportation warehousing utilities,1,Male,North Dakota
+2021,NE,Transportation warehousing utilities,1,Male,Nebraska
+2021,NH,Transportation warehousing utilities,1,Male,New Hampshire
+2021,NJ,Transportation warehousing utilities,1,Male,New Jersey
+2021,NM,Transportation warehousing utilities,1,Male,New Mexico
+2021,NV,Transportation warehousing utilities,1,Male,Nevada
+2021,NY,Transportation warehousing utilities,1,Male,New York
+2021,OH,Transportation warehousing utilities,1,Male,Ohio
+2021,OK,Transportation warehousing utilities,1,Male,Oklahoma
+2021,OR,Transportation warehousing utilities,1,Male,Oregon
+2021,PA,Transportation warehousing utilities,1,Male,Pennsylvania
+2021,PR,Transportation warehousing utilities,1,Male,Puerto Rico
+2021,RI,Transportation warehousing utilities,1,Male,Rhode Island
+2021,SC,Transportation warehousing utilities,1,Male,South Carolina
+2021,SD,Transportation warehousing utilities,1,Male,South Dakota
+2021,TN,Transportation warehousing utilities,1,Male,Tennessee
+2021,TX,Transportation warehousing utilities,1,Male,Texas
+2021,UT,Transportation warehousing utilities,1,Male,Utah
+2021,VA,Transportation warehousing utilities,1,Male,Virginia
+2021,VT,Transportation warehousing utilities,1,Male,Vermont
+2021,WA,Transportation warehousing utilities,1,Male,Washington
+2021,WI,Transportation warehousing utilities,1,Male,Wisconsin
+2021,WV,Transportation warehousing utilities,1,Male,West Virginia
+2021,WY,Transportation warehousing utilities,1,Male,Wyoming
+2019,AK,Information,1,Male,Alaska
+2019,AL,Information,1,Male,Alabama
+2019,AR,Information,1,Male,Arkansas
+2019,AZ,Information,1,Male,Arizona
+2019,CA,Information,1,Male,California
+2019,CO,Information,1,Male,Colorado
+2019,CT,Information,1,Male,Connecticut
+2019,DC,Information,1,Male,District of Columbia
+2019,DE,Information,1,Male,Delaware
+2019,FL,Information,1,Male,Florida
+2019,GA,Information,1,Male,Georgia
+2019,HI,Information,1,Male,Hawaii
+2019,IA,Information,1,Male,Iowa
+2019,ID,Information,1,Male,Idaho
+2019,IL,Information,1,Male,Illinois
+2019,IN,Information,1,Male,Indiana
+2019,KS,Information,1,Male,Kansas
+2019,KY,Information,1,Male,Kentucky
+2019,LA,Information,1,Male,Louisiana
+2019,MA,Information,1,Male,Massachusetts
+2019,MD,Information,1,Male,Maryland
+2019,ME,Information,1,Male,Maine
+2019,MI,Information,1,Male,Michigan
+2019,MN,Information,1,Male,Minnesota
+2019,MO,Information,1,Male,Missouri
+2019,MS,Information,1,Male,Mississippi
+2019,MT,Information,1,Male,Montana
+2019,NC,Information,1,Male,North Carolina
+2019,ND,Information,1,Male,North Dakota
+2019,NE,Information,1,Male,Nebraska
+2019,NH,Information,1,Male,New Hampshire
+2019,NJ,Information,1,Male,New Jersey
+2019,NM,Information,1,Male,New Mexico
+2019,NV,Information,1,Male,Nevada
+2019,NY,Information,1,Male,New York
+2019,OH,Information,1,Male,Ohio
+2019,OK,Information,1,Male,Oklahoma
+2019,OR,Information,1,Male,Oregon
+2019,PA,Information,1,Male,Pennsylvania
+2019,PR,Information,1,Male,Puerto Rico
+2019,RI,Information,1,Male,Rhode Island
+2019,SC,Information,1,Male,South Carolina
+2019,SD,Information,1,Male,South Dakota
+2019,TN,Information,1,Male,Tennessee
+2019,TX,Information,1,Male,Texas
+2019,UT,Information,1,Male,Utah
+2019,VA,Information,1,Male,Virginia
+2019,VT,Information,1,Male,Vermont
+2019,WA,Information,1,Male,Washington
+2019,WI,Information,1,Male,Wisconsin
+2019,WV,Information,1,Male,West Virginia
+2019,WY,Information,1,Male,Wyoming
+2020,AK,Information,1,Male,Alaska
+2020,AL,Information,1,Male,Alabama
+2020,AR,Information,1,Male,Arkansas
+2020,AZ,Information,1,Male,Arizona
+2020,CA,Information,1,Male,California
+2020,CO,Information,1,Male,Colorado
+2020,CT,Information,1,Male,Connecticut
+2020,DC,Information,1,Male,District of Columbia
+2020,DE,Information,1,Male,Delaware
+2020,FL,Information,1,Male,Florida
+2020,GA,Information,1,Male,Georgia
+2020,HI,Information,1,Male,Hawaii
+2020,IA,Information,1,Male,Iowa
+2020,ID,Information,1,Male,Idaho
+2020,IL,Information,1,Male,Illinois
+2020,IN,Information,1,Male,Indiana
+2020,KS,Information,1,Male,Kansas
+2020,KY,Information,1,Male,Kentucky
+2020,LA,Information,1,Male,Louisiana
+2020,MA,Information,1,Male,Massachusetts
+2020,MD,Information,1,Male,Maryland
+2020,ME,Information,1,Male,Maine
+2020,MI,Information,1,Male,Michigan
+2020,MN,Information,1,Male,Minnesota
+2020,MO,Information,1,Male,Missouri
+2020,MS,Information,1,Male,Mississippi
+2020,MT,Information,1,Male,Montana
+2020,NC,Information,1,Male,North Carolina
+2020,ND,Information,1,Male,North Dakota
+2020,NE,Information,1,Male,Nebraska
+2020,NH,Information,1,Male,New Hampshire
+2020,NJ,Information,1,Male,New Jersey
+2020,NM,Information,1,Male,New Mexico
+2020,NV,Information,1,Male,Nevada
+2020,NY,Information,1,Male,New York
+2020,OH,Information,1,Male,Ohio
+2020,OK,Information,1,Male,Oklahoma
+2020,OR,Information,1,Male,Oregon
+2020,PA,Information,1,Male,Pennsylvania
+2020,PR,Information,1,Male,Puerto Rico
+2020,RI,Information,1,Male,Rhode Island
+2020,SC,Information,1,Male,South Carolina
+2020,SD,Information,1,Male,South Dakota
+2020,TN,Information,1,Male,Tennessee
+2020,TX,Information,1,Male,Texas
+2020,UT,Information,1,Male,Utah
+2020,VA,Information,1,Male,Virginia
+2020,VT,Information,1,Male,Vermont
+2020,WA,Information,1,Male,Washington
+2020,WI,Information,1,Male,Wisconsin
+2020,WV,Information,1,Male,West Virginia
+2020,WY,Information,1,Male,Wyoming
+2021,AK,Information,1,Male,Alaska
+2021,AL,Information,1,Male,Alabama
+2021,AR,Information,1,Male,Arkansas
+2021,AZ,Information,1,Male,Arizona
+2021,CA,Information,1,Male,California
+2021,CO,Information,1,Male,Colorado
+2021,CT,Information,1,Male,Connecticut
+2021,DC,Information,1,Male,District of Columbia
+2021,DE,Information,1,Male,Delaware
+2021,FL,Information,1,Male,Florida
+2021,GA,Information,1,Male,Georgia
+2021,HI,Information,1,Male,Hawaii
+2021,IA,Information,1,Male,Iowa
+2021,ID,Information,1,Male,Idaho
+2021,IL,Information,1,Male,Illinois
+2021,IN,Information,1,Male,Indiana
+2021,KS,Information,1,Male,Kansas
+2021,KY,Information,1,Male,Kentucky
+2021,LA,Information,1,Male,Louisiana
+2021,MA,Information,1,Male,Massachusetts
+2021,MD,Information,1,Male,Maryland
+2021,ME,Information,1,Male,Maine
+2021,MI,Information,1,Male,Michigan
+2021,MN,Information,1,Male,Minnesota
+2021,MO,Information,1,Male,Missouri
+2021,MS,Information,1,Male,Mississippi
+2021,MT,Information,1,Male,Montana
+2021,NC,Information,1,Male,North Carolina
+2021,ND,Information,1,Male,North Dakota
+2021,NE,Information,1,Male,Nebraska
+2021,NH,Information,1,Male,New Hampshire
+2021,NJ,Information,1,Male,New Jersey
+2021,NM,Information,1,Male,New Mexico
+2021,NV,Information,1,Male,Nevada
+2021,NY,Information,1,Male,New York
+2021,OH,Information,1,Male,Ohio
+2021,OK,Information,1,Male,Oklahoma
+2021,OR,Information,1,Male,Oregon
+2021,PA,Information,1,Male,Pennsylvania
+2021,PR,Information,1,Male,Puerto Rico
+2021,RI,Information,1,Male,Rhode Island
+2021,SC,Information,1,Male,South Carolina
+2021,SD,Information,1,Male,South Dakota
+2021,TN,Information,1,Male,Tennessee
+2021,TX,Information,1,Male,Texas
+2021,UT,Information,1,Male,Utah
+2021,VA,Information,1,Male,Virginia
+2021,VT,Information,1,Male,Vermont
+2021,WA,Information,1,Male,Washington
+2021,WI,Information,1,Male,Wisconsin
+2021,WV,Information,1,Male,West Virginia
+2021,WY,Information,1,Male,Wyoming
+2019,AK,Finance insurance realestate ,0,Female,Alaska
+2019,AL,Finance insurance realestate ,0,Female,Alabama
+2019,AR,Finance insurance realestate ,0,Female,Arkansas
+2019,AZ,Finance insurance realestate ,0,Female,Arizona
+2019,CA,Finance insurance realestate ,0,Female,California
+2019,CO,Finance insurance realestate ,0,Female,Colorado
+2019,CT,Finance insurance realestate ,1,Male,Connecticut
+2019,DC,Finance insurance realestate ,1,Male,District of Columbia
+2019,DE,Finance insurance realestate ,0,Female,Delaware
+2019,FL,Finance insurance realestate ,0,Female,Florida
+2019,GA,Finance insurance realestate ,0,Female,Georgia
+2019,HI,Finance insurance realestate ,0,Female,Hawaii
+2019,IA,Finance insurance realestate ,0,Female,Iowa
+2019,ID,Finance insurance realestate ,0,Female,Idaho
+2019,IL,Finance insurance realestate ,0,Female,Illinois
+2019,IN,Finance insurance realestate ,0,Female,Indiana
+2019,KS,Finance insurance realestate ,0,Female,Kansas
+2019,KY,Finance insurance realestate ,0,Female,Kentucky
+2019,LA,Finance insurance realestate ,0,Female,Louisiana
+2019,MA,Finance insurance realestate ,1,Male,Massachusetts
+2019,MD,Finance insurance realestate ,0,Female,Maryland
+2019,ME,Finance insurance realestate ,0,Female,Maine
+2019,MI,Finance insurance realestate ,0,Female,Michigan
+2019,MN,Finance insurance realestate ,0,Female,Minnesota
+2019,MO,Finance insurance realestate ,0,Female,Missouri
+2019,MS,Finance insurance realestate ,0,Female,Mississippi
+2019,MT,Finance insurance realestate ,0,Female,Montana
+2019,NC,Finance insurance realestate ,0,Female,North Carolina
+2019,ND,Finance insurance realestate ,0,Female,North Dakota
+2019,NE,Finance insurance realestate ,0,Female,Nebraska
+2019,NH,Finance insurance realestate ,0,Female,New Hampshire
+2019,NJ,Finance insurance realestate ,1,Male,New Jersey
+2019,NM,Finance insurance realestate ,0,Female,New Mexico
+2019,NV,Finance insurance realestate ,0,Female,Nevada
+2019,NY,Finance insurance realestate ,1,Male,New York
+2019,OH,Finance insurance realestate ,0,Female,Ohio
+2019,OK,Finance insurance realestate ,0,Female,Oklahoma
+2019,OR,Finance insurance realestate ,0,Female,Oregon
+2019,PA,Finance insurance realestate ,0,Female,Pennsylvania
+2019,PR,Finance insurance realestate ,0,Female,Puerto Rico
+2019,RI,Finance insurance realestate ,0,Female,Rhode Island
+2019,SC,Finance insurance realestate ,0,Female,South Carolina
+2019,SD,Finance insurance realestate ,0,Female,South Dakota
+2019,TN,Finance insurance realestate ,0,Female,Tennessee
+2019,TX,Finance insurance realestate ,0,Female,Texas
+2019,UT,Finance insurance realestate ,1,Male,Utah
+2019,VA,Finance insurance realestate ,0,Female,Virginia
+2019,VT,Finance insurance realestate ,0,Female,Vermont
+2019,WA,Finance insurance realestate ,0,Female,Washington
+2019,WI,Finance insurance realestate ,0,Female,Wisconsin
+2019,WV,Finance insurance realestate ,0,Female,West Virginia
+2019,WY,Finance insurance realestate ,0,Female,Wyoming
+2020,AK,Finance insurance realestate ,0,Female,Alaska
+2020,AL,Finance insurance realestate ,0,Female,Alabama
+2020,AR,Finance insurance realestate ,0,Female,Arkansas
+2020,AZ,Finance insurance realestate ,0,Female,Arizona
+2020,CA,Finance insurance realestate ,0,Female,California
+2020,CO,Finance insurance realestate ,0,Female,Colorado
+2020,CT,Finance insurance realestate ,1,Male,Connecticut
+2020,DC,Finance insurance realestate ,1,Male,District of Columbia
+2020,DE,Finance insurance realestate ,0,Female,Delaware
+2020,FL,Finance insurance realestate ,0,Female,Florida
+2020,GA,Finance insurance realestate ,0,Female,Georgia
+2020,HI,Finance insurance realestate ,0,Female,Hawaii
+2020,IA,Finance insurance realestate ,0,Female,Iowa
+2020,ID,Finance insurance realestate ,0,Female,Idaho
+2020,IL,Finance insurance realestate ,0,Female,Illinois
+2020,IN,Finance insurance realestate ,0,Female,Indiana
+2020,KS,Finance insurance realestate ,0,Female,Kansas
+2020,KY,Finance insurance realestate ,0,Female,Kentucky
+2020,LA,Finance insurance realestate ,0,Female,Louisiana
+2020,MA,Finance insurance realestate ,1,Male,Massachusetts
+2020,MD,Finance insurance realestate ,0,Female,Maryland
+2020,ME,Finance insurance realestate ,0,Female,Maine
+2020,MI,Finance insurance realestate ,0,Female,Michigan
+2020,MN,Finance insurance realestate ,0,Female,Minnesota
+2020,MO,Finance insurance realestate ,0,Female,Missouri
+2020,MS,Finance insurance realestate ,0,Female,Mississippi
+2020,MT,Finance insurance realestate ,0,Female,Montana
+2020,NC,Finance insurance realestate ,0,Female,North Carolina
+2020,ND,Finance insurance realestate ,0,Female,North Dakota
+2020,NE,Finance insurance realestate ,0,Female,Nebraska
+2020,NH,Finance insurance realestate ,0,Female,New Hampshire
+2020,NJ,Finance insurance realestate ,1,Male,New Jersey
+2020,NM,Finance insurance realestate ,0,Female,New Mexico
+2020,NV,Finance insurance realestate ,0,Female,Nevada
+2020,NY,Finance insurance realestate ,1,Male,New York
+2020,OH,Finance insurance realestate ,0,Female,Ohio
+2020,OK,Finance insurance realestate ,0,Female,Oklahoma
+2020,OR,Finance insurance realestate ,0,Female,Oregon
+2020,PA,Finance insurance realestate ,0,Female,Pennsylvania
+2020,PR,Finance insurance realestate ,0,Female,Puerto Rico
+2020,RI,Finance insurance realestate ,0,Female,Rhode Island
+2020,SC,Finance insurance realestate ,0,Female,South Carolina
+2020,SD,Finance insurance realestate ,0,Female,South Dakota
+2020,TN,Finance insurance realestate ,0,Female,Tennessee
+2020,TX,Finance insurance realestate ,0,Female,Texas
+2020,UT,Finance insurance realestate ,1,Male,Utah
+2020,VA,Finance insurance realestate ,0,Female,Virginia
+2020,VT,Finance insurance realestate ,0,Female,Vermont
+2020,WA,Finance insurance realestate ,0,Female,Washington
+2020,WI,Finance insurance realestate ,0,Female,Wisconsin
+2020,WV,Finance insurance realestate ,0,Female,West Virginia
+2020,WY,Finance insurance realestate ,0,Female,Wyoming
+2021,AK,Finance insurance realestate ,0,Female,Alaska
+2021,AL,Finance insurance realestate ,0,Female,Alabama
+2021,AR,Finance insurance realestate ,0,Female,Arkansas
+2021,AZ,Finance insurance realestate ,0,Female,Arizona
+2021,CA,Finance insurance realestate ,0,Female,California
+2021,CO,Finance insurance realestate ,0,Female,Colorado
+2021,CT,Finance insurance realestate ,1,Male,Connecticut
+2021,DC,Finance insurance realestate ,1,Male,District of Columbia
+2021,DE,Finance insurance realestate ,0,Female,Delaware
+2021,FL,Finance insurance realestate ,0,Female,Florida
+2021,GA,Finance insurance realestate ,0,Female,Georgia
+2021,HI,Finance insurance realestate ,0,Female,Hawaii
+2021,IA,Finance insurance realestate ,0,Female,Iowa
+2021,ID,Finance insurance realestate ,0,Female,Idaho
+2021,IL,Finance insurance realestate ,1,Male,Illinois
+2021,IN,Finance insurance realestate ,0,Female,Indiana
+2021,KS,Finance insurance realestate ,0,Female,Kansas
+2021,KY,Finance insurance realestate ,0,Female,Kentucky
+2021,LA,Finance insurance realestate ,0,Female,Louisiana
+2021,MA,Finance insurance realestate ,1,Male,Massachusetts
+2021,MD,Finance insurance realestate ,0,Female,Maryland
+2021,ME,Finance insurance realestate ,0,Female,Maine
+2021,MI,Finance insurance realestate ,0,Female,Michigan
+2021,MN,Finance insurance realestate ,0,Female,Minnesota
+2021,MO,Finance insurance realestate ,0,Female,Missouri
+2021,MS,Finance insurance realestate ,0,Female,Mississippi
+2021,MT,Finance insurance realestate ,0,Female,Montana
+2021,NC,Finance insurance realestate ,0,Female,North Carolina
+2021,ND,Finance insurance realestate ,0,Female,North Dakota
+2021,NE,Finance insurance realestate ,0,Female,Nebraska
+2021,NH,Finance insurance realestate ,0,Female,New Hampshire
+2021,NJ,Finance insurance realestate ,1,Male,New Jersey
+2021,NM,Finance insurance realestate ,0,Female,New Mexico
+2021,NV,Finance insurance realestate ,0,Female,Nevada
+2021,NY,Finance insurance realestate ,1,Male,New York
+2021,OH,Finance insurance realestate ,0,Female,Ohio
+2021,OK,Finance insurance realestate ,0,Female,Oklahoma
+2021,OR,Finance insurance realestate ,0,Female,Oregon
+2021,PA,Finance insurance realestate ,0,Female,Pennsylvania
+2021,PR,Finance insurance realestate ,0,Female,Puerto Rico
+2021,RI,Finance insurance realestate ,0,Female,Rhode Island
+2021,SC,Finance insurance realestate ,0,Female,South Carolina
+2021,SD,Finance insurance realestate ,0,Female,South Dakota
+2021,TN,Finance insurance realestate ,0,Female,Tennessee
+2021,TX,Finance insurance realestate ,0,Female,Texas
+2021,UT,Finance insurance realestate ,1,Male,Utah
+2021,VA,Finance insurance realestate ,0,Female,Virginia
+2021,VT,Finance insurance realestate ,0,Female,Vermont
+2021,WA,Finance insurance realestate ,0,Female,Washington
+2021,WI,Finance insurance realestate ,0,Female,Wisconsin
+2021,WV,Finance insurance realestate ,0,Female,West Virginia
+2021,WY,Finance insurance realestate ,0,Female,Wyoming
+2019,AK,Professional  services,1,Male,Alaska
+2019,AL,Professional  services,1,Male,Alabama
+2019,AR,Professional  services,1,Male,Arkansas
+2019,AZ,Professional  services,1,Male,Arizona
+2019,CA,Professional  services,1,Male,California
+2019,CO,Professional  services,1,Male,Colorado
+2019,CT,Professional  services,1,Male,Connecticut
+2019,DC,Professional  services,1,Male,District of Columbia
+2019,DE,Professional  services,1,Male,Delaware
+2019,FL,Professional  services,1,Male,Florida
+2019,GA,Professional  services,1,Male,Georgia
+2019,HI,Professional  services,1,Male,Hawaii
+2019,IA,Professional  services,1,Male,Iowa
+2019,ID,Professional  services,1,Male,Idaho
+2019,IL,Professional  services,1,Male,Illinois
+2019,IN,Professional  services,1,Male,Indiana
+2019,KS,Professional  services,1,Male,Kansas
+2019,KY,Professional  services,1,Male,Kentucky
+2019,LA,Professional  services,1,Male,Louisiana
+2019,MA,Professional  services,1,Male,Massachusetts
+2019,MD,Professional  services,1,Male,Maryland
+2019,ME,Professional  services,1,Male,Maine
+2019,MI,Professional  services,1,Male,Michigan
+2019,MN,Professional  services,1,Male,Minnesota
+2019,MO,Professional  services,1,Male,Missouri
+2019,MS,Professional  services,1,Male,Mississippi
+2019,MT,Professional  services,1,Male,Montana
+2019,NC,Professional  services,1,Male,North Carolina
+2019,ND,Professional  services,1,Male,North Dakota
+2019,NE,Professional  services,1,Male,Nebraska
+2019,NH,Professional  services,1,Male,New Hampshire
+2019,NJ,Professional  services,1,Male,New Jersey
+2019,NM,Professional  services,1,Male,New Mexico
+2019,NV,Professional  services,1,Male,Nevada
+2019,NY,Professional  services,1,Male,New York
+2019,OH,Professional  services,1,Male,Ohio
+2019,OK,Professional  services,1,Male,Oklahoma
+2019,OR,Professional  services,1,Male,Oregon
+2019,PA,Professional  services,1,Male,Pennsylvania
+2019,PR,Professional  services,1,Male,Puerto Rico
+2019,RI,Professional  services,1,Male,Rhode Island
+2019,SC,Professional  services,1,Male,South Carolina
+2019,SD,Professional  services,1,Male,South Dakota
+2019,TN,Professional  services,1,Male,Tennessee
+2019,TX,Professional  services,1,Male,Texas
+2019,UT,Professional  services,1,Male,Utah
+2019,VA,Professional  services,1,Male,Virginia
+2019,VT,Professional  services,1,Male,Vermont
+2019,WA,Professional  services,1,Male,Washington
+2019,WI,Professional  services,1,Male,Wisconsin
+2019,WV,Professional  services,1,Male,West Virginia
+2019,WY,Professional  services,1,Male,Wyoming
+2020,AK,Professional  services,1,Male,Alaska
+2020,AL,Professional  services,1,Male,Alabama
+2020,AR,Professional  services,1,Male,Arkansas
+2020,AZ,Professional  services,1,Male,Arizona
+2020,CA,Professional  services,1,Male,California
+2020,CO,Professional  services,1,Male,Colorado
+2020,CT,Professional  services,1,Male,Connecticut
+2020,DC,Professional  services,1,Male,District of Columbia
+2020,DE,Professional  services,1,Male,Delaware
+2020,FL,Professional  services,1,Male,Florida
+2020,GA,Professional  services,1,Male,Georgia
+2020,HI,Professional  services,1,Male,Hawaii
+2020,IA,Professional  services,1,Male,Iowa
+2020,ID,Professional  services,1,Male,Idaho
+2020,IL,Professional  services,1,Male,Illinois
+2020,IN,Professional  services,1,Male,Indiana
+2020,KS,Professional  services,1,Male,Kansas
+2020,KY,Professional  services,1,Male,Kentucky
+2020,LA,Professional  services,1,Male,Louisiana
+2020,MA,Professional  services,1,Male,Massachusetts
+2020,MD,Professional  services,1,Male,Maryland
+2020,ME,Professional  services,1,Male,Maine
+2020,MI,Professional  services,1,Male,Michigan
+2020,MN,Professional  services,1,Male,Minnesota
+2020,MO,Professional  services,1,Male,Missouri
+2020,MS,Professional  services,1,Male,Mississippi
+2020,MT,Professional  services,1,Male,Montana
+2020,NC,Professional  services,1,Male,North Carolina
+2020,ND,Professional  services,1,Male,North Dakota
+2020,NE,Professional  services,1,Male,Nebraska
+2020,NH,Professional  services,1,Male,New Hampshire
+2020,NJ,Professional  services,1,Male,New Jersey
+2020,NM,Professional  services,1,Male,New Mexico
+2020,NV,Professional  services,1,Male,Nevada
+2020,NY,Professional  services,1,Male,New York
+2020,OH,Professional  services,1,Male,Ohio
+2020,OK,Professional  services,1,Male,Oklahoma
+2020,OR,Professional  services,1,Male,Oregon
+2020,PA,Professional  services,1,Male,Pennsylvania
+2020,PR,Professional  services,1,Male,Puerto Rico
+2020,RI,Professional  services,1,Male,Rhode Island
+2020,SC,Professional  services,1,Male,South Carolina
+2020,SD,Professional  services,1,Male,South Dakota
+2020,TN,Professional  services,1,Male,Tennessee
+2020,TX,Professional  services,1,Male,Texas
+2020,UT,Professional  services,1,Male,Utah
+2020,VA,Professional  services,1,Male,Virginia
+2020,VT,Professional  services,1,Male,Vermont
+2020,WA,Professional  services,1,Male,Washington
+2020,WI,Professional  services,1,Male,Wisconsin
+2020,WV,Professional  services,1,Male,West Virginia
+2020,WY,Professional  services,1,Male,Wyoming
+2021,AK,Professional  services,1,Male,Alaska
+2021,AL,Professional  services,1,Male,Alabama
+2021,AR,Professional  services,1,Male,Arkansas
+2021,AZ,Professional  services,1,Male,Arizona
+2021,CA,Professional  services,1,Male,California
+2021,CO,Professional  services,1,Male,Colorado
+2021,CT,Professional  services,1,Male,Connecticut
+2021,DC,Professional  services,1,Male,District of Columbia
+2021,DE,Professional  services,1,Male,Delaware
+2021,FL,Professional  services,1,Male,Florida
+2021,GA,Professional  services,1,Male,Georgia
+2021,HI,Professional  services,1,Male,Hawaii
+2021,IA,Professional  services,1,Male,Iowa
+2021,ID,Professional  services,1,Male,Idaho
+2021,IL,Professional  services,1,Male,Illinois
+2021,IN,Professional  services,1,Male,Indiana
+2021,KS,Professional  services,1,Male,Kansas
+2021,KY,Professional  services,1,Male,Kentucky
+2021,LA,Professional  services,1,Male,Louisiana
+2021,MA,Professional  services,1,Male,Massachusetts
+2021,MD,Professional  services,1,Male,Maryland
+2021,ME,Professional  services,1,Male,Maine
+2021,MI,Professional  services,1,Male,Michigan
+2021,MN,Professional  services,1,Male,Minnesota
+2021,MO,Professional  services,1,Male,Missouri
+2021,MS,Professional  services,1,Male,Mississippi
+2021,MT,Professional  services,1,Male,Montana
+2021,NC,Professional  services,1,Male,North Carolina
+2021,ND,Professional  services,1,Male,North Dakota
+2021,NE,Professional  services,1,Male,Nebraska
+2021,NH,Professional  services,1,Male,New Hampshire
+2021,NJ,Professional  services,1,Male,New Jersey
+2021,NM,Professional  services,1,Male,New Mexico
+2021,NV,Professional  services,1,Male,Nevada
+2021,NY,Professional  services,1,Male,New York
+2021,OH,Professional  services,1,Male,Ohio
+2021,OK,Professional  services,1,Male,Oklahoma
+2021,OR,Professional  services,1,Male,Oregon
+2021,PA,Professional  services,1,Male,Pennsylvania
+2021,PR,Professional  services,1,Male,Puerto Rico
+2021,RI,Professional  services,1,Male,Rhode Island
+2021,SC,Professional  services,1,Male,South Carolina
+2021,SD,Professional  services,1,Male,South Dakota
+2021,TN,Professional  services,1,Male,Tennessee
+2021,TX,Professional  services,1,Male,Texas
+2021,UT,Professional  services,1,Male,Utah
+2021,VA,Professional  services,1,Male,Virginia
+2021,VT,Professional  services,1,Male,Vermont
+2021,WA,Professional  services,1,Male,Washington
+2021,WI,Professional  services,1,Male,Wisconsin
+2021,WV,Professional  services,1,Male,West Virginia
+2021,WY,Professional  services,1,Male,Wyoming
+2019,AK,Educationalservices healthcare socialassistance,0,Female,Alaska
+2019,AL,Educationalservices healthcare socialassistance,0,Female,Alabama
+2019,AR,Educationalservices healthcare socialassistance,0,Female,Arkansas
+2019,AZ,Educationalservices healthcare socialassistance,0,Female,Arizona
+2019,CA,Educationalservices healthcare socialassistance,0,Female,California
+2019,CO,Educationalservices healthcare socialassistance,0,Female,Colorado
+2019,CT,Educationalservices healthcare socialassistance,0,Female,Connecticut
+2019,DC,Educationalservices healthcare socialassistance,0,Female,District of Columbia
+2019,DE,Educationalservices healthcare socialassistance,0,Female,Delaware
+2019,FL,Educationalservices healthcare socialassistance,0,Female,Florida
+2019,GA,Educationalservices healthcare socialassistance,0,Female,Georgia
+2019,HI,Educationalservices healthcare socialassistance,0,Female,Hawaii
+2019,IA,Educationalservices healthcare socialassistance,0,Female,Iowa
+2019,ID,Educationalservices healthcare socialassistance,0,Female,Idaho
+2019,IL,Educationalservices healthcare socialassistance,0,Female,Illinois
+2019,IN,Educationalservices healthcare socialassistance,0,Female,Indiana
+2019,KS,Educationalservices healthcare socialassistance,0,Female,Kansas
+2019,KY,Educationalservices healthcare socialassistance,0,Female,Kentucky
+2019,LA,Educationalservices healthcare socialassistance,0,Female,Louisiana
+2019,MA,Educationalservices healthcare socialassistance,0,Female,Massachusetts
+2019,MD,Educationalservices healthcare socialassistance,0,Female,Maryland
+2019,ME,Educationalservices healthcare socialassistance,0,Female,Maine
+2019,MI,Educationalservices healthcare socialassistance,0,Female,Michigan
+2019,MN,Educationalservices healthcare socialassistance,0,Female,Minnesota
+2019,MO,Educationalservices healthcare socialassistance,0,Female,Missouri
+2019,MS,Educationalservices healthcare socialassistance,0,Female,Mississippi
+2019,MT,Educationalservices healthcare socialassistance,0,Female,Montana
+2019,NC,Educationalservices healthcare socialassistance,0,Female,North Carolina
+2019,ND,Educationalservices healthcare socialassistance,0,Female,North Dakota
+2019,NE,Educationalservices healthcare socialassistance,0,Female,Nebraska
+2019,NH,Educationalservices healthcare socialassistance,0,Female,New Hampshire
+2019,NJ,Educationalservices healthcare socialassistance,0,Female,New Jersey
+2019,NM,Educationalservices healthcare socialassistance,0,Female,New Mexico
+2019,NV,Educationalservices healthcare socialassistance,0,Female,Nevada
+2019,NY,Educationalservices healthcare socialassistance,0,Female,New York
+2019,OH,Educationalservices healthcare socialassistance,0,Female,Ohio
+2019,OK,Educationalservices healthcare socialassistance,0,Female,Oklahoma
+2019,OR,Educationalservices healthcare socialassistance,0,Female,Oregon
+2019,PA,Educationalservices healthcare socialassistance,0,Female,Pennsylvania
+2019,PR,Educationalservices healthcare socialassistance,0,Female,Puerto Rico
+2019,RI,Educationalservices healthcare socialassistance,0,Female,Rhode Island
+2019,SC,Educationalservices healthcare socialassistance,0,Female,South Carolina
+2019,SD,Educationalservices healthcare socialassistance,0,Female,South Dakota
+2019,TN,Educationalservices healthcare socialassistance,0,Female,Tennessee
+2019,TX,Educationalservices healthcare socialassistance,0,Female,Texas
+2019,UT,Educationalservices healthcare socialassistance,0,Female,Utah
+2019,VA,Educationalservices healthcare socialassistance,0,Female,Virginia
+2019,VT,Educationalservices healthcare socialassistance,0,Female,Vermont
+2019,WA,Educationalservices healthcare socialassistance,0,Female,Washington
+2019,WI,Educationalservices healthcare socialassistance,0,Female,Wisconsin
+2019,WV,Educationalservices healthcare socialassistance,0,Female,West Virginia
+2019,WY,Educationalservices healthcare socialassistance,0,Female,Wyoming
+2020,AK,Educationalservices healthcare socialassistance,0,Female,Alaska
+2020,AL,Educationalservices healthcare socialassistance,0,Female,Alabama
+2020,AR,Educationalservices healthcare socialassistance,0,Female,Arkansas
+2020,AZ,Educationalservices healthcare socialassistance,0,Female,Arizona
+2020,CA,Educationalservices healthcare socialassistance,0,Female,California
+2020,CO,Educationalservices healthcare socialassistance,0,Female,Colorado
+2020,CT,Educationalservices healthcare socialassistance,0,Female,Connecticut
+2020,DC,Educationalservices healthcare socialassistance,0,Female,District of Columbia
+2020,DE,Educationalservices healthcare socialassistance,0,Female,Delaware
+2020,FL,Educationalservices healthcare socialassistance,0,Female,Florida
+2020,GA,Educationalservices healthcare socialassistance,0,Female,Georgia
+2020,HI,Educationalservices healthcare socialassistance,0,Female,Hawaii
+2020,IA,Educationalservices healthcare socialassistance,0,Female,Iowa
+2020,ID,Educationalservices healthcare socialassistance,0,Female,Idaho
+2020,IL,Educationalservices healthcare socialassistance,0,Female,Illinois
+2020,IN,Educationalservices healthcare socialassistance,0,Female,Indiana
+2020,KS,Educationalservices healthcare socialassistance,0,Female,Kansas
+2020,KY,Educationalservices healthcare socialassistance,0,Female,Kentucky
+2020,LA,Educationalservices healthcare socialassistance,0,Female,Louisiana
+2020,MA,Educationalservices healthcare socialassistance,0,Female,Massachusetts
+2020,MD,Educationalservices healthcare socialassistance,0,Female,Maryland
+2020,ME,Educationalservices healthcare socialassistance,0,Female,Maine
+2020,MI,Educationalservices healthcare socialassistance,0,Female,Michigan
+2020,MN,Educationalservices healthcare socialassistance,0,Female,Minnesota
+2020,MO,Educationalservices healthcare socialassistance,0,Female,Missouri
+2020,MS,Educationalservices healthcare socialassistance,0,Female,Mississippi
+2020,MT,Educationalservices healthcare socialassistance,0,Female,Montana
+2020,NC,Educationalservices healthcare socialassistance,0,Female,North Carolina
+2020,ND,Educationalservices healthcare socialassistance,0,Female,North Dakota
+2020,NE,Educationalservices healthcare socialassistance,0,Female,Nebraska
+2020,NH,Educationalservices healthcare socialassistance,0,Female,New Hampshire
+2020,NJ,Educationalservices healthcare socialassistance,0,Female,New Jersey
+2020,NM,Educationalservices healthcare socialassistance,0,Female,New Mexico
+2020,NV,Educationalservices healthcare socialassistance,0,Female,Nevada
+2020,NY,Educationalservices healthcare socialassistance,0,Female,New York
+2020,OH,Educationalservices healthcare socialassistance,0,Female,Ohio
+2020,OK,Educationalservices healthcare socialassistance,0,Female,Oklahoma
+2020,OR,Educationalservices healthcare socialassistance,0,Female,Oregon
+2020,PA,Educationalservices healthcare socialassistance,0,Female,Pennsylvania
+2020,PR,Educationalservices healthcare socialassistance,0,Female,Puerto Rico
+2020,RI,Educationalservices healthcare socialassistance,0,Female,Rhode Island
+2020,SC,Educationalservices healthcare socialassistance,0,Female,South Carolina
+2020,SD,Educationalservices healthcare socialassistance,0,Female,South Dakota
+2020,TN,Educationalservices healthcare socialassistance,0,Female,Tennessee
+2020,TX,Educationalservices healthcare socialassistance,0,Female,Texas
+2020,UT,Educationalservices healthcare socialassistance,0,Female,Utah
+2020,VA,Educationalservices healthcare socialassistance,0,Female,Virginia
+2020,VT,Educationalservices healthcare socialassistance,0,Female,Vermont
+2020,WA,Educationalservices healthcare socialassistance,0,Female,Washington
+2020,WI,Educationalservices healthcare socialassistance,0,Female,Wisconsin
+2020,WV,Educationalservices healthcare socialassistance,0,Female,West Virginia
+2020,WY,Educationalservices healthcare socialassistance,0,Female,Wyoming
+2021,AK,Educationalservices healthcare socialassistance,0,Female,Alaska
+2021,AL,Educationalservices healthcare socialassistance,0,Female,Alabama
+2021,AR,Educationalservices healthcare socialassistance,0,Female,Arkansas
+2021,AZ,Educationalservices healthcare socialassistance,0,Female,Arizona
+2021,CA,Educationalservices healthcare socialassistance,0,Female,California
+2021,CO,Educationalservices healthcare socialassistance,0,Female,Colorado
+2021,CT,Educationalservices healthcare socialassistance,0,Female,Connecticut
+2021,DC,Educationalservices healthcare socialassistance,0,Female,District of Columbia
+2021,DE,Educationalservices healthcare socialassistance,0,Female,Delaware
+2021,FL,Educationalservices healthcare socialassistance,0,Female,Florida
+2021,GA,Educationalservices healthcare socialassistance,0,Female,Georgia
+2021,HI,Educationalservices healthcare socialassistance,0,Female,Hawaii
+2021,IA,Educationalservices healthcare socialassistance,0,Female,Iowa
+2021,ID,Educationalservices healthcare socialassistance,0,Female,Idaho
+2021,IL,Educationalservices healthcare socialassistance,0,Female,Illinois
+2021,IN,Educationalservices healthcare socialassistance,0,Female,Indiana
+2021,KS,Educationalservices healthcare socialassistance,0,Female,Kansas
+2021,KY,Educationalservices healthcare socialassistance,0,Female,Kentucky
+2021,LA,Educationalservices healthcare socialassistance,0,Female,Louisiana
+2021,MA,Educationalservices healthcare socialassistance,0,Female,Massachusetts
+2021,MD,Educationalservices healthcare socialassistance,0,Female,Maryland
+2021,ME,Educationalservices healthcare socialassistance,0,Female,Maine
+2021,MI,Educationalservices healthcare socialassistance,0,Female,Michigan
+2021,MN,Educationalservices healthcare socialassistance,0,Female,Minnesota
+2021,MO,Educationalservices healthcare socialassistance,0,Female,Missouri
+2021,MS,Educationalservices healthcare socialassistance,0,Female,Mississippi
+2021,MT,Educationalservices healthcare socialassistance,0,Female,Montana
+2021,NC,Educationalservices healthcare socialassistance,0,Female,North Carolina
+2021,ND,Educationalservices healthcare socialassistance,0,Female,North Dakota
+2021,NE,Educationalservices healthcare socialassistance,0,Female,Nebraska
+2021,NH,Educationalservices healthcare socialassistance,0,Female,New Hampshire
+2021,NJ,Educationalservices healthcare socialassistance,0,Female,New Jersey
+2021,NM,Educationalservices healthcare socialassistance,0,Female,New Mexico
+2021,NV,Educationalservices healthcare socialassistance,0,Female,Nevada
+2021,NY,Educationalservices healthcare socialassistance,0,Female,New York
+2021,OH,Educationalservices healthcare socialassistance,0,Female,Ohio
+2021,OK,Educationalservices healthcare socialassistance,0,Female,Oklahoma
+2021,OR,Educationalservices healthcare socialassistance,0,Female,Oregon
+2021,PA,Educationalservices healthcare socialassistance,0,Female,Pennsylvania
+2021,PR,Educationalservices healthcare socialassistance,0,Female,Puerto Rico
+2021,RI,Educationalservices healthcare socialassistance,0,Female,Rhode Island
+2021,SC,Educationalservices healthcare socialassistance,0,Female,South Carolina
+2021,SD,Educationalservices healthcare socialassistance,0,Female,South Dakota
+2021,TN,Educationalservices healthcare socialassistance,0,Female,Tennessee
+2021,TX,Educationalservices healthcare socialassistance,0,Female,Texas
+2021,UT,Educationalservices healthcare socialassistance,0,Female,Utah
+2021,VA,Educationalservices healthcare socialassistance,0,Female,Virginia
+2021,VT,Educationalservices healthcare socialassistance,0,Female,Vermont
+2021,WA,Educationalservices healthcare socialassistance,0,Female,Washington
+2021,WI,Educationalservices healthcare socialassistance,0,Female,Wisconsin
+2021,WV,Educationalservices healthcare socialassistance,0,Female,West Virginia
+2021,WY,Educationalservices healthcare socialassistance,0,Female,Wyoming
+2019,AK,Arts entertainment and foodservices,1,Male,Alaska
+2019,AL,Arts entertainment and foodservices,0,Female,Alabama
+2019,AR,Arts entertainment and foodservices,0,Female,Arkansas
+2019,AZ,Arts entertainment and foodservices,1,Male,Arizona
+2019,CA,Arts entertainment and foodservices,1,Male,California
+2019,CO,Arts entertainment and foodservices,1,Male,Colorado
+2019,CT,Arts entertainment and foodservices,1,Male,Connecticut
+2019,DC,Arts entertainment and foodservices,1,Male,District of Columbia
+2019,DE,Arts entertainment and foodservices,1,Male,Delaware
+2019,FL,Arts entertainment and foodservices,1,Male,Florida
+2019,GA,Arts entertainment and foodservices,1,Male,Georgia
+2019,HI,Arts entertainment and foodservices,1,Male,Hawaii
+2019,IA,Arts entertainment and foodservices,1,Male,Iowa
+2019,ID,Arts entertainment and foodservices,1,Male,Idaho
+2019,IL,Arts entertainment and foodservices,1,Male,Illinois
+2019,IN,Arts entertainment and foodservices,0,Female,Indiana
+2019,KS,Arts entertainment and foodservices,1,Male,Kansas
+2019,KY,Arts entertainment and foodservices,1,Male,Kentucky
+2019,LA,Arts entertainment and foodservices,0,Female,Louisiana
+2019,MA,Arts entertainment and foodservices,1,Male,Massachusetts
+2019,MD,Arts entertainment and foodservices,1,Male,Maryland
+2019,ME,Arts entertainment and foodservices,1,Male,Maine
+2019,MI,Arts entertainment and foodservices,1,Male,Michigan
+2019,MN,Arts entertainment and foodservices,1,Male,Minnesota
+2019,MO,Arts entertainment and foodservices,1,Male,Missouri
+2019,MS,Arts entertainment and foodservices,0,Female,Mississippi
+2019,MT,Arts entertainment and foodservices,1,Male,Montana
+2019,NC,Arts entertainment and foodservices,1,Male,North Carolina
+2019,ND,Arts entertainment and foodservices,1,Male,North Dakota
+2019,NE,Arts entertainment and foodservices,1,Male,Nebraska
+2019,NH,Arts entertainment and foodservices,1,Male,New Hampshire
+2019,NJ,Arts entertainment and foodservices,1,Male,New Jersey
+2019,NM,Arts entertainment and foodservices,1,Male,New Mexico
+2019,NV,Arts entertainment and foodservices,1,Male,Nevada
+2019,NY,Arts entertainment and foodservices,1,Male,New York
+2019,OH,Arts entertainment and foodservices,1,Male,Ohio
+2019,OK,Arts entertainment and foodservices,0,Female,Oklahoma
+2019,OR,Arts entertainment and foodservices,1,Male,Oregon
+2019,PA,Arts entertainment and foodservices,1,Male,Pennsylvania
+2019,PR,Arts entertainment and foodservices,1,Male,Puerto Rico
+2019,RI,Arts entertainment and foodservices,1,Male,Rhode Island
+2019,SC,Arts entertainment and foodservices,1,Male,South Carolina
+2019,SD,Arts entertainment and foodservices,1,Male,South Dakota
+2019,TN,Arts entertainment and foodservices,1,Male,Tennessee
+2019,TX,Arts entertainment and foodservices,1,Male,Texas
+2019,UT,Arts entertainment and foodservices,1,Male,Utah
+2019,VA,Arts entertainment and foodservices,1,Male,Virginia
+2019,VT,Arts entertainment and foodservices,1,Male,Vermont
+2019,WA,Arts entertainment and foodservices,1,Male,Washington
+2019,WI,Arts entertainment and foodservices,1,Male,Wisconsin
+2019,WV,Arts entertainment and foodservices,1,Male,West Virginia
+2019,WY,Arts entertainment and foodservices,1,Male,Wyoming
+2020,AK,Arts entertainment and foodservices,1,Male,Alaska
+2020,AL,Arts entertainment and foodservices,0,Female,Alabama
+2020,AR,Arts entertainment and foodservices,0,Female,Arkansas
+2020,AZ,Arts entertainment and foodservices,1,Male,Arizona
+2020,CA,Arts entertainment and foodservices,1,Male,California
+2020,CO,Arts entertainment and foodservices,1,Male,Colorado
+2020,CT,Arts entertainment and foodservices,1,Male,Connecticut
+2020,DC,Arts entertainment and foodservices,1,Male,District of Columbia
+2020,DE,Arts entertainment and foodservices,1,Male,Delaware
+2020,FL,Arts entertainment and foodservices,1,Male,Florida
+2020,GA,Arts entertainment and foodservices,1,Male,Georgia
+2020,HI,Arts entertainment and foodservices,1,Male,Hawaii
+2020,IA,Arts entertainment and foodservices,0,Female,Iowa
+2020,ID,Arts entertainment and foodservices,1,Male,Idaho
+2020,IL,Arts entertainment and foodservices,1,Male,Illinois
+2020,IN,Arts entertainment and foodservices,0,Female,Indiana
+2020,KS,Arts entertainment and foodservices,0,Female,Kansas
+2020,KY,Arts entertainment and foodservices,1,Male,Kentucky
+2020,LA,Arts entertainment and foodservices,0,Female,Louisiana
+2020,MA,Arts entertainment and foodservices,1,Male,Massachusetts
+2020,MD,Arts entertainment and foodservices,1,Male,Maryland
+2020,ME,Arts entertainment and foodservices,1,Male,Maine
+2020,MI,Arts entertainment and foodservices,1,Male,Michigan
+2020,MN,Arts entertainment and foodservices,1,Male,Minnesota
+2020,MO,Arts entertainment and foodservices,1,Male,Missouri
+2020,MS,Arts entertainment and foodservices,0,Female,Mississippi
+2020,MT,Arts entertainment and foodservices,1,Male,Montana
+2020,NC,Arts entertainment and foodservices,1,Male,North Carolina
+2020,ND,Arts entertainment and foodservices,1,Male,North Dakota
+2020,NE,Arts entertainment and foodservices,1,Male,Nebraska
+2020,NH,Arts entertainment and foodservices,1,Male,New Hampshire
+2020,NJ,Arts entertainment and foodservices,1,Male,New Jersey
+2020,NM,Arts entertainment and foodservices,1,Male,New Mexico
+2020,NV,Arts entertainment and foodservices,1,Male,Nevada
+2020,NY,Arts entertainment and foodservices,1,Male,New York
+2020,OH,Arts entertainment and foodservices,1,Male,Ohio
+2020,OK,Arts entertainment and foodservices,0,Female,Oklahoma
+2020,OR,Arts entertainment and foodservices,1,Male,Oregon
+2020,PA,Arts entertainment and foodservices,1,Male,Pennsylvania
+2020,PR,Arts entertainment and foodservices,1,Male,Puerto Rico
+2020,RI,Arts entertainment and foodservices,1,Male,Rhode Island
+2020,SC,Arts entertainment and foodservices,1,Male,South Carolina
+2020,SD,Arts entertainment and foodservices,1,Male,South Dakota
+2020,TN,Arts entertainment and foodservices,1,Male,Tennessee
+2020,TX,Arts entertainment and foodservices,1,Male,Texas
+2020,UT,Arts entertainment and foodservices,1,Male,Utah
+2020,VA,Arts entertainment and foodservices,1,Male,Virginia
+2020,VT,Arts entertainment and foodservices,1,Male,Vermont
+2020,WA,Arts entertainment and foodservices,1,Male,Washington
+2020,WI,Arts entertainment and foodservices,1,Male,Wisconsin
+2020,WV,Arts entertainment and foodservices,1,Male,West Virginia
+2020,WY,Arts entertainment and foodservices,1,Male,Wyoming
+2021,AK,Arts entertainment and foodservices,1,Male,Alaska
+2021,AL,Arts entertainment and foodservices,0,Female,Alabama
+2021,AR,Arts entertainment and foodservices,1,Male,Arkansas
+2021,AZ,Arts entertainment and foodservices,1,Male,Arizona
+2021,CA,Arts entertainment and foodservices,1,Male,California
+2021,CO,Arts entertainment and foodservices,1,Male,Colorado
+2021,CT,Arts entertainment and foodservices,1,Male,Connecticut
+2021,DC,Arts entertainment and foodservices,1,Male,District of Columbia
+2021,DE,Arts entertainment and foodservices,1,Male,Delaware
+2021,FL,Arts entertainment and foodservices,1,Male,Florida
+2021,GA,Arts entertainment and foodservices,1,Male,Georgia
+2021,HI,Arts entertainment and foodservices,1,Male,Hawaii
+2021,IA,Arts entertainment and foodservices,1,Male,Iowa
+2021,ID,Arts entertainment and foodservices,1,Male,Idaho
+2021,IL,Arts entertainment and foodservices,1,Male,Illinois
+2021,IN,Arts entertainment and foodservices,0,Female,Indiana
+2021,KS,Arts entertainment and foodservices,1,Male,Kansas
+2021,KY,Arts entertainment and foodservices,1,Male,Kentucky
+2021,LA,Arts entertainment and foodservices,0,Female,Louisiana
+2021,MA,Arts entertainment and foodservices,1,Male,Massachusetts
+2021,MD,Arts entertainment and foodservices,1,Male,Maryland
+2021,ME,Arts entertainment and foodservices,1,Male,Maine
+2021,MI,Arts entertainment and foodservices,1,Male,Michigan
+2021,MN,Arts entertainment and foodservices,1,Male,Minnesota
+2021,MO,Arts entertainment and foodservices,1,Male,Missouri
+2021,MS,Arts entertainment and foodservices,0,Female,Mississippi
+2021,MT,Arts entertainment and foodservices,1,Male,Montana
+2021,NC,Arts entertainment and foodservices,1,Male,North Carolina
+2021,ND,Arts entertainment and foodservices,1,Male,North Dakota
+2021,NE,Arts entertainment and foodservices,1,Male,Nebraska
+2021,NH,Arts entertainment and foodservices,1,Male,New Hampshire
+2021,NJ,Arts entertainment and foodservices,1,Male,New Jersey
+2021,NM,Arts entertainment and foodservices,1,Male,New Mexico
+2021,NV,Arts entertainment and foodservices,1,Male,Nevada
+2021,NY,Arts entertainment and foodservices,1,Male,New York
+2021,OH,Arts entertainment and foodservices,1,Male,Ohio
+2021,OK,Arts entertainment and foodservices,0,Female,Oklahoma
+2021,OR,Arts entertainment and foodservices,1,Male,Oregon
+2021,PA,Arts entertainment and foodservices,1,Male,Pennsylvania
+2021,PR,Arts entertainment and foodservices,1,Male,Puerto Rico
+2021,RI,Arts entertainment and foodservices,1,Male,Rhode Island
+2021,SC,Arts entertainment and foodservices,1,Male,South Carolina
+2021,SD,Arts entertainment and foodservices,1,Male,South Dakota
+2021,TN,Arts entertainment and foodservices,1,Male,Tennessee
+2021,TX,Arts entertainment and foodservices,1,Male,Texas
+2021,UT,Arts entertainment and foodservices,1,Male,Utah
+2021,VA,Arts entertainment and foodservices,1,Male,Virginia
+2021,VT,Arts entertainment and foodservices,1,Male,Vermont
+2021,WA,Arts entertainment and foodservices,1,Male,Washington
+2021,WI,Arts entertainment and foodservices,1,Male,Wisconsin
+2021,WV,Arts entertainment and foodservices,1,Male,West Virginia
+2021,WY,Arts entertainment and foodservices,1,Male,Wyoming
+2019,AK,Otherservices ,1,Male,Alaska
+2019,AL,Otherservices ,1,Male,Alabama
+2019,AR,Otherservices ,1,Male,Arkansas
+2019,AZ,Otherservices ,1,Male,Arizona
+2019,CA,Otherservices ,1,Male,California
+2019,CO,Otherservices ,1,Male,Colorado
+2019,CT,Otherservices ,1,Male,Connecticut
+2019,DC,Otherservices ,0,Female,District of Columbia
+2019,DE,Otherservices ,1,Male,Delaware
+2019,FL,Otherservices ,1,Male,Florida
+2019,GA,Otherservices ,1,Male,Georgia
+2019,HI,Otherservices ,0,Female,Hawaii
+2019,IA,Otherservices ,1,Male,Iowa
+2019,ID,Otherservices ,1,Male,Idaho
+2019,IL,Otherservices ,1,Male,Illinois
+2019,IN,Otherservices ,1,Male,Indiana
+2019,KS,Otherservices ,1,Male,Kansas
+2019,KY,Otherservices ,1,Male,Kentucky
+2019,LA,Otherservices ,1,Male,Louisiana
+2019,MA,Otherservices ,1,Male,Massachusetts
+2019,MD,Otherservices ,0,Female,Maryland
+2019,ME,Otherservices ,1,Male,Maine
+2019,MI,Otherservices ,1,Male,Michigan
+2019,MN,Otherservices ,1,Male,Minnesota
+2019,MO,Otherservices ,1,Male,Missouri
+2019,MS,Otherservices ,1,Male,Mississippi
+2019,MT,Otherservices ,1,Male,Montana
+2019,NC,Otherservices ,1,Male,North Carolina
+2019,ND,Otherservices ,1,Male,North Dakota
+2019,NE,Otherservices ,1,Male,Nebraska
+2019,NH,Otherservices ,1,Male,New Hampshire
+2019,NJ,Otherservices ,1,Male,New Jersey
+2019,NM,Otherservices ,1,Male,New Mexico
+2019,NV,Otherservices ,1,Male,Nevada
+2019,NY,Otherservices ,1,Male,New York
+2019,OH,Otherservices ,1,Male,Ohio
+2019,OK,Otherservices ,1,Male,Oklahoma
+2019,OR,Otherservices ,1,Male,Oregon
+2019,PA,Otherservices ,1,Male,Pennsylvania
+2019,PR,Otherservices ,1,Male,Puerto Rico
+2019,RI,Otherservices ,1,Male,Rhode Island
+2019,SC,Otherservices ,1,Male,South Carolina
+2019,SD,Otherservices ,1,Male,South Dakota
+2019,TN,Otherservices ,1,Male,Tennessee
+2019,TX,Otherservices ,1,Male,Texas
+2019,UT,Otherservices ,1,Male,Utah
+2019,VA,Otherservices ,1,Male,Virginia
+2019,VT,Otherservices ,1,Male,Vermont
+2019,WA,Otherservices ,1,Male,Washington
+2019,WI,Otherservices ,1,Male,Wisconsin
+2019,WV,Otherservices ,1,Male,West Virginia
+2019,WY,Otherservices ,1,Male,Wyoming
+2020,AK,Otherservices ,1,Male,Alaska
+2020,AL,Otherservices ,1,Male,Alabama
+2020,AR,Otherservices ,1,Male,Arkansas
+2020,AZ,Otherservices ,1,Male,Arizona
+2020,CA,Otherservices ,1,Male,California
+2020,CO,Otherservices ,1,Male,Colorado
+2020,CT,Otherservices ,1,Male,Connecticut
+2020,DC,Otherservices ,0,Female,District of Columbia
+2020,DE,Otherservices ,1,Male,Delaware
+2020,FL,Otherservices ,1,Male,Florida
+2020,GA,Otherservices ,1,Male,Georgia
+2020,HI,Otherservices ,0,Female,Hawaii
+2020,IA,Otherservices ,1,Male,Iowa
+2020,ID,Otherservices ,1,Male,Idaho
+2020,IL,Otherservices ,1,Male,Illinois
+2020,IN,Otherservices ,1,Male,Indiana
+2020,KS,Otherservices ,1,Male,Kansas
+2020,KY,Otherservices ,1,Male,Kentucky
+2020,LA,Otherservices ,1,Male,Louisiana
+2020,MA,Otherservices ,1,Male,Massachusetts
+2020,MD,Otherservices ,1,Male,Maryland
+2020,ME,Otherservices ,1,Male,Maine
+2020,MI,Otherservices ,1,Male,Michigan
+2020,MN,Otherservices ,1,Male,Minnesota
+2020,MO,Otherservices ,1,Male,Missouri
+2020,MS,Otherservices ,1,Male,Mississippi
+2020,MT,Otherservices ,1,Male,Montana
+2020,NC,Otherservices ,1,Male,North Carolina
+2020,ND,Otherservices ,1,Male,North Dakota
+2020,NE,Otherservices ,1,Male,Nebraska
+2020,NH,Otherservices ,1,Male,New Hampshire
+2020,NJ,Otherservices ,1,Male,New Jersey
+2020,NM,Otherservices ,1,Male,New Mexico
+2020,NV,Otherservices ,1,Male,Nevada
+2020,NY,Otherservices ,1,Male,New York
+2020,OH,Otherservices ,1,Male,Ohio
+2020,OK,Otherservices ,1,Male,Oklahoma
+2020,OR,Otherservices ,1,Male,Oregon
+2020,PA,Otherservices ,1,Male,Pennsylvania
+2020,PR,Otherservices ,1,Male,Puerto Rico
+2020,RI,Otherservices ,1,Male,Rhode Island
+2020,SC,Otherservices ,1,Male,South Carolina
+2020,SD,Otherservices ,1,Male,South Dakota
+2020,TN,Otherservices ,1,Male,Tennessee
+2020,TX,Otherservices ,1,Male,Texas
+2020,UT,Otherservices ,1,Male,Utah
+2020,VA,Otherservices ,1,Male,Virginia
+2020,VT,Otherservices ,1,Male,Vermont
+2020,WA,Otherservices ,1,Male,Washington
+2020,WI,Otherservices ,1,Male,Wisconsin
+2020,WV,Otherservices ,1,Male,West Virginia
+2020,WY,Otherservices ,1,Male,Wyoming
+2021,AK,Otherservices ,1,Male,Alaska
+2021,AL,Otherservices ,1,Male,Alabama
+2021,AR,Otherservices ,1,Male,Arkansas
+2021,AZ,Otherservices ,1,Male,Arizona
+2021,CA,Otherservices ,1,Male,California
+2021,CO,Otherservices ,1,Male,Colorado
+2021,CT,Otherservices ,1,Male,Connecticut
+2021,DC,Otherservices ,0,Female,District of Columbia
+2021,DE,Otherservices ,1,Male,Delaware
+2021,FL,Otherservices ,1,Male,Florida
+2021,GA,Otherservices ,1,Male,Georgia
+2021,HI,Otherservices ,0,Female,Hawaii
+2021,IA,Otherservices ,1,Male,Iowa
+2021,ID,Otherservices ,1,Male,Idaho
+2021,IL,Otherservices ,1,Male,Illinois
+2021,IN,Otherservices ,1,Male,Indiana
+2021,KS,Otherservices ,1,Male,Kansas
+2021,KY,Otherservices ,1,Male,Kentucky
+2021,LA,Otherservices ,1,Male,Louisiana
+2021,MA,Otherservices ,1,Male,Massachusetts
+2021,MD,Otherservices ,1,Male,Maryland
+2021,ME,Otherservices ,1,Male,Maine
+2021,MI,Otherservices ,1,Male,Michigan
+2021,MN,Otherservices ,1,Male,Minnesota
+2021,MO,Otherservices ,1,Male,Missouri
+2021,MS,Otherservices ,1,Male,Mississippi
+2021,MT,Otherservices ,1,Male,Montana
+2021,NC,Otherservices ,1,Male,North Carolina
+2021,ND,Otherservices ,1,Male,North Dakota
+2021,NE,Otherservices ,1,Male,Nebraska
+2021,NH,Otherservices ,1,Male,New Hampshire
+2021,NJ,Otherservices ,1,Male,New Jersey
+2021,NM,Otherservices ,1,Male,New Mexico
+2021,NV,Otherservices ,1,Male,Nevada
+2021,NY,Otherservices ,1,Male,New York
+2021,OH,Otherservices ,1,Male,Ohio
+2021,OK,Otherservices ,1,Male,Oklahoma
+2021,OR,Otherservices ,1,Male,Oregon
+2021,PA,Otherservices ,1,Male,Pennsylvania
+2021,PR,Otherservices ,1,Male,Puerto Rico
+2021,RI,Otherservices ,1,Male,Rhode Island
+2021,SC,Otherservices ,1,Male,South Carolina
+2021,SD,Otherservices ,1,Male,South Dakota
+2021,TN,Otherservices ,1,Male,Tennessee
+2021,TX,Otherservices ,1,Male,Texas
+2021,UT,Otherservices ,1,Male,Utah
+2021,VA,Otherservices ,1,Male,Virginia
+2021,VT,Otherservices ,1,Male,Vermont
+2021,WA,Otherservices ,1,Male,Washington
+2021,WI,Otherservices ,1,Male,Wisconsin
+2021,WV,Otherservices ,1,Male,West Virginia
+2021,WY,Otherservices ,1,Male,Wyoming
+2019,AK,Public administration,1,Male,Alaska
+2019,AL,Public administration,1,Male,Alabama
+2019,AR,Public administration,1,Male,Arkansas
+2019,AZ,Public administration,1,Male,Arizona
+2019,CA,Public administration,1,Male,California
+2019,CO,Public administration,1,Male,Colorado
+2019,CT,Public administration,1,Male,Connecticut
+2019,DC,Public administration,0,Female,District of Columbia
+2019,DE,Public administration,1,Male,Delaware
+2019,FL,Public administration,1,Male,Florida
+2019,GA,Public administration,1,Male,Georgia
+2019,HI,Public administration,1,Male,Hawaii
+2019,IA,Public administration,1,Male,Iowa
+2019,ID,Public administration,1,Male,Idaho
+2019,IL,Public administration,1,Male,Illinois
+2019,IN,Public administration,1,Male,Indiana
+2019,KS,Public administration,1,Male,Kansas
+2019,KY,Public administration,1,Male,Kentucky
+2019,LA,Public administration,1,Male,Louisiana
+2019,MA,Public administration,1,Male,Massachusetts
+2019,MD,Public administration,1,Male,Maryland
+2019,ME,Public administration,1,Male,Maine
+2019,MI,Public administration,1,Male,Michigan
+2019,MN,Public administration,1,Male,Minnesota
+2019,MO,Public administration,1,Male,Missouri
+2019,MS,Public administration,1,Male,Mississippi
+2019,MT,Public administration,1,Male,Montana
+2019,NC,Public administration,1,Male,North Carolina
+2019,ND,Public administration,1,Male,North Dakota
+2019,NE,Public administration,1,Male,Nebraska
+2019,NH,Public administration,1,Male,New Hampshire
+2019,NJ,Public administration,1,Male,New Jersey
+2019,NM,Public administration,1,Male,New Mexico
+2019,NV,Public administration,1,Male,Nevada
+2019,NY,Public administration,1,Male,New York
+2019,OH,Public administration,1,Male,Ohio
+2019,OK,Public administration,1,Male,Oklahoma
+2019,OR,Public administration,1,Male,Oregon
+2019,PA,Public administration,1,Male,Pennsylvania
+2019,PR,Public administration,1,Male,Puerto Rico
+2019,RI,Public administration,1,Male,Rhode Island
+2019,SC,Public administration,1,Male,South Carolina
+2019,SD,Public administration,1,Male,South Dakota
+2019,TN,Public administration,1,Male,Tennessee
+2019,TX,Public administration,1,Male,Texas
+2019,UT,Public administration,1,Male,Utah
+2019,VA,Public administration,1,Male,Virginia
+2019,VT,Public administration,0,Female,Vermont
+2019,WA,Public administration,1,Male,Washington
+2019,WI,Public administration,1,Male,Wisconsin
+2019,WV,Public administration,1,Male,West Virginia
+2019,WY,Public administration,1,Male,Wyoming
+2020,AK,Public administration,1,Male,Alaska
+2020,AL,Public administration,1,Male,Alabama
+2020,AR,Public administration,1,Male,Arkansas
+2020,AZ,Public administration,1,Male,Arizona
+2020,CA,Public administration,1,Male,California
+2020,CO,Public administration,1,Male,Colorado
+2020,CT,Public administration,1,Male,Connecticut
+2020,DC,Public administration,0,Female,District of Columbia
+2020,DE,Public administration,1,Male,Delaware
+2020,FL,Public administration,1,Male,Florida
+2020,GA,Public administration,1,Male,Georgia
+2020,HI,Public administration,1,Male,Hawaii
+2020,IA,Public administration,1,Male,Iowa
+2020,ID,Public administration,1,Male,Idaho
+2020,IL,Public administration,1,Male,Illinois
+2020,IN,Public administration,1,Male,Indiana
+2020,KS,Public administration,1,Male,Kansas
+2020,KY,Public administration,1,Male,Kentucky
+2020,LA,Public administration,1,Male,Louisiana
+2020,MA,Public administration,1,Male,Massachusetts
+2020,MD,Public administration,1,Male,Maryland
+2020,ME,Public administration,1,Male,Maine
+2020,MI,Public administration,1,Male,Michigan
+2020,MN,Public administration,1,Male,Minnesota
+2020,MO,Public administration,1,Male,Missouri
+2020,MS,Public administration,1,Male,Mississippi
+2020,MT,Public administration,1,Male,Montana
+2020,NC,Public administration,1,Male,North Carolina
+2020,ND,Public administration,1,Male,North Dakota
+2020,NE,Public administration,1,Male,Nebraska
+2020,NH,Public administration,1,Male,New Hampshire
+2020,NJ,Public administration,1,Male,New Jersey
+2020,NM,Public administration,1,Male,New Mexico
+2020,NV,Public administration,1,Male,Nevada
+2020,NY,Public administration,1,Male,New York
+2020,OH,Public administration,1,Male,Ohio
+2020,OK,Public administration,1,Male,Oklahoma
+2020,OR,Public administration,1,Male,Oregon
+2020,PA,Public administration,1,Male,Pennsylvania
+2020,PR,Public administration,1,Male,Puerto Rico
+2020,RI,Public administration,1,Male,Rhode Island
+2020,SC,Public administration,1,Male,South Carolina
+2020,SD,Public administration,1,Male,South Dakota
+2020,TN,Public administration,1,Male,Tennessee
+2020,TX,Public administration,1,Male,Texas
+2020,UT,Public administration,1,Male,Utah
+2020,VA,Public administration,1,Male,Virginia
+2020,VT,Public administration,0,Female,Vermont
+2020,WA,Public administration,1,Male,Washington
+2020,WI,Public administration,1,Male,Wisconsin
+2020,WV,Public administration,1,Male,West Virginia
+2020,WY,Public administration,1,Male,Wyoming
+2021,AK,Public administration,1,Male,Alaska
+2021,AL,Public administration,1,Male,Alabama
+2021,AR,Public administration,1,Male,Arkansas
+2021,AZ,Public administration,1,Male,Arizona
+2021,CA,Public administration,1,Male,California
+2021,CO,Public administration,1,Male,Colorado
+2021,CT,Public administration,1,Male,Connecticut
+2021,DC,Public administration,0,Female,District of Columbia
+2021,DE,Public administration,1,Male,Delaware
+2021,FL,Public administration,1,Male,Florida
+2021,GA,Public administration,1,Male,Georgia
+2021,HI,Public administration,1,Male,Hawaii
+2021,IA,Public administration,1,Male,Iowa
+2021,ID,Public administration,1,Male,Idaho
+2021,IL,Public administration,1,Male,Illinois
+2021,IN,Public administration,1,Male,Indiana
+2021,KS,Public administration,1,Male,Kansas
+2021,KY,Public administration,1,Male,Kentucky
+2021,LA,Public administration,1,Male,Louisiana
+2021,MA,Public administration,1,Male,Massachusetts
+2021,MD,Public administration,1,Male,Maryland
+2021,ME,Public administration,1,Male,Maine
+2021,MI,Public administration,1,Male,Michigan
+2021,MN,Public administration,1,Male,Minnesota
+2021,MO,Public administration,1,Male,Missouri
+2021,MS,Public administration,1,Male,Mississippi
+2021,MT,Public administration,1,Male,Montana
+2021,NC,Public administration,1,Male,North Carolina
+2021,ND,Public administration,1,Male,North Dakota
+2021,NE,Public administration,1,Male,Nebraska
+2021,NH,Public administration,1,Male,New Hampshire
+2021,NJ,Public administration,1,Male,New Jersey
+2021,NM,Public administration,1,Male,New Mexico
+2021,NV,Public administration,1,Male,Nevada
+2021,NY,Public administration,1,Male,New York
+2021,OH,Public administration,1,Male,Ohio
+2021,OK,Public administration,1,Male,Oklahoma
+2021,OR,Public administration,1,Male,Oregon
+2021,PA,Public administration,1,Male,Pennsylvania
+2021,PR,Public administration,1,Male,Puerto Rico
+2021,RI,Public administration,1,Male,Rhode Island
+2021,SC,Public administration,1,Male,South Carolina
+2021,SD,Public administration,1,Male,South Dakota
+2021,TN,Public administration,1,Male,Tennessee
+2021,TX,Public administration,1,Male,Texas
+2021,UT,Public administration,1,Male,Utah
+2021,VA,Public administration,1,Male,Virginia
+2021,VT,Public administration,0,Female,Vermont
+2021,WA,Public administration,1,Male,Washington
+2021,WI,Public administration,1,Male,Wisconsin
+2021,WV,Public administration,1,Male,West Virginia
+2021,WY,Public administration,1,Male,Wyoming

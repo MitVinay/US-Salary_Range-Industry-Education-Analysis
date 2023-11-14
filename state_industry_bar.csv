@@ -1,0 +1,4057 @@
+Year,state_code,Gender,Industry,Values
+2019,AK,Male,Agriculture ,7948
+2019,AL,Male,Agriculture ,20169
+2019,AR,Male,Agriculture ,24134
+2019,AZ,Male,Agriculture ,25431
+2019,CA,Male,Agriculture ,202329
+2019,CO,Male,Agriculture ,42641
+2019,CT,Male,Agriculture ,3272
+2019,DC,Male,Agriculture ,131
+2019,DE,Male,Agriculture ,3109
+2019,FL,Male,Agriculture ,48798
+2019,GA,Male,Agriculture ,32929
+2019,HI,Male,Agriculture ,4504
+2019,IA,Male,Agriculture ,41944
+2019,ID,Male,Agriculture ,25365
+2019,IL,Male,Agriculture ,43782
+2019,IN,Male,Agriculture ,28222
+2019,KS,Male,Agriculture ,32036
+2019,KY,Male,Agriculture ,28779
+2019,LA,Male,Agriculture ,53293
+2019,MA,Male,Agriculture ,6093
+2019,MD,Male,Agriculture ,7965
+2019,ME,Male,Agriculture ,8746
+2019,MI,Male,Agriculture ,30665
+2019,MN,Male,Agriculture ,41216
+2019,MO,Male,Agriculture ,32048
+2019,MS,Male,Agriculture ,20611
+2019,MT,Male,Agriculture ,21968
+2019,NC,Male,Agriculture ,34849
+2019,ND,Male,Agriculture ,27502
+2019,NE,Male,Agriculture ,31601
+2019,NH,Male,Agriculture ,2777
+2019,NJ,Male,Agriculture ,7739
+2019,NM,Male,Agriculture ,25787
+2019,NV,Male,Agriculture ,15187
+2019,NY,Male,Agriculture ,31270
+2019,OH,Male,Agriculture ,34922
+2019,OK,Male,Agriculture ,56568
+2019,OR,Male,Agriculture ,33926
+2019,PA,Male,Agriculture ,54313
+2019,PR,Male,Agriculture ,5332
+2019,RI,Male,Agriculture ,1110
+2019,SC,Male,Agriculture ,13336
+2019,SD,Male,Agriculture ,20093
+2019,TN,Male,Agriculture ,18770
+2019,TX,Male,Agriculture ,273653
+2019,UT,Male,Agriculture ,17615
+2019,VA,Male,Agriculture ,22755
+2019,VT,Male,Agriculture ,4764
+2019,WA,Male,Agriculture ,46910
+2019,WI,Male,Agriculture ,40876
+2019,WV,Male,Agriculture ,21954
+2019,WY,Male,Agriculture ,21879
+2020,AK,Male,Agriculture ,7419
+2020,AL,Male,Agriculture ,20962
+2020,AR,Male,Agriculture ,23251
+2020,AZ,Male,Agriculture ,24159
+2020,CA,Male,Agriculture ,194904
+2020,CO,Male,Agriculture ,41901
+2020,CT,Male,Agriculture ,3281
+2020,DC,Male,Agriculture ,149
+2020,DE,Male,Agriculture ,2731
+2020,FL,Male,Agriculture ,45313
+2020,GA,Male,Agriculture ,33467
+2020,HI,Male,Agriculture ,4294
+2020,IA,Male,Agriculture ,41810
+2020,ID,Male,Agriculture ,24718
+2020,IL,Male,Agriculture ,43163
+2020,IN,Male,Agriculture ,27342
+2020,KS,Male,Agriculture ,31853
+2020,KY,Male,Agriculture ,26149
+2020,LA,Male,Agriculture ,51771
+2020,MA,Male,Agriculture ,6655
+2020,MD,Male,Agriculture ,8097
+2020,ME,Male,Agriculture ,8782
+2020,MI,Male,Agriculture ,29754
+2020,MN,Male,Agriculture ,40438
+2020,MO,Male,Agriculture ,31612
+2020,MS,Male,Agriculture ,18572
+2020,MT,Male,Agriculture ,21775
+2020,NC,Male,Agriculture ,34488
+2020,ND,Male,Agriculture ,26579
+2020,NE,Male,Agriculture ,31437
+2020,NH,Male,Agriculture ,2721
+2020,NJ,Male,Agriculture ,7264
+2020,NM,Male,Agriculture ,24798
+2020,NV,Male,Agriculture ,13978
+2020,NY,Male,Agriculture ,32246
+2020,OH,Male,Agriculture ,33316
+2020,OK,Male,Agriculture ,52419
+2020,OR,Male,Agriculture ,33749
+2020,PA,Male,Agriculture ,51582
+2020,PR,Male,Agriculture ,4960
+2020,RI,Male,Agriculture ,1140
+2020,SC,Male,Agriculture ,13039
+2020,SD,Male,Agriculture ,20288
+2020,TN,Male,Agriculture ,18860
+2020,TX,Male,Agriculture ,263186
+2020,UT,Male,Agriculture ,16112
+2020,VA,Male,Agriculture ,22109
+2020,VT,Male,Agriculture ,4823
+2020,WA,Male,Agriculture ,48081
+2020,WI,Male,Agriculture ,40004
+2020,WV,Male,Agriculture ,20632
+2020,WY,Male,Agriculture ,20709
+2021,AK,Male,Agriculture ,7708
+2021,AL,Male,Agriculture ,21260
+2021,AR,Male,Agriculture ,22216
+2021,AZ,Male,Agriculture ,23957
+2021,CA,Male,Agriculture ,195090
+2021,CO,Male,Agriculture ,40074
+2021,CT,Male,Agriculture ,3606
+2021,DC,Male,Agriculture ,119
+2021,DE,Male,Agriculture ,2905
+2021,FL,Male,Agriculture ,44080
+2021,GA,Male,Agriculture ,32717
+2021,HI,Male,Agriculture ,4245
+2021,IA,Male,Agriculture ,41486
+2021,ID,Male,Agriculture ,24241
+2021,IL,Male,Agriculture ,42542
+2021,IN,Male,Agriculture ,26625
+2021,KS,Male,Agriculture ,32140
+2021,KY,Male,Agriculture ,25158
+2021,LA,Male,Agriculture ,49174
+2021,MA,Male,Agriculture ,6497
+2021,MD,Male,Agriculture ,8590
+2021,ME,Male,Agriculture ,8511
+2021,MI,Male,Agriculture ,28478
+2021,MN,Male,Agriculture ,40480
+2021,MO,Male,Agriculture ,31088
+2021,MS,Male,Agriculture ,18290
+2021,MT,Male,Agriculture ,21232
+2021,NC,Male,Agriculture ,33251
+2021,ND,Male,Agriculture ,25665
+2021,NE,Male,Agriculture ,30751
+2021,NH,Male,Agriculture ,2573
+2021,NJ,Male,Agriculture ,7548
+2021,NM,Male,Agriculture ,24773
+2021,NV,Male,Agriculture ,13932
+2021,NY,Male,Agriculture ,30780
+2021,OH,Male,Agriculture ,33887
+2021,OK,Male,Agriculture ,50131
+2021,OR,Male,Agriculture ,32137
+2021,PA,Male,Agriculture ,50651
+2021,PR,Male,Agriculture ,4992
+2021,RI,Male,Agriculture ,1364
+2021,SC,Male,Agriculture ,12522
+2021,SD,Male,Agriculture ,19594
+2021,TN,Male,Agriculture ,17742
+2021,TX,Male,Agriculture ,256343
+2021,UT,Male,Agriculture ,15754
+2021,VA,Male,Agriculture ,22409
+2021,VT,Male,Agriculture ,4710
+2021,WA,Male,Agriculture ,47776
+2021,WI,Male,Agriculture ,39909
+2021,WV,Male,Agriculture ,19070
+2021,WY,Male,Agriculture ,19491
+2019,AK,Male,Construction,13219
+2019,AL,Male,Construction,96986
+2019,AR,Male,Construction,60450
+2019,AZ,Male,Construction,153176
+2019,CA,Male,Construction,797713
+2019,CO,Male,Construction,164187
+2019,CT,Male,Construction,72905
+2019,DC,Male,Construction,6758
+2019,DE,Male,Construction,23039
+2019,FL,Male,Construction,504883
+2019,GA,Male,Construction,228796
+2019,HI,Male,Construction,34526
+2019,IA,Male,Construction,74950
+2019,ID,Male,Construction,42693
+2019,IL,Male,Construction,219765
+2019,IN,Male,Construction,129958
+2019,KS,Male,Construction,64953
+2019,KY,Male,Construction,80805
+2019,LA,Male,Construction,116201
+2019,MA,Male,Construction,141792
+2019,MD,Male,Construction,153879
+2019,ME,Male,Construction,31769
+2019,MI,Male,Construction,162179
+2019,MN,Male,Construction,119567
+2019,MO,Male,Construction,127740
+2019,MS,Male,Construction,58063
+2019,MT,Male,Construction,27836
+2019,NC,Male,Construction,231653
+2019,ND,Male,Construction,20503
+2019,NE,Male,Construction,50868
+2019,NH,Male,Construction,35067
+2019,NJ,Male,Construction,183962
+2019,NM,Male,Construction,44882
+2019,NV,Male,Construction,68345
+2019,NY,Male,Construction,374534
+2019,OH,Male,Construction,201123
+2019,OK,Male,Construction,88775
+2019,OR,Male,Construction,80538
+2019,PA,Male,Construction,247503
+2019,PR,Male,Construction,30658
+2019,RI,Male,Construction,19268
+2019,SC,Male,Construction,109473
+2019,SD,Male,Construction,21611
+2019,TN,Male,Construction,141374
+2019,TX,Male,Construction,830236
+2019,UT,Male,Construction,78365
+2019,VA,Male,Construction,190986
+2019,VT,Male,Construction,14873
+2019,WA,Male,Construction,161271
+2019,WI,Male,Construction,118557
+2019,WV,Male,Construction,32473
+2019,WY,Male,Construction,14314
+2020,AK,Male,Construction,12927
+2020,AL,Male,Construction,100788
+2020,AR,Male,Construction,64859
+2020,AZ,Male,Construction,161799
+2020,CA,Male,Construction,813212
+2020,CO,Male,Construction,164550
+2020,CT,Male,Construction,74407
+2020,DC,Male,Construction,6499
+2020,DE,Male,Construction,22678
+2020,FL,Male,Construction,529517
+2020,GA,Male,Construction,232559
+2020,HI,Male,Construction,33035
+2020,IA,Male,Construction,74874
+2020,ID,Male,Construction,46200
+2020,IL,Male,Construction,224095
+2020,IN,Male,Construction,134452
+2020,KS,Male,Construction,65005
+2020,KY,Male,Construction,82923
+2020,LA,Male,Construction,113325
+2020,MA,Male,Construction,142700
+2020,MD,Male,Construction,157859
+2020,ME,Male,Construction,32649
+2020,MI,Male,Construction,166606
+2020,MN,Male,Construction,120054
+2020,MO,Male,Construction,130874
+2020,MS,Male,Construction,59208
+2020,MT,Male,Construction,27990
+2020,NC,Male,Construction,235073
+2020,ND,Male,Construction,19879
+2020,NE,Male,Construction,50407
+2020,NH,Male,Construction,35778
+2020,NJ,Male,Construction,183169
+2020,NM,Male,Construction,46633
+2020,NV,Male,Construction,72066
+2020,NY,Male,Construction,367360
+2020,OH,Male,Construction,208865
+2020,OK,Male,Construction,89897
+2020,OR,Male,Construction,87345
+2020,PA,Male,Construction,253266
+2020,PR,Male,Construction,31028
+2020,RI,Male,Construction,22051
+2020,SC,Male,Construction,112696
+2020,SD,Male,Construction,21539
+2020,TN,Male,Construction,146984
+2020,TX,Male,Construction,837591
+2020,UT,Male,Construction,80666
+2020,VA,Male,Construction,192027
+2020,VT,Male,Construction,15386
+2020,WA,Male,Construction,167712
+2020,WI,Male,Construction,120723
+2020,WV,Male,Construction,33290
+2020,WY,Male,Construction,13718
+2021,AK,Male,Construction,12777
+2021,AL,Male,Construction,106372
+2021,AR,Male,Construction,67211
+2021,AZ,Male,Construction,166363
+2021,CA,Male,Construction,844428
+2021,CO,Male,Construction,166683
+2021,CT,Male,Construction,75590
+2021,DC,Male,Construction,5790
+2021,DE,Male,Construction,22683
+2021,FL,Male,Construction,549051
+2021,GA,Male,Construction,239630
+2021,HI,Male,Construction,32923
+2021,IA,Male,Construction,76981
+2021,ID,Male,Construction,49260
+2021,IL,Male,Construction,224772
+2021,IN,Male,Construction,139126
+2021,KS,Male,Construction,64937
+2021,KY,Male,Construction,83692
+2021,LA,Male,Construction,112658
+2021,MA,Male,Construction,146112
+2021,MD,Male,Construction,162992
+2021,ME,Male,Construction,34108
+2021,MI,Male,Construction,167887
+2021,MN,Male,Construction,121358
+2021,MO,Male,Construction,132795
+2021,MS,Male,Construction,61158
+2021,MT,Male,Construction,29460
+2021,NC,Male,Construction,241055
+2021,ND,Male,Construction,20358
+2021,NE,Male,Construction,50781
+2021,NH,Male,Construction,35459
+2021,NJ,Male,Construction,190059
+2021,NM,Male,Construction,46685
+2021,NV,Male,Construction,75637
+2021,NY,Male,Construction,377322
+2021,OH,Male,Construction,217486
+2021,OK,Male,Construction,88874
+2021,OR,Male,Construction,88779
+2021,PA,Male,Construction,256561
+2021,PR,Male,Construction,31778
+2021,RI,Male,Construction,23203
+2021,SC,Male,Construction,113650
+2021,SD,Male,Construction,20919
+2021,TN,Male,Construction,150860
+2021,TX,Male,Construction,848005
+2021,UT,Male,Construction,88191
+2021,VA,Male,Construction,193429
+2021,VT,Male,Construction,15935
+2021,WA,Male,Construction,172207
+2021,WI,Male,Construction,125587
+2021,WV,Male,Construction,33235
+2021,WY,Male,Construction,13762
+2019,AK,Male,Manufacturing,6010
+2019,AL,Male,Manufacturing,196927
+2019,AR,Male,Manufacturing,112159
+2019,AZ,Male,Manufacturing,139417
+2019,CA,Male,Manufacturing,1002340
+2019,CO,Male,Manufacturing,122759
+2019,CT,Male,Manufacturing,117622
+2019,DC,Male,Manufacturing,2371
+2019,DE,Male,Manufacturing,22421
+2019,FL,Male,Manufacturing,293298
+2019,GA,Male,Manufacturing,308596
+2019,HI,Male,Manufacturing,10857
+2019,IA,Male,Manufacturing,154458
+2019,ID,Male,Manufacturing,49820
+2019,IL,Male,Manufacturing,467434
+2019,IN,Male,Manufacturing,386843
+2019,KS,Male,Manufacturing,117760
+2019,KY,Male,Manufacturing,183538
+2019,LA,Male,Manufacturing,110495
+2019,MA,Male,Manufacturing,193991
+2019,MD,Male,Manufacturing,83832
+2019,ME,Male,Manufacturing,40195
+2019,MI,Male,Manufacturing,558554
+2019,MN,Male,Manufacturing,248837
+2019,MO,Male,Manufacturing,212476
+2019,MS,Male,Manufacturing,101436
+2019,MT,Male,Manufacturing,15826
+2019,NC,Male,Manufacturing,352698
+2019,ND,Male,Manufacturing,18193
+2019,NE,Male,Manufacturing,64642
+2019,NH,Male,Manufacturing,58139
+2019,NJ,Male,Manufacturing,202668
+2019,NM,Male,Manufacturing,22269
+2019,NV,Male,Manufacturing,39288
+2019,NY,Male,Manufacturing,339397
+2019,OH,Male,Manufacturing,554831
+2019,OK,Male,Manufacturing,114163
+2019,OR,Male,Manufacturing,143612
+2019,PA,Male,Manufacturing,468094
+2019,PR,Male,Manufacturing,45911
+2019,RI,Male,Manufacturing,32952
+2019,SC,Male,Manufacturing,195440
+2019,SD,Male,Manufacturing,27415
+2019,TN,Male,Manufacturing,254264
+2019,TX,Male,Manufacturing,738763
+2019,UT,Male,Manufacturing,95802
+2019,VA,Male,Manufacturing,187933
+2019,VT,Male,Manufacturing,20884
+2019,WA,Male,Manufacturing,230885
+2019,WI,Male,Manufacturing,344326
+2019,WV,Male,Manufacturing,40868
+2019,WY,Male,Manufacturing,7658
+2020,AK,Male,Manufacturing,5819
+2020,AL,Male,Manufacturing,196327
+2020,AR,Male,Manufacturing,109348
+2020,AZ,Male,Manufacturing,144110
+2020,CA,Male,Manufacturing,995685
+2020,CO,Male,Manufacturing,123999
+2020,CT,Male,Manufacturing,117229
+2020,DC,Male,Manufacturing,2069
+2020,DE,Male,Manufacturing,22057
+2020,FL,Male,Manufacturing,301240
+2020,GA,Male,Manufacturing,308230
+2020,HI,Male,Manufacturing,11125
+2020,IA,Male,Manufacturing,151780
+2020,ID,Male,Manufacturing,50325
+2020,IL,Male,Manufacturing,457032
+2020,IN,Male,Manufacturing,380549
+2020,KS,Male,Manufacturing,117598
+2020,KY,Male,Manufacturing,182389
+2020,LA,Male,Manufacturing,110615
+2020,MA,Male,Manufacturing,193079
+2020,MD,Male,Manufacturing,84351
+2020,ME,Male,Manufacturing,39195
+2020,MI,Male,Manufacturing,549892
+2020,MN,Male,Manufacturing,247629
+2020,MO,Male,Manufacturing,210975
+2020,MS,Male,Manufacturing,101435
+2020,MT,Male,Manufacturing,16799
+2020,NC,Male,Manufacturing,346729
+2020,ND,Male,Manufacturing,17305
+2020,NE,Male,Manufacturing,64589
+2020,NH,Male,Manufacturing,58105
+2020,NJ,Male,Manufacturing,201097
+2020,NM,Male,Manufacturing,22081
+2020,NV,Male,Manufacturing,40757
+2020,NY,Male,Manufacturing,334740
+2020,OH,Male,Manufacturing,542384
+2020,OK,Male,Manufacturing,114668
+2020,OR,Male,Manufacturing,144503
+2020,PA,Male,Manufacturing,461742
+2020,PR,Male,Manufacturing,45810
+2020,RI,Male,Manufacturing,32948
+2020,SC,Male,Manufacturing,193438
+2020,SD,Male,Manufacturing,26915
+2020,TN,Male,Manufacturing,252118
+2020,TX,Male,Manufacturing,744135
+2020,UT,Male,Manufacturing,95877
+2020,VA,Male,Manufacturing,188768
+2020,VT,Male,Manufacturing,20613
+2020,WA,Male,Manufacturing,226231
+2020,WI,Male,Manufacturing,338350
+2020,WV,Male,Manufacturing,41376
+2020,WY,Male,Manufacturing,7565
+2021,AK,Male,Manufacturing,5999
+2021,AL,Male,Manufacturing,199764
+2021,AR,Male,Manufacturing,107606
+2021,AZ,Male,Manufacturing,148470
+2021,CA,Male,Manufacturing,994288
+2021,CO,Male,Manufacturing,127362
+2021,CT,Male,Manufacturing,118831
+2021,DC,Male,Manufacturing,2328
+2021,DE,Male,Manufacturing,21557
+2021,FL,Male,Manufacturing,309369
+2021,GA,Male,Manufacturing,307942
+2021,HI,Male,Manufacturing,11234
+2021,IA,Male,Manufacturing,153927
+2021,ID,Male,Manufacturing,51993
+2021,IL,Male,Manufacturing,458780
+2021,IN,Male,Manufacturing,379870
+2021,KS,Male,Manufacturing,115043
+2021,KY,Male,Manufacturing,180273
+2021,LA,Male,Manufacturing,108562
+2021,MA,Male,Manufacturing,196042
+2021,MD,Male,Manufacturing,86369
+2021,ME,Male,Manufacturing,39905
+2021,MI,Male,Manufacturing,549038
+2021,MN,Male,Manufacturing,247348
+2021,MO,Male,Manufacturing,212115
+2021,MS,Male,Manufacturing,101875
+2021,MT,Male,Manufacturing,16277
+2021,NC,Male,Manufacturing,346203
+2021,ND,Male,Manufacturing,17533
+2021,NE,Male,Manufacturing,64993
+2021,NH,Male,Manufacturing,58865
+2021,NJ,Male,Manufacturing,209089
+2021,NM,Male,Manufacturing,22424
+2021,NV,Male,Manufacturing,42886
+2021,NY,Male,Manufacturing,336431
+2021,OH,Male,Manufacturing,540194
+2021,OK,Male,Manufacturing,112703
+2021,OR,Male,Manufacturing,144284
+2021,PA,Male,Manufacturing,466484
+2021,PR,Male,Manufacturing,46536
+2021,RI,Male,Manufacturing,33963
+2021,SC,Male,Manufacturing,191951
+2021,SD,Male,Manufacturing,27853
+2021,TN,Male,Manufacturing,254776
+2021,TX,Male,Manufacturing,757055
+2021,UT,Male,Manufacturing,100399
+2021,VA,Male,Manufacturing,188660
+2021,VT,Male,Manufacturing,20584
+2021,WA,Male,Manufacturing,226718
+2021,WI,Male,Manufacturing,338492
+2021,WV,Male,Manufacturing,41271
+2021,WY,Male,Manufacturing,7057
+2019,AK,Male,Wholesale trade,4172
+2019,AL,Male,Wholesale trade,34686
+2019,AR,Male,Wholesale trade,20366
+2019,AZ,Male,Wholesale trade,44235
+2019,CA,Male,Wholesale trade,297378
+2019,CO,Male,Wholesale trade,43620
+2019,CT,Male,Wholesale trade,27137
+2019,DC,Male,Wholesale trade,1083
+2019,DE,Male,Wholesale trade,5392
+2019,FL,Male,Wholesale trade,147137
+2019,GA,Male,Wholesale trade,79503
+2019,HI,Male,Wholesale trade,8406
+2019,IA,Male,Wholesale trade,31106
+2019,ID,Male,Wholesale trade,13877
+2019,IL,Male,Wholesale trade,110926
+2019,IN,Male,Wholesale trade,50803
+2019,KS,Male,Wholesale trade,25926
+2019,KY,Male,Wholesale trade,30156
+2019,LA,Male,Wholesale trade,32763
+2019,MA,Male,Wholesale trade,46808
+2019,MD,Male,Wholesale trade,33465
+2019,ME,Male,Wholesale trade,9218
+2019,MI,Male,Wholesale trade,67389
+2019,MN,Male,Wholesale trade,53080
+2019,MO,Male,Wholesale trade,47684
+2019,MS,Male,Wholesale trade,18845
+2019,MT,Male,Wholesale trade,7819
+2019,NC,Male,Wholesale trade,71050
+2019,ND,Male,Wholesale trade,10334
+2019,NE,Male,Wholesale trade,18758
+2019,NH,Male,Wholesale trade,12176
+2019,NJ,Male,Wholesale trade,83958
+2019,NM,Male,Wholesale trade,10882
+2019,NV,Male,Wholesale trade,16565
+2019,NY,Male,Wholesale trade,126993
+2019,OH,Male,Wholesale trade,90127
+2019,OK,Male,Wholesale trade,28433
+2019,OR,Male,Wholesale trade,33515
+2019,PA,Male,Wholesale trade,102544
+2019,PR,Male,Wholesale trade,17141
+2019,RI,Male,Wholesale trade,7584
+2019,SC,Male,Wholesale trade,33260
+2019,SD,Male,Wholesale trade,8647
+2019,TN,Male,Wholesale trade,49173
+2019,TX,Male,Wholesale trade,235338
+2019,UT,Male,Wholesale trade,22299
+2019,VA,Male,Wholesale trade,45267
+2019,VT,Male,Wholesale trade,4517
+2019,WA,Male,Wholesale trade,59259
+2019,WI,Male,Wholesale trade,47453
+2019,WV,Male,Wholesale trade,11191
+2019,WY,Male,Wholesale trade,3539
+2020,AK,Male,Wholesale trade,3780
+2020,AL,Male,Wholesale trade,33764
+2020,AR,Male,Wholesale trade,20287
+2020,AZ,Male,Wholesale trade,46258
+2020,CA,Male,Wholesale trade,290494
+2020,CO,Male,Wholesale trade,42336
+2020,CT,Male,Wholesale trade,26065
+2020,DC,Male,Wholesale trade,1437
+2020,DE,Male,Wholesale trade,5389
+2020,FL,Male,Wholesale trade,149641
+2020,GA,Male,Wholesale trade,81128
+2020,HI,Male,Wholesale trade,7925
+2020,IA,Male,Wholesale trade,30944
+2020,ID,Male,Wholesale trade,14147
+2020,IL,Male,Wholesale trade,106825
+2020,IN,Male,Wholesale trade,49530
+2020,KS,Male,Wholesale trade,26085
+2020,KY,Male,Wholesale trade,30573
+2020,LA,Male,Wholesale trade,32889
+2020,MA,Male,Wholesale trade,46441
+2020,MD,Male,Wholesale trade,33503
+2020,ME,Male,Wholesale trade,9281
+2020,MI,Male,Wholesale trade,66848
+2020,MN,Male,Wholesale trade,52275
+2020,MO,Male,Wholesale trade,48353
+2020,MS,Male,Wholesale trade,18577
+2020,MT,Male,Wholesale trade,7387
+2020,NC,Male,Wholesale trade,72315
+2020,ND,Male,Wholesale trade,9231
+2020,NE,Male,Wholesale trade,17516
+2020,NH,Male,Wholesale trade,11884
+2020,NJ,Male,Wholesale trade,82273
+2020,NM,Male,Wholesale trade,9424
+2020,NV,Male,Wholesale trade,17377
+2020,NY,Male,Wholesale trade,119276
+2020,OH,Male,Wholesale trade,88401
+2020,OK,Male,Wholesale trade,28527
+2020,OR,Male,Wholesale trade,33102
+2020,PA,Male,Wholesale trade,98191
+2020,PR,Male,Wholesale trade,17635
+2020,RI,Male,Wholesale trade,7011
+2020,SC,Male,Wholesale trade,32299
+2020,SD,Male,Wholesale trade,8412
+2020,TN,Male,Wholesale trade,47784
+2020,TX,Male,Wholesale trade,232453
+2020,UT,Male,Wholesale trade,22741
+2020,VA,Male,Wholesale trade,44443
+2020,VT,Male,Wholesale trade,4115
+2020,WA,Male,Wholesale trade,58770
+2020,WI,Male,Wholesale trade,48910
+2020,WV,Male,Wholesale trade,10350
+2020,WY,Male,Wholesale trade,3401
+2021,AK,Male,Wholesale trade,3264
+2021,AL,Male,Wholesale trade,33302
+2021,AR,Male,Wholesale trade,20144
+2021,AZ,Male,Wholesale trade,45876
+2021,CA,Male,Wholesale trade,281113
+2021,CO,Male,Wholesale trade,43596
+2021,CT,Male,Wholesale trade,24945
+2021,DC,Male,Wholesale trade,1405
+2021,DE,Male,Wholesale trade,5080
+2021,FL,Male,Wholesale trade,149762
+2021,GA,Male,Wholesale trade,81360
+2021,HI,Male,Wholesale trade,7847
+2021,IA,Male,Wholesale trade,30243
+2021,ID,Male,Wholesale trade,14802
+2021,IL,Male,Wholesale trade,104893
+2021,IN,Male,Wholesale trade,48908
+2021,KS,Male,Wholesale trade,25082
+2021,KY,Male,Wholesale trade,29592
+2021,LA,Male,Wholesale trade,33454
+2021,MA,Male,Wholesale trade,44757
+2021,MD,Male,Wholesale trade,33633
+2021,ME,Male,Wholesale trade,8703
+2021,MI,Male,Wholesale trade,65931
+2021,MN,Male,Wholesale trade,51784
+2021,MO,Male,Wholesale trade,47893
+2021,MS,Male,Wholesale trade,18175
+2021,MT,Male,Wholesale trade,7138
+2021,NC,Male,Wholesale trade,70571
+2021,ND,Male,Wholesale trade,8723
+2021,NE,Male,Wholesale trade,17206
+2021,NH,Male,Wholesale trade,11323
+2021,NJ,Male,Wholesale trade,81773
+2021,NM,Male,Wholesale trade,9238
+2021,NV,Male,Wholesale trade,17093
+2021,NY,Male,Wholesale trade,117976
+2021,OH,Male,Wholesale trade,87147
+2021,OK,Male,Wholesale trade,28046
+2021,OR,Male,Wholesale trade,32509
+2021,PA,Male,Wholesale trade,98235
+2021,PR,Male,Wholesale trade,18514
+2021,RI,Male,Wholesale trade,7239
+2021,SC,Male,Wholesale trade,32138
+2021,SD,Male,Wholesale trade,8108
+2021,TN,Male,Wholesale trade,48253
+2021,TX,Male,Wholesale trade,228440
+2021,UT,Male,Wholesale trade,23397
+2021,VA,Male,Wholesale trade,43877
+2021,VT,Male,Wholesale trade,3851
+2021,WA,Male,Wholesale trade,58036
+2021,WI,Male,Wholesale trade,49688
+2021,WV,Male,Wholesale trade,10271
+2021,WY,Male,Wholesale trade,3256
+2019,AK,Male,Retail trade,13468
+2019,AL,Male,Retail trade,82065
+2019,AR,Male,Retail trade,66150
+2019,AZ,Male,Retail trade,135017
+2019,CA,Male,Retail trade,684952
+2019,CO,Male,Retail trade,112727
+2019,CT,Male,Retail trade,63252
+2019,DC,Male,Retail trade,5374
+2019,DE,Male,Retail trade,17673
+2019,FL,Male,Retail trade,417462
+2019,GA,Male,Retail trade,188642
+2019,HI,Male,Retail trade,23065
+2019,IA,Male,Retail trade,60288
+2019,ID,Male,Retail trade,34914
+2019,IL,Male,Retail trade,218191
+2019,IN,Male,Retail trade,113250
+2019,KS,Male,Retail trade,51599
+2019,KY,Male,Retail trade,75091
+2019,LA,Male,Retail trade,75187
+2019,MA,Male,Retail trade,122607
+2019,MD,Male,Retail trade,96757
+2019,ME,Male,Retail trade,29313
+2019,MI,Male,Retail trade,157303
+2019,MN,Male,Retail trade,107758
+2019,MO,Male,Retail trade,116052
+2019,MS,Male,Retail trade,48807
+2019,MT,Male,Retail trade,22780
+2019,NC,Male,Retail trade,182372
+2019,ND,Male,Retail trade,16232
+2019,NE,Male,Retail trade,37581
+2019,NH,Male,Retail trade,31052
+2019,NJ,Male,Retail trade,167716
+2019,NM,Male,Retail trade,35369
+2019,NV,Male,Retail trade,54396
+2019,NY,Male,Retail trade,335840
+2019,OH,Male,Retail trade,209463
+2019,OK,Male,Retail trade,71980
+2019,OR,Male,Retail trade,79829
+2019,PA,Male,Retail trade,229306
+2019,PR,Male,Retail trade,40976
+2019,RI,Male,Retail trade,21671
+2019,SC,Male,Retail trade,86397
+2019,SD,Male,Retail trade,17522
+2019,TN,Male,Retail trade,123225
+2019,TX,Male,Retail trade,541873
+2019,UT,Male,Retail trade,61936
+2019,VA,Male,Retail trade,141506
+2019,VT,Male,Retail trade,12629
+2019,WA,Male,Retail trade,150231
+2019,WI,Male,Retail trade,106450
+2019,WV,Male,Retail trade,32504
+2019,WY,Male,Retail trade,9492
+2020,AK,Male,Retail trade,12975
+2020,AL,Male,Retail trade,83529
+2020,AR,Male,Retail trade,65675
+2020,AZ,Male,Retail trade,137879
+2020,CA,Male,Retail trade,679979
+2020,CO,Male,Retail trade,112954
+2020,CT,Male,Retail trade,62045
+2020,DC,Male,Retail trade,5256
+2020,DE,Male,Retail trade,17814
+2020,FL,Male,Retail trade,420250
+2020,GA,Male,Retail trade,188657
+2020,HI,Male,Retail trade,22288
+2020,IA,Male,Retail trade,60320
+2020,ID,Male,Retail trade,34789
+2020,IL,Male,Retail trade,217059
+2020,IN,Male,Retail trade,114578
+2020,KS,Male,Retail trade,52369
+2020,KY,Male,Retail trade,77570
+2020,LA,Male,Retail trade,74271
+2020,MA,Male,Retail trade,120362
+2020,MD,Male,Retail trade,95289
+2020,ME,Male,Retail trade,29153
+2020,MI,Male,Retail trade,156594
+2020,MN,Male,Retail trade,107930
+2020,MO,Male,Retail trade,114644
+2020,MS,Male,Retail trade,49929
+2020,MT,Male,Retail trade,24169
+2020,NC,Male,Retail trade,184672
+2020,ND,Male,Retail trade,16486
+2020,NE,Male,Retail trade,37210
+2020,NH,Male,Retail trade,30256
+2020,NJ,Male,Retail trade,165003
+2020,NM,Male,Retail trade,35574
+2020,NV,Male,Retail trade,56983
+2020,NY,Male,Retail trade,321217
+2020,OH,Male,Retail trade,207795
+2020,OK,Male,Retail trade,71959
+2020,OR,Male,Retail trade,83450
+2020,PA,Male,Retail trade,225211
+2020,PR,Male,Retail trade,40107
+2020,RI,Male,Retail trade,21117
+2020,SC,Male,Retail trade,86288
+2020,SD,Male,Retail trade,18085
+2020,TN,Male,Retail trade,125349
+2020,TX,Male,Retail trade,549633
+2020,UT,Male,Retail trade,63337
+2020,VA,Male,Retail trade,138618
+2020,VT,Male,Retail trade,12770
+2020,WA,Male,Retail trade,152360
+2020,WI,Male,Retail trade,105990
+2020,WV,Male,Retail trade,32733
+2020,WY,Male,Retail trade,9990
+2021,AK,Male,Retail trade,12804
+2021,AL,Male,Retail trade,88496
+2021,AR,Male,Retail trade,65798
+2021,AZ,Male,Retail trade,139601
+2021,CA,Male,Retail trade,672398
+2021,CO,Male,Retail trade,113055
+2021,CT,Male,Retail trade,63851
+2021,DC,Male,Retail trade,5080
+2021,DE,Male,Retail trade,18752
+2021,FL,Male,Retail trade,422206
+2021,GA,Male,Retail trade,190041
+2021,HI,Male,Retail trade,22528
+2021,IA,Male,Retail trade,61878
+2021,ID,Male,Retail trade,34393
+2021,IL,Male,Retail trade,219426
+2021,IN,Male,Retail trade,117537
+2021,KS,Male,Retail trade,52895
+2021,KY,Male,Retail trade,80228
+2021,LA,Male,Retail trade,75601
+2021,MA,Male,Retail trade,124283
+2021,MD,Male,Retail trade,96340
+2021,ME,Male,Retail trade,28863
+2021,MI,Male,Retail trade,159615
+2021,MN,Male,Retail trade,108124
+2021,MO,Male,Retail trade,115247
+2021,MS,Male,Retail trade,48895
+2021,MT,Male,Retail trade,23950
+2021,NC,Male,Retail trade,183051
+2021,ND,Male,Retail trade,16248
+2021,NE,Male,Retail trade,37098
+2021,NH,Male,Retail trade,30949
+2021,NJ,Male,Retail trade,173010
+2021,NM,Male,Retail trade,33727
+2021,NV,Male,Retail trade,56522
+2021,NY,Male,Retail trade,322288
+2021,OH,Male,Retail trade,209446
+2021,OK,Male,Retail trade,74209
+2021,OR,Male,Retail trade,84825
+2021,PA,Male,Retail trade,227207
+2021,PR,Male,Retail trade,41746
+2021,RI,Male,Retail trade,22407
+2021,SC,Male,Retail trade,85906
+2021,SD,Male,Retail trade,17505
+2021,TN,Male,Retail trade,127340
+2021,TX,Male,Retail trade,553078
+2021,UT,Male,Retail trade,64092
+2021,VA,Male,Retail trade,138328
+2021,VT,Male,Retail trade,12970
+2021,WA,Male,Retail trade,154145
+2021,WI,Male,Retail trade,107030
+2021,WV,Male,Retail trade,33051
+2021,WY,Male,Retail trade,10297
+2019,AK,Male,Transportation warehousing utilities,14220
+2019,AL,Male,Transportation warehousing utilities,75196
+2019,AR,Male,Transportation warehousing utilities,48465
+2019,AZ,Male,Transportation warehousing utilities,98626
+2019,CA,Male,Transportation warehousing utilities,582167
+2019,CO,Male,Transportation warehousing utilities,82115
+2019,CT,Male,Transportation warehousing utilities,42565
+2019,DC,Male,Transportation warehousing utilities,5494
+2019,DE,Male,Transportation warehousing utilities,14160
+2019,FL,Male,Transportation warehousing utilities,321335
+2019,GA,Male,Transportation warehousing utilities,191395
+2019,HI,Male,Transportation warehousing utilities,20670
+2019,IA,Male,Transportation warehousing utilities,52419
+2019,ID,Male,Transportation warehousing utilities,24333
+2019,IL,Male,Transportation warehousing utilities,240250
+2019,IN,Male,Transportation warehousing utilities,108343
+2019,KS,Male,Transportation warehousing utilities,46426
+2019,KY,Male,Transportation warehousing utilities,72374
+2019,LA,Male,Transportation warehousing utilities,72160
+2019,MA,Male,Transportation warehousing utilities,80643
+2019,MD,Male,Transportation warehousing utilities,87124
+2019,ME,Male,Transportation warehousing utilities,15878
+2019,MI,Male,Transportation warehousing utilities,117699
+2019,MN,Male,Transportation warehousing utilities,81617
+2019,MO,Male,Transportation warehousing utilities,100215
+2019,MS,Male,Transportation warehousing utilities,49988
+2019,MT,Male,Transportation warehousing utilities,16524
+2019,NC,Male,Transportation warehousing utilities,136412
+2019,ND,Male,Transportation warehousing utilities,14083
+2019,NE,Male,Transportation warehousing utilities,39888
+2019,NH,Male,Transportation warehousing utilities,16633
+2019,NJ,Male,Transportation warehousing utilities,164304
+2019,NM,Male,Transportation warehousing utilities,24014
+2019,NV,Male,Transportation warehousing utilities,49609
+2019,NY,Male,Transportation warehousing utilities,326205
+2019,OH,Male,Transportation warehousing utilities,176715
+2019,OK,Male,Transportation warehousing utilities,63741
+2019,OR,Male,Transportation warehousing utilities,49846
+2019,PA,Male,Transportation warehousing utilities,211062
+2019,PR,Male,Transportation warehousing utilities,22821
+2019,RI,Male,Transportation warehousing utilities,11966
+2019,SC,Male,Transportation warehousing utilities,72928
+2019,SD,Male,Transportation warehousing utilities,12630
+2019,TN,Male,Transportation warehousing utilities,120073
+2019,TX,Male,Transportation warehousing utilities,487957
+2019,UT,Male,Transportation warehousing utilities,43906
+2019,VA,Male,Transportation warehousing utilities,110038
+2019,VT,Male,Transportation warehousing utilities,6033
+2019,WA,Male,Transportation warehousing utilities,112049
+2019,WI,Male,Transportation warehousing utilities,80147
+2019,WV,Male,Transportation warehousing utilities,27724
+2019,WY,Male,Transportation warehousing utilities,10830
+2020,AK,Male,Transportation warehousing utilities,15469
+2020,AL,Male,Transportation warehousing utilities,75529
+2020,AR,Male,Transportation warehousing utilities,49758
+2020,AZ,Male,Transportation warehousing utilities,101590
+2020,CA,Male,Transportation warehousing utilities,596011
+2020,CO,Male,Transportation warehousing utilities,84082
+2020,CT,Male,Transportation warehousing utilities,42582
+2020,DC,Male,Transportation warehousing utilities,6529
+2020,DE,Male,Transportation warehousing utilities,15267
+2020,FL,Male,Transportation warehousing utilities,333649
+2020,GA,Male,Transportation warehousing utilities,193215
+2020,HI,Male,Transportation warehousing utilities,21718
+2020,IA,Male,Transportation warehousing utilities,52178
+2020,ID,Male,Transportation warehousing utilities,25776
+2020,IL,Male,Transportation warehousing utilities,241096
+2020,IN,Male,Transportation warehousing utilities,111610
+2020,KS,Male,Transportation warehousing utilities,46954
+2020,KY,Male,Transportation warehousing utilities,75248
+2020,LA,Male,Transportation warehousing utilities,72410
+2020,MA,Male,Transportation warehousing utilities,82236
+2020,MD,Male,Transportation warehousing utilities,87150
+2020,ME,Male,Transportation warehousing utilities,16453
+2020,MI,Male,Transportation warehousing utilities,117292
+2020,MN,Male,Transportation warehousing utilities,80500
+2020,MO,Male,Transportation warehousing utilities,102183
+2020,MS,Male,Transportation warehousing utilities,51312
+2020,MT,Male,Transportation warehousing utilities,16779
+2020,NC,Male,Transportation warehousing utilities,139559
+2020,ND,Male,Transportation warehousing utilities,14587
+2020,NE,Male,Transportation warehousing utilities,39908
+2020,NH,Male,Transportation warehousing utilities,15948
+2020,NJ,Male,Transportation warehousing utilities,168276
+2020,NM,Male,Transportation warehousing utilities,24543
+2020,NV,Male,Transportation warehousing utilities,50222
+2020,NY,Male,Transportation warehousing utilities,320192
+2020,OH,Male,Transportation warehousing utilities,180263
+2020,OK,Male,Transportation warehousing utilities,64717
+2020,OR,Male,Transportation warehousing utilities,50630
+2020,PA,Male,Transportation warehousing utilities,211004
+2020,PR,Male,Transportation warehousing utilities,23265
+2020,RI,Male,Transportation warehousing utilities,12818
+2020,SC,Male,Transportation warehousing utilities,75146
+2020,SD,Male,Transportation warehousing utilities,11991
+2020,TN,Male,Transportation warehousing utilities,123422
+2020,TX,Male,Transportation warehousing utilities,500175
+2020,UT,Male,Transportation warehousing utilities,46109
+2020,VA,Male,Transportation warehousing utilities,113145
+2020,VT,Male,Transportation warehousing utilities,6032
+2020,WA,Male,Transportation warehousing utilities,114196
+2020,WI,Male,Transportation warehousing utilities,81176
+2020,WV,Male,Transportation warehousing utilities,29243
+2020,WY,Male,Transportation warehousing utilities,11153
+2021,AK,Male,Transportation warehousing utilities,16682
+2021,AL,Male,Transportation warehousing utilities,78246
+2021,AR,Male,Transportation warehousing utilities,50548
+2021,AZ,Male,Transportation warehousing utilities,103071
+2021,CA,Male,Transportation warehousing utilities,614161
+2021,CO,Male,Transportation warehousing utilities,86849
+2021,CT,Male,Transportation warehousing utilities,44668
+2021,DC,Male,Transportation warehousing utilities,6075
+2021,DE,Male,Transportation warehousing utilities,15108
+2021,FL,Male,Transportation warehousing utilities,346305
+2021,GA,Male,Transportation warehousing utilities,199968
+2021,HI,Male,Transportation warehousing utilities,22227
+2021,IA,Male,Transportation warehousing utilities,52148
+2021,ID,Male,Transportation warehousing utilities,25821
+2021,IL,Male,Transportation warehousing utilities,243151
+2021,IN,Male,Transportation warehousing utilities,113708
+2021,KS,Male,Transportation warehousing utilities,48808
+2021,KY,Male,Transportation warehousing utilities,75003
+2021,LA,Male,Transportation warehousing utilities,70796
+2021,MA,Male,Transportation warehousing utilities,84590
+2021,MD,Male,Transportation warehousing utilities,89662
+2021,ME,Male,Transportation warehousing utilities,17163
+2021,MI,Male,Transportation warehousing utilities,119759
+2021,MN,Male,Transportation warehousing utilities,81630
+2021,MO,Male,Transportation warehousing utilities,102154
+2021,MS,Male,Transportation warehousing utilities,52512
+2021,MT,Male,Transportation warehousing utilities,16646
+2021,NC,Male,Transportation warehousing utilities,143076
+2021,ND,Male,Transportation warehousing utilities,14036
+2021,NE,Male,Transportation warehousing utilities,41234
+2021,NH,Male,Transportation warehousing utilities,16632
+2021,NJ,Male,Transportation warehousing utilities,171759
+2021,NM,Male,Transportation warehousing utilities,25653
+2021,NV,Male,Transportation warehousing utilities,52076
+2021,NY,Male,Transportation warehousing utilities,327864
+2021,OH,Male,Transportation warehousing utilities,185008
+2021,OK,Male,Transportation warehousing utilities,65636
+2021,OR,Male,Transportation warehousing utilities,50612
+2021,PA,Male,Transportation warehousing utilities,214731
+2021,PR,Male,Transportation warehousing utilities,22853
+2021,RI,Male,Transportation warehousing utilities,14056
+2021,SC,Male,Transportation warehousing utilities,76043
+2021,SD,Male,Transportation warehousing utilities,12718
+2021,TN,Male,Transportation warehousing utilities,126703
+2021,TX,Male,Transportation warehousing utilities,520608
+2021,UT,Male,Transportation warehousing utilities,47204
+2021,VA,Male,Transportation warehousing utilities,117843
+2021,VT,Male,Transportation warehousing utilities,6156
+2021,WA,Male,Transportation warehousing utilities,116358
+2021,WI,Male,Transportation warehousing utilities,84341
+2021,WV,Male,Transportation warehousing utilities,29755
+2021,WY,Male,Transportation warehousing utilities,10734
+2019,AK,Male,Information,3422
+2019,AL,Male,Information,15081
+2019,AR,Male,Information,9911
+2019,AZ,Male,Information,26911
+2019,CA,Male,Information,269700
+2019,CO,Male,Information,42278
+2019,CT,Male,Information,19149
+2019,DC,Male,Information,6009
+2019,DE,Male,Information,3105
+2019,FL,Male,Information,85592
+2019,GA,Male,Information,55521
+2019,HI,Male,Information,4621
+2019,IA,Male,Information,9060
+2019,ID,Male,Information,4994
+2019,IL,Male,Information,51334
+2019,IN,Male,Information,20763
+2019,KS,Male,Information,13492
+2019,KY,Male,Information,13813
+2019,LA,Male,Information,14061
+2019,MA,Male,Information,38465
+2019,MD,Male,Information,29691
+2019,ME,Male,Information,4827
+2019,MI,Male,Information,26974
+2019,MN,Male,Information,22559
+2019,MO,Male,Information,24802
+2019,MS,Male,Information,7161
+2019,MT,Male,Information,3264
+2019,NC,Male,Information,41426
+2019,ND,Male,Information,2209
+2019,NE,Male,Information,8343
+2019,NH,Male,Information,6744
+2019,NJ,Male,Information,62744
+2019,NM,Male,Information,5638
+2019,NV,Male,Information,9979
+2019,NY,Male,Information,123035
+2019,OH,Male,Information,38436
+2019,OK,Male,Information,13671
+2019,OR,Male,Information,15140
+2019,PA,Male,Information,49367
+2019,PR,Male,Information,8104
+2019,RI,Male,Information,4043
+2019,SC,Male,Information,15777
+2019,SD,Male,Information,2704
+2019,TN,Male,Information,24705
+2019,TX,Male,Information,117359
+2019,UT,Male,Information,14980
+2019,VA,Male,Information,39804
+2019,VT,Male,Information,2289
+2019,WA,Male,Information,40809
+2019,WI,Male,Information,21077
+2019,WV,Male,Information,5094
+2019,WY,Male,Information,1715
+2020,AK,Male,Information,3331
+2020,AL,Male,Information,15457
+2020,AR,Male,Information,8866
+2020,AZ,Male,Information,27973
+2020,CA,Male,Information,267455
+2020,CO,Male,Information,41883
+2020,CT,Male,Information,17168
+2020,DC,Male,Information,5874
+2020,DE,Male,Information,2710
+2020,FL,Male,Information,84218
+2020,GA,Male,Information,55858
+2020,HI,Male,Information,4266
+2020,IA,Male,Information,8731
+2020,ID,Male,Information,5392
+2020,IL,Male,Information,49585
+2020,IN,Male,Information,19162
+2020,KS,Male,Information,12520
+2020,KY,Male,Information,14060
+2020,LA,Male,Information,13250
+2020,MA,Male,Information,37983
+2020,MD,Male,Information,28946
+2020,ME,Male,Information,4276
+2020,MI,Male,Information,25639
+2020,MN,Male,Information,22050
+2020,MO,Male,Information,23592
+2020,MS,Male,Information,7330
+2020,MT,Male,Information,3224
+2020,NC,Male,Information,42026
+2020,ND,Male,Information,2321
+2020,NE,Male,Information,8194
+2020,NH,Male,Information,6469
+2020,NJ,Male,Information,61120
+2020,NM,Male,Information,5845
+2020,NV,Male,Information,10414
+2020,NY,Male,Information,118191
+2020,OH,Male,Information,38062
+2020,OK,Male,Information,12988
+2020,OR,Male,Information,14908
+2020,PA,Male,Information,48676
+2020,PR,Male,Information,7968
+2020,RI,Male,Information,3627
+2020,SC,Male,Information,15642
+2020,SD,Male,Information,2592
+2020,TN,Male,Information,24260
+2020,TX,Male,Information,116872
+2020,UT,Male,Information,14058
+2020,VA,Male,Information,39526
+2020,VT,Male,Information,2260
+2020,WA,Male,Information,42711
+2020,WI,Male,Information,21370
+2020,WV,Male,Information,5371
+2020,WY,Male,Information,1643
+2021,AK,Male,Information,2929
+2021,AL,Male,Information,14545
+2021,AR,Male,Information,8617
+2021,AZ,Male,Information,27788
+2021,CA,Male,Information,266235
+2021,CO,Male,Information,42347
+2021,CT,Male,Information,16323
+2021,DC,Male,Information,5895
+2021,DE,Male,Information,2598
+2021,FL,Male,Information,84349
+2021,GA,Male,Information,57402
+2021,HI,Male,Information,3807
+2021,IA,Male,Information,8407
+2021,ID,Male,Information,5455
+2021,IL,Male,Information,49487
+2021,IN,Male,Information,19522
+2021,KS,Male,Information,11929
+2021,KY,Male,Information,13129
+2021,LA,Male,Information,12970
+2021,MA,Male,Information,37113
+2021,MD,Male,Information,29310
+2021,ME,Male,Information,4310
+2021,MI,Male,Information,24508
+2021,MN,Male,Information,20658
+2021,MO,Male,Information,22359
+2021,MS,Male,Information,7011
+2021,MT,Male,Information,3391
+2021,NC,Male,Information,41693
+2021,ND,Male,Information,2195
+2021,NE,Male,Information,7985
+2021,NH,Male,Information,7010
+2021,NJ,Male,Information,62465
+2021,NM,Male,Information,5601
+2021,NV,Male,Information,10453
+2021,NY,Male,Information,119236
+2021,OH,Male,Information,38300
+2021,OK,Male,Information,13223
+2021,OR,Male,Information,13755
+2021,PA,Male,Information,48855
+2021,PR,Male,Information,8298
+2021,RI,Male,Information,3411
+2021,SC,Male,Information,16944
+2021,SD,Male,Information,2596
+2021,TN,Male,Information,23627
+2021,TX,Male,Information,114756
+2021,UT,Male,Information,13584
+2021,VA,Male,Information,38967
+2021,VT,Male,Information,2433
+2021,WA,Male,Information,44946
+2021,WI,Male,Information,21122
+2021,WV,Male,Information,5203
+2021,WY,Male,Information,1395
+2019,AK,Male,Finance insurance realestate ,4136
+2019,AL,Male,Finance insurance realestate ,38366
+2019,AR,Male,Finance insurance realestate ,20665
+2019,AZ,Male,Finance insurance realestate ,102886
+2019,CA,Male,Finance insurance realestate ,438842
+2019,CO,Male,Finance insurance realestate ,79887
+2019,CT,Male,Finance insurance realestate ,74200
+2019,DC,Male,Finance insurance realestate ,12625
+2019,DE,Male,Finance insurance realestate ,17100
+2019,FL,Male,Finance insurance realestate ,279858
+2019,GA,Male,Finance insurance realestate ,112930
+2019,HI,Male,Finance insurance realestate ,16569
+2019,IA,Male,Finance insurance realestate ,45282
+2019,ID,Male,Finance insurance realestate ,14186
+2019,IL,Male,Finance insurance realestate ,191116
+2019,IN,Male,Finance insurance realestate ,57302
+2019,KS,Male,Finance insurance realestate ,32674
+2019,KY,Male,Finance insurance realestate ,39327
+2019,LA,Male,Finance insurance realestate ,33501
+2019,MA,Male,Finance insurance realestate ,115024
+2019,MD,Male,Finance insurance realestate ,74607
+2019,ME,Male,Finance insurance realestate ,13848
+2019,MI,Male,Finance insurance realestate ,86742
+2019,MN,Male,Finance insurance realestate ,84965
+2019,MO,Male,Finance insurance realestate ,74946
+2019,MS,Male,Finance insurance realestate ,17663
+2019,MT,Male,Finance insurance realestate ,8507
+2019,NC,Male,Finance insurance realestate ,121609
+2019,ND,Male,Finance insurance realestate ,7302
+2019,NE,Male,Finance insurance realestate ,28265
+2019,NH,Male,Finance insurance realestate ,16924
+2019,NJ,Male,Finance insurance realestate ,182182
+2019,NM,Male,Finance insurance realestate ,14565
+2019,NV,Male,Finance insurance realestate ,27443
+2019,NY,Male,Finance insurance realestate ,366157
+2019,OH,Male,Finance insurance realestate ,138141
+2019,OK,Male,Finance insurance realestate ,30761
+2019,OR,Male,Finance insurance realestate ,38559
+2019,PA,Male,Finance insurance realestate ,158157
+2019,PR,Male,Finance insurance realestate ,19407
+2019,RI,Male,Finance insurance realestate ,14265
+2019,SC,Male,Finance insurance realestate ,45950
+2019,SD,Male,Finance insurance realestate ,11387
+2019,TN,Male,Finance insurance realestate ,63736
+2019,TX,Male,Finance insurance realestate ,337312
+2019,UT,Male,Finance insurance realestate ,41910
+2019,VA,Male,Finance insurance realestate ,99784
+2019,VT,Male,Finance insurance realestate ,4972
+2019,WA,Male,Finance insurance realestate ,70573
+2019,WI,Male,Finance insurance realestate ,62078
+2019,WV,Male,Finance insurance realestate ,9897
+2019,WY,Male,Finance insurance realestate ,2528
+2020,AK,Male,Finance insurance realestate ,4151
+2020,AL,Male,Finance insurance realestate ,38357
+2020,AR,Male,Finance insurance realestate ,20690
+2020,AZ,Male,Finance insurance realestate ,109724
+2020,CA,Male,Finance insurance realestate ,441099
+2020,CO,Male,Finance insurance realestate ,83537
+2020,CT,Male,Finance insurance realestate ,74482
+2020,DC,Male,Finance insurance realestate ,12041
+2020,DE,Male,Finance insurance realestate ,17025
+2020,FL,Male,Finance insurance realestate ,284711
+2020,GA,Male,Finance insurance realestate ,116937
+2020,HI,Male,Finance insurance realestate ,15614
+2020,IA,Male,Finance insurance realestate ,45614
+2020,ID,Male,Finance insurance realestate ,15638
+2020,IL,Male,Finance insurance realestate ,193598
+2020,IN,Male,Finance insurance realestate ,56921
+2020,KS,Male,Finance insurance realestate ,34480
+2020,KY,Male,Finance insurance realestate ,40109
+2020,LA,Male,Finance insurance realestate ,32429
+2020,MA,Male,Finance insurance realestate ,117242
+2020,MD,Male,Finance insurance realestate ,75226
+2020,ME,Male,Finance insurance realestate ,14696
+2020,MI,Male,Finance insurance realestate ,88065
+2020,MN,Male,Finance insurance realestate ,86872
+2020,MO,Male,Finance insurance realestate ,76855
+2020,MS,Male,Finance insurance realestate ,17536
+2020,MT,Male,Finance insurance realestate ,8490
+2020,NC,Male,Finance insurance realestate ,127048
+2020,ND,Male,Finance insurance realestate ,7620
+2020,NE,Male,Finance insurance realestate ,28702
+2020,NH,Male,Finance insurance realestate ,17123
+2020,NJ,Male,Finance insurance realestate ,183875
+2020,NM,Male,Finance insurance realestate ,14024
+2020,NV,Male,Finance insurance realestate ,26309
+2020,NY,Male,Finance insurance realestate ,364015
+2020,OH,Male,Finance insurance realestate ,135926
+2020,OK,Male,Finance insurance realestate ,30381
+2020,OR,Male,Finance insurance realestate ,38986
+2020,PA,Male,Finance insurance realestate ,162349
+2020,PR,Male,Finance insurance realestate ,18866
+2020,RI,Male,Finance insurance realestate ,13392
+2020,SC,Male,Finance insurance realestate ,46607
+2020,SD,Male,Finance insurance realestate ,11331
+2020,TN,Male,Finance insurance realestate ,65637
+2020,TX,Male,Finance insurance realestate ,349121
+2020,UT,Male,Finance insurance realestate ,46748
+2020,VA,Male,Finance insurance realestate ,102196
+2020,VT,Male,Finance insurance realestate ,5032
+2020,WA,Male,Finance insurance realestate ,71392
+2020,WI,Male,Finance insurance realestate ,62204
+2020,WV,Male,Finance insurance realestate ,10629
+2020,WY,Male,Finance insurance realestate ,2916
+2021,AK,Male,Finance insurance realestate ,4359
+2021,AL,Male,Finance insurance realestate ,39539
+2021,AR,Male,Finance insurance realestate ,20786
+2021,AZ,Male,Finance insurance realestate ,111811
+2021,CA,Male,Finance insurance realestate ,437831
+2021,CO,Male,Finance insurance realestate ,88194
+2021,CT,Male,Finance insurance realestate ,74596
+2021,DC,Male,Finance insurance realestate ,12172
+2021,DE,Male,Finance insurance realestate ,16933
+2021,FL,Male,Finance insurance realestate ,291329
+2021,GA,Male,Finance insurance realestate ,119512
+2021,HI,Male,Finance insurance realestate ,15639
+2021,IA,Male,Finance insurance realestate ,46202
+2021,ID,Male,Finance insurance realestate ,16826
+2021,IL,Male,Finance insurance realestate ,197825
+2021,IN,Male,Finance insurance realestate ,59909
+2021,KS,Male,Finance insurance realestate ,35931
+2021,KY,Male,Finance insurance realestate ,40158
+2021,LA,Male,Finance insurance realestate ,33901
+2021,MA,Male,Finance insurance realestate ,120170
+2021,MD,Male,Finance insurance realestate ,76042
+2021,ME,Male,Finance insurance realestate ,15806
+2021,MI,Male,Finance insurance realestate ,90493
+2021,MN,Male,Finance insurance realestate ,87682
+2021,MO,Male,Finance insurance realestate ,79199
+2021,MS,Male,Finance insurance realestate ,17346
+2021,MT,Male,Finance insurance realestate ,8036
+2021,NC,Male,Finance insurance realestate ,131493
+2021,ND,Male,Finance insurance realestate ,7621
+2021,NE,Male,Finance insurance realestate ,30926
+2021,NH,Male,Finance insurance realestate ,17560
+2021,NJ,Male,Finance insurance realestate ,192775
+2021,NM,Male,Finance insurance realestate ,14112
+2021,NV,Male,Finance insurance realestate ,27293
+2021,NY,Male,Finance insurance realestate ,371274
+2021,OH,Male,Finance insurance realestate ,140453
+2021,OK,Male,Finance insurance realestate ,31086
+2021,OR,Male,Finance insurance realestate ,39399
+2021,PA,Male,Finance insurance realestate ,166323
+2021,PR,Male,Finance insurance realestate ,19186
+2021,RI,Male,Finance insurance realestate ,14562
+2021,SC,Male,Finance insurance realestate ,48911
+2021,SD,Male,Finance insurance realestate ,11623
+2021,TN,Male,Finance insurance realestate ,67815
+2021,TX,Male,Finance insurance realestate ,361587
+2021,UT,Male,Finance insurance realestate ,48557
+2021,VA,Male,Finance insurance realestate ,105840
+2021,VT,Male,Finance insurance realestate ,5167
+2021,WA,Male,Finance insurance realestate ,73330
+2021,WI,Male,Finance insurance realestate ,64457
+2021,WV,Male,Finance insurance realestate ,10378
+2021,WY,Male,Finance insurance realestate ,3158
+2019,AK,Male,Professional  services,11071
+2019,AL,Male,Professional  services,92609
+2019,AR,Male,Professional  services,41377
+2019,AZ,Male,Professional  services,174379
+2019,CA,Male,Professional  services,1190803
+2019,CO,Male,Professional  services,187968
+2019,CT,Male,Professional  services,93946
+2019,DC,Male,Professional  services,39374
+2019,DE,Male,Professional  services,19339
+2019,FL,Male,Professional  services,540002
+2019,GA,Male,Professional  services,268137
+2019,HI,Male,Professional  services,31102
+2019,IA,Male,Professional  services,48997
+2019,ID,Male,Professional  services,33602
+2019,IL,Male,Professional  services,337135
+2019,IN,Male,Professional  services,115237
+2019,KS,Male,Professional  services,62736
+2019,KY,Male,Professional  services,68683
+2019,LA,Male,Professional  services,77994
+2019,MA,Male,Professional  services,235341
+2019,MD,Male,Professional  services,227185
+2019,ME,Male,Professional  services,24899
+2019,MI,Male,Professional  services,188085
+2019,MN,Male,Professional  services,130344
+2019,MO,Male,Professional  services,120401
+2019,MS,Male,Professional  services,34523
+2019,MT,Male,Professional  services,17572
+2019,NC,Male,Professional  services,226599
+2019,ND,Male,Professional  services,10713
+2019,NE,Male,Professional  services,38548
+2019,NH,Male,Professional  services,39072
+2019,NJ,Male,Professional  services,282435
+2019,NM,Male,Professional  services,47176
+2019,NV,Male,Professional  services,66060
+2019,NY,Male,Professional  services,502509
+2019,OH,Male,Professional  services,233622
+2019,OK,Male,Professional  services,65368
+2019,OR,Male,Professional  services,93887
+2019,PA,Male,Professional  services,295078
+2019,PR,Male,Professional  services,41751
+2019,RI,Male,Professional  services,23457
+2019,SC,Male,Professional  services,98577
+2019,SD,Male,Professional  services,11717
+2019,TN,Male,Professional  services,130115
+2019,TX,Male,Professional  services,711079
+2019,UT,Male,Professional  services,89783
+2019,VA,Male,Professional  services,309174
+2019,VT,Male,Professional  services,12729
+2019,WA,Male,Professional  services,222666
+2019,WI,Male,Professional  services,106923
+2019,WV,Male,Professional  services,26321
+2019,WY,Male,Professional  services,6951
+2020,AK,Male,Professional  services,10966
+2020,AL,Male,Professional  services,94692
+2020,AR,Male,Professional  services,42854
+2020,AZ,Male,Professional  services,177679
+2020,CA,Male,Professional  services,1205490
+2020,CO,Male,Professional  services,187617
+2020,CT,Male,Professional  services,95369
+2020,DC,Male,Professional  services,40147
+2020,DE,Male,Professional  services,19601
+2020,FL,Male,Professional  services,563015
+2020,GA,Male,Professional  services,281681
+2020,HI,Male,Professional  services,30989
+2020,IA,Male,Professional  services,50264
+2020,ID,Male,Professional  services,35075
+2020,IL,Male,Professional  services,343498
+2020,IN,Male,Professional  services,115927
+2020,KS,Male,Professional  services,63101
+2020,KY,Male,Professional  services,70264
+2020,LA,Male,Professional  services,81315
+2020,MA,Male,Professional  services,240988
+2020,MD,Male,Professional  services,227565
+2020,ME,Male,Professional  services,25737
+2020,MI,Male,Professional  services,189925
+2020,MN,Male,Professional  services,133344
+2020,MO,Male,Professional  services,122514
+2020,MS,Male,Professional  services,34775
+2020,MT,Male,Professional  services,18251
+2020,NC,Male,Professional  services,236064
+2020,ND,Male,Professional  services,10802
+2020,NE,Male,Professional  services,38538
+2020,NH,Male,Professional  services,40163
+2020,NJ,Male,Professional  services,283710
+2020,NM,Male,Professional  services,46987
+2020,NV,Male,Professional  services,69290
+2020,NY,Male,Professional  services,516719
+2020,OH,Male,Professional  services,240899
+2020,OK,Male,Professional  services,65133
+2020,OR,Male,Professional  services,95528
+2020,PA,Male,Professional  services,296166
+2020,PR,Male,Professional  services,42714
+2020,RI,Male,Professional  services,24052
+2020,SC,Male,Professional  services,102727
+2020,SD,Male,Professional  services,11642
+2020,TN,Male,Professional  services,133662
+2020,TX,Male,Professional  services,728901
+2020,UT,Male,Professional  services,92537
+2020,VA,Male,Professional  services,320659
+2020,VT,Male,Professional  services,12494
+2020,WA,Male,Professional  services,234170
+2020,WI,Male,Professional  services,109773
+2020,WV,Male,Professional  services,26281
+2020,WY,Male,Professional  services,6951
+2021,AK,Male,Professional  services,11413
+2021,AL,Male,Professional  services,98471
+2021,AR,Male,Professional  services,43109
+2021,AZ,Male,Professional  services,178951
+2021,CA,Male,Professional  services,1226119
+2021,CO,Male,Professional  services,198533
+2021,CT,Male,Professional  services,96087
+2021,DC,Male,Professional  services,40473
+2021,DE,Male,Professional  services,21670
+2021,FL,Male,Professional  services,586434
+2021,GA,Male,Professional  services,295856
+2021,HI,Male,Professional  services,30596
+2021,IA,Male,Professional  services,50777
+2021,ID,Male,Professional  services,36149
+2021,IL,Male,Professional  services,355063
+2021,IN,Male,Professional  services,119079
+2021,KS,Male,Professional  services,63260
+2021,KY,Male,Professional  services,72953
+2021,LA,Male,Professional  services,82358
+2021,MA,Male,Professional  services,251047
+2021,MD,Male,Professional  services,234191
+2021,ME,Male,Professional  services,27124
+2021,MI,Male,Professional  services,194492
+2021,MN,Male,Professional  services,138181
+2021,MO,Male,Professional  services,126070
+2021,MS,Male,Professional  services,34488
+2021,MT,Male,Professional  services,19549
+2021,NC,Male,Professional  services,245874
+2021,ND,Male,Professional  services,11192
+2021,NE,Male,Professional  services,39541
+2021,NH,Male,Professional  services,42129
+2021,NJ,Male,Professional  services,299709
+2021,NM,Male,Professional  services,49358
+2021,NV,Male,Professional  services,70285
+2021,NY,Male,Professional  services,535889
+2021,OH,Male,Professional  services,246025
+2021,OK,Male,Professional  services,67522
+2021,OR,Male,Professional  services,100155
+2021,PA,Male,Professional  services,306016
+2021,PR,Male,Professional  services,44200
+2021,RI,Male,Professional  services,25908
+2021,SC,Male,Professional  services,107272
+2021,SD,Male,Professional  services,11573
+2021,TN,Male,Professional  services,138541
+2021,TX,Male,Professional  services,755959
+2021,UT,Male,Professional  services,97905
+2021,VA,Male,Professional  services,334778
+2021,VT,Male,Professional  services,12897
+2021,WA,Male,Professional  services,243677
+2021,WI,Male,Professional  services,113821
+2021,WV,Male,Professional  services,26396
+2021,WY,Male,Professional  services,6458
+2019,AK,Male,Educationalservices healthcare socialassistance,17242
+2019,AL,Male,Educationalservices healthcare socialassistance,81785
+2019,AR,Male,Educationalservices healthcare socialassistance,55118
+2019,AZ,Male,Educationalservices healthcare socialassistance,138762
+2019,CA,Male,Educationalservices healthcare socialassistance,764996
+2019,CO,Male,Educationalservices healthcare socialassistance,114991
+2019,CT,Male,Educationalservices healthcare socialassistance,89121
+2019,DC,Male,Educationalservices healthcare socialassistance,15164
+2019,DE,Male,Educationalservices healthcare socialassistance,20846
+2019,FL,Male,Educationalservices healthcare socialassistance,385847
+2019,GA,Male,Educationalservices healthcare socialassistance,172073
+2019,HI,Male,Educationalservices healthcare socialassistance,29126
+2019,IA,Male,Educationalservices healthcare socialassistance,62306
+2019,ID,Male,Educationalservices healthcare socialassistance,32815
+2019,IL,Male,Educationalservices healthcare socialassistance,259958
+2019,IN,Male,Educationalservices healthcare socialassistance,124821
+2019,KS,Male,Educationalservices healthcare socialassistance,63165
+2019,KY,Male,Educationalservices healthcare socialassistance,83099
+2019,LA,Male,Educationalservices healthcare socialassistance,78141
+2019,MA,Male,Educationalservices healthcare socialassistance,197117
+2019,MD,Male,Educationalservices healthcare socialassistance,141552
+2019,ME,Male,Educationalservices healthcare socialassistance,34462
+2019,MI,Male,Educationalservices healthcare socialassistance,182183
+2019,MN,Male,Educationalservices healthcare socialassistance,126581
+2019,MO,Male,Educationalservices healthcare socialassistance,125804
+2019,MS,Male,Educationalservices healthcare socialassistance,51188
+2019,MT,Male,Educationalservices healthcare socialassistance,22259
+2019,NC,Male,Educationalservices healthcare socialassistance,189856
+2019,ND,Male,Educationalservices healthcare socialassistance,16515
+2019,NE,Male,Educationalservices healthcare socialassistance,41717
+2019,NH,Male,Educationalservices healthcare socialassistance,30780
+2019,NJ,Male,Educationalservices healthcare socialassistance,196924
+2019,NM,Male,Educationalservices healthcare socialassistance,43709
+2019,NV,Male,Educationalservices healthcare socialassistance,45302
+2019,NY,Male,Educationalservices healthcare socialassistance,519345
+2019,OH,Male,Educationalservices healthcare socialassistance,235355
+2019,OK,Male,Educationalservices healthcare socialassistance,72135
+2019,OR,Male,Educationalservices healthcare socialassistance,84082
+2019,PA,Male,Educationalservices healthcare socialassistance,311066
+2019,PR,Male,Educationalservices healthcare socialassistance,47577
+2019,RI,Male,Educationalservices healthcare socialassistance,27363
+2019,SC,Male,Educationalservices healthcare socialassistance,82105
+2019,SD,Male,Educationalservices healthcare socialassistance,18221
+2019,TN,Male,Educationalservices healthcare socialassistance,133550
+2019,TX,Male,Educationalservices healthcare socialassistance,552756
+2019,UT,Male,Educationalservices healthcare socialassistance,69286
+2019,VA,Male,Educationalservices healthcare socialassistance,163637
+2019,VT,Male,Educationalservices healthcare socialassistance,18196
+2019,WA,Male,Educationalservices healthcare socialassistance,140896
+2019,WI,Male,Educationalservices healthcare socialassistance,113465
+2019,WV,Male,Educationalservices healthcare socialassistance,38243
+2019,WY,Male,Educationalservices healthcare socialassistance,12590
+2020,AK,Male,Educationalservices healthcare socialassistance,16999
+2020,AL,Male,Educationalservices healthcare socialassistance,83744
+2020,AR,Male,Educationalservices healthcare socialassistance,55985
+2020,AZ,Male,Educationalservices healthcare socialassistance,144923
+2020,CA,Male,Educationalservices healthcare socialassistance,784963
+2020,CO,Male,Educationalservices healthcare socialassistance,119244
+2020,CT,Male,Educationalservices healthcare socialassistance,87416
+2020,DC,Male,Educationalservices healthcare socialassistance,16308
+2020,DE,Male,Educationalservices healthcare socialassistance,21534
+2020,FL,Male,Educationalservices healthcare socialassistance,399639
+2020,GA,Male,Educationalservices healthcare socialassistance,178059
+2020,HI,Male,Educationalservices healthcare socialassistance,30145
+2020,IA,Male,Educationalservices healthcare socialassistance,62609
+2020,ID,Male,Educationalservices healthcare socialassistance,35011
+2020,IL,Male,Educationalservices healthcare socialassistance,265481
+2020,IN,Male,Educationalservices healthcare socialassistance,128505
+2020,KS,Male,Educationalservices healthcare socialassistance,62606
+2020,KY,Male,Educationalservices healthcare socialassistance,84261
+2020,LA,Male,Educationalservices healthcare socialassistance,79990
+2020,MA,Male,Educationalservices healthcare socialassistance,198170
+2020,MD,Male,Educationalservices healthcare socialassistance,141460
+2020,ME,Male,Educationalservices healthcare socialassistance,34779
+2020,MI,Male,Educationalservices healthcare socialassistance,184196
+2020,MN,Male,Educationalservices healthcare socialassistance,128333
+2020,MO,Male,Educationalservices healthcare socialassistance,126561
+2020,MS,Male,Educationalservices healthcare socialassistance,52803
+2020,MT,Male,Educationalservices healthcare socialassistance,22868
+2020,NC,Male,Educationalservices healthcare socialassistance,194636
+2020,ND,Male,Educationalservices healthcare socialassistance,17287
+2020,NE,Male,Educationalservices healthcare socialassistance,41838
+2020,NH,Male,Educationalservices healthcare socialassistance,32135
+2020,NJ,Male,Educationalservices healthcare socialassistance,202602
+2020,NM,Male,Educationalservices healthcare socialassistance,43820
+2020,NV,Male,Educationalservices healthcare socialassistance,47516
+2020,NY,Male,Educationalservices healthcare socialassistance,534788
+2020,OH,Male,Educationalservices healthcare socialassistance,236679
+2020,OK,Male,Educationalservices healthcare socialassistance,73963
+2020,OR,Male,Educationalservices healthcare socialassistance,88472
+2020,PA,Male,Educationalservices healthcare socialassistance,321371
+2020,PR,Male,Educationalservices healthcare socialassistance,47202
+2020,RI,Male,Educationalservices healthcare socialassistance,26760
+2020,SC,Male,Educationalservices healthcare socialassistance,85937
+2020,SD,Male,Educationalservices healthcare socialassistance,18497
+2020,TN,Male,Educationalservices healthcare socialassistance,137675
+2020,TX,Male,Educationalservices healthcare socialassistance,571576
+2020,UT,Male,Educationalservices healthcare socialassistance,72492
+2020,VA,Male,Educationalservices healthcare socialassistance,166792
+2020,VT,Male,Educationalservices healthcare socialassistance,18477
+2020,WA,Male,Educationalservices healthcare socialassistance,143026
+2020,WI,Male,Educationalservices healthcare socialassistance,112632
+2020,WV,Male,Educationalservices healthcare socialassistance,37928
+2020,WY,Male,Educationalservices healthcare socialassistance,13139
+2021,AK,Male,Educationalservices healthcare socialassistance,16370
+2021,AL,Male,Educationalservices healthcare socialassistance,87905
+2021,AR,Male,Educationalservices healthcare socialassistance,56605
+2021,AZ,Male,Educationalservices healthcare socialassistance,146536
+2021,CA,Male,Educationalservices healthcare socialassistance,812027
+2021,CO,Male,Educationalservices healthcare socialassistance,123836
+2021,CT,Male,Educationalservices healthcare socialassistance,89346
+2021,DC,Male,Educationalservices healthcare socialassistance,15670
+2021,DE,Male,Educationalservices healthcare socialassistance,21873
+2021,FL,Male,Educationalservices healthcare socialassistance,414751
+2021,GA,Male,Educationalservices healthcare socialassistance,186847
+2021,HI,Male,Educationalservices healthcare socialassistance,32415
+2021,IA,Male,Educationalservices healthcare socialassistance,63832
+2021,ID,Male,Educationalservices healthcare socialassistance,35434
+2021,IL,Male,Educationalservices healthcare socialassistance,269933
+2021,IN,Male,Educationalservices healthcare socialassistance,130906
+2021,KS,Male,Educationalservices healthcare socialassistance,64810
+2021,KY,Male,Educationalservices healthcare socialassistance,85340
+2021,LA,Male,Educationalservices healthcare socialassistance,82206
+2021,MA,Male,Educationalservices healthcare socialassistance,204323
+2021,MD,Male,Educationalservices healthcare socialassistance,145469
+2021,ME,Male,Educationalservices healthcare socialassistance,35496
+2021,MI,Male,Educationalservices healthcare socialassistance,187236
+2021,MN,Male,Educationalservices healthcare socialassistance,132263
+2021,MO,Male,Educationalservices healthcare socialassistance,129620
+2021,MS,Male,Educationalservices healthcare socialassistance,54311
+2021,MT,Male,Educationalservices healthcare socialassistance,23783
+2021,NC,Male,Educationalservices healthcare socialassistance,197202
+2021,ND,Male,Educationalservices healthcare socialassistance,18020
+2021,NE,Male,Educationalservices healthcare socialassistance,43258
+2021,NH,Male,Educationalservices healthcare socialassistance,33615
+2021,NJ,Male,Educationalservices healthcare socialassistance,211750
+2021,NM,Male,Educationalservices healthcare socialassistance,45055
+2021,NV,Male,Educationalservices healthcare socialassistance,49621
+2021,NY,Male,Educationalservices healthcare socialassistance,561333
+2021,OH,Male,Educationalservices healthcare socialassistance,243553
+2021,OK,Male,Educationalservices healthcare socialassistance,75863
+2021,OR,Male,Educationalservices healthcare socialassistance,90217
+2021,PA,Male,Educationalservices healthcare socialassistance,332287
+2021,PR,Male,Educationalservices healthcare socialassistance,46317
+2021,RI,Male,Educationalservices healthcare socialassistance,27522
+2021,SC,Male,Educationalservices healthcare socialassistance,87758
+2021,SD,Male,Educationalservices healthcare socialassistance,18994
+2021,TN,Male,Educationalservices healthcare socialassistance,143194
+2021,TX,Male,Educationalservices healthcare socialassistance,583598
+2021,UT,Male,Educationalservices healthcare socialassistance,75232
+2021,VA,Male,Educationalservices healthcare socialassistance,171169
+2021,VT,Male,Educationalservices healthcare socialassistance,18242
+2021,WA,Male,Educationalservices healthcare socialassistance,144715
+2021,WI,Male,Educationalservices healthcare socialassistance,115575
+2021,WV,Male,Educationalservices healthcare socialassistance,38639
+2021,WY,Male,Educationalservices healthcare socialassistance,12729
+2019,AK,Male,Arts entertainment and foodservices,7888
+2019,AL,Male,Arts entertainment and foodservices,38546
+2019,AR,Male,Arts entertainment and foodservices,24474
+2019,AZ,Male,Arts entertainment and foodservices,93642
+2019,CA,Male,Arts entertainment and foodservices,554724
+2019,CO,Male,Arts entertainment and foodservices,83987
+2019,CT,Male,Arts entertainment and foodservices,38858
+2019,DC,Male,Arts entertainment and foodservices,12081
+2019,DE,Male,Arts entertainment and foodservices,11297
+2019,FL,Male,Arts entertainment and foodservices,359878
+2019,GA,Male,Arts entertainment and foodservices,111048
+2019,HI,Male,Arts entertainment and foodservices,38157
+2019,IA,Male,Arts entertainment and foodservices,25105
+2019,ID,Male,Arts entertainment and foodservices,16027
+2019,IL,Male,Arts entertainment and foodservices,152617
+2019,IN,Male,Arts entertainment and foodservices,57410
+2019,KS,Male,Arts entertainment and foodservices,26371
+2019,KY,Male,Arts entertainment and foodservices,38341
+2019,LA,Male,Arts entertainment and foodservices,52426
+2019,MA,Male,Arts entertainment and foodservices,80183
+2019,MD,Male,Arts entertainment and foodservices,70038
+2019,ME,Male,Arts entertainment and foodservices,11600
+2019,MI,Male,Arts entertainment and foodservices,93720
+2019,MN,Male,Arts entertainment and foodservices,55854
+2019,MO,Male,Arts entertainment and foodservices,63352
+2019,MS,Male,Arts entertainment and foodservices,27498
+2019,MT,Male,Arts entertainment and foodservices,13330
+2019,NC,Male,Arts entertainment and foodservices,110707
+2019,ND,Male,Arts entertainment and foodservices,7501
+2019,NE,Male,Arts entertainment and foodservices,16866
+2019,NH,Male,Arts entertainment and foodservices,15040
+2019,NJ,Male,Arts entertainment and foodservices,107097
+2019,NM,Male,Arts entertainment and foodservices,25114
+2019,NV,Male,Arts entertainment and foodservices,123116
+2019,NY,Male,Arts entertainment and foodservices,297017
+2019,OH,Male,Arts entertainment and foodservices,105458
+2019,OK,Male,Arts entertainment and foodservices,42290
+2019,OR,Male,Arts entertainment and foodservices,47239
+2019,PA,Male,Arts entertainment and foodservices,119973
+2019,PR,Male,Arts entertainment and foodservices,26682
+2019,RI,Male,Arts entertainment and foodservices,13120
+2019,SC,Male,Arts entertainment and foodservices,56141
+2019,SD,Male,Arts entertainment and foodservices,9468
+2019,TN,Male,Arts entertainment and foodservices,76757
+2019,TX,Male,Arts entertainment and foodservices,332631
+2019,UT,Male,Arts entertainment and foodservices,30312
+2019,VA,Male,Arts entertainment and foodservices,89509
+2019,VT,Male,Arts entertainment and foodservices,8307
+2019,WA,Male,Arts entertainment and foodservices,79132
+2019,WI,Male,Arts entertainment and foodservices,55485
+2019,WV,Male,Arts entertainment and foodservices,15589
+2019,WY,Male,Arts entertainment and foodservices,7204
+2020,AK,Male,Arts entertainment and foodservices,7743
+2020,AL,Male,Arts entertainment and foodservices,38756
+2020,AR,Male,Arts entertainment and foodservices,24047
+2020,AZ,Male,Arts entertainment and foodservices,90502
+2020,CA,Male,Arts entertainment and foodservices,537646
+2020,CO,Male,Arts entertainment and foodservices,82810
+2020,CT,Male,Arts entertainment and foodservices,38453
+2020,DC,Male,Arts entertainment and foodservices,10740
+2020,DE,Male,Arts entertainment and foodservices,10340
+2020,FL,Male,Arts entertainment and foodservices,349319
+2020,GA,Male,Arts entertainment and foodservices,110684
+2020,HI,Male,Arts entertainment and foodservices,37987
+2020,IA,Male,Arts entertainment and foodservices,23849
+2020,ID,Male,Arts entertainment and foodservices,15648
+2020,IL,Male,Arts entertainment and foodservices,145598
+2020,IN,Male,Arts entertainment and foodservices,56380
+2020,KS,Male,Arts entertainment and foodservices,25376
+2020,KY,Male,Arts entertainment and foodservices,37430
+2020,LA,Male,Arts entertainment and foodservices,50605
+2020,MA,Male,Arts entertainment and foodservices,76050
+2020,MD,Male,Arts entertainment and foodservices,66199
+2020,ME,Male,Arts entertainment and foodservices,11747
+2020,MI,Male,Arts entertainment and foodservices,89831
+2020,MN,Male,Arts entertainment and foodservices,53227
+2020,MO,Male,Arts entertainment and foodservices,63275
+2020,MS,Male,Arts entertainment and foodservices,26739
+2020,MT,Male,Arts entertainment and foodservices,13169
+2020,NC,Male,Arts entertainment and foodservices,108962
+2020,ND,Male,Arts entertainment and foodservices,7677
+2020,NE,Male,Arts entertainment and foodservices,16083
+2020,NH,Male,Arts entertainment and foodservices,15016
+2020,NJ,Male,Arts entertainment and foodservices,101047
+2020,NM,Male,Arts entertainment and foodservices,24448
+2020,NV,Male,Arts entertainment and foodservices,115082
+2020,NY,Male,Arts entertainment and foodservices,278560
+2020,OH,Male,Arts entertainment and foodservices,102768
+2020,OK,Male,Arts entertainment and foodservices,40748
+2020,OR,Male,Arts entertainment and foodservices,45624
+2020,PA,Male,Arts entertainment and foodservices,115769
+2020,PR,Male,Arts entertainment and foodservices,26536
+2020,RI,Male,Arts entertainment and foodservices,13255
+2020,SC,Male,Arts entertainment and foodservices,57046
+2020,SD,Male,Arts entertainment and foodservices,9592
+2020,TN,Male,Arts entertainment and foodservices,75076
+2020,TX,Male,Arts entertainment and foodservices,326193
+2020,UT,Male,Arts entertainment and foodservices,30457
+2020,VA,Male,Arts entertainment and foodservices,90362
+2020,VT,Male,Arts entertainment and foodservices,7938
+2020,WA,Male,Arts entertainment and foodservices,77768
+2020,WI,Male,Arts entertainment and foodservices,56211
+2020,WV,Male,Arts entertainment and foodservices,15238
+2020,WY,Male,Arts entertainment and foodservices,6443
+2021,AK,Male,Arts entertainment and foodservices,7753
+2021,AL,Male,Arts entertainment and foodservices,39978
+2021,AR,Male,Arts entertainment and foodservices,24023
+2021,AZ,Male,Arts entertainment and foodservices,86577
+2021,CA,Male,Arts entertainment and foodservices,505922
+2021,CO,Male,Arts entertainment and foodservices,76963
+2021,CT,Male,Arts entertainment and foodservices,36789
+2021,DC,Male,Arts entertainment and foodservices,9275
+2021,DE,Male,Arts entertainment and foodservices,9672
+2021,FL,Male,Arts entertainment and foodservices,335248
+2021,GA,Male,Arts entertainment and foodservices,109291
+2021,HI,Male,Arts entertainment and foodservices,34853
+2021,IA,Male,Arts entertainment and foodservices,23070
+2021,ID,Male,Arts entertainment and foodservices,16283
+2021,IL,Male,Arts entertainment and foodservices,139902
+2021,IN,Male,Arts entertainment and foodservices,55479
+2021,KS,Male,Arts entertainment and foodservices,25071
+2021,KY,Male,Arts entertainment and foodservices,36883
+2021,LA,Male,Arts entertainment and foodservices,47966
+2021,MA,Male,Arts entertainment and foodservices,72129
+2021,MD,Male,Arts entertainment and foodservices,62383
+2021,ME,Male,Arts entertainment and foodservices,11281
+2021,MI,Male,Arts entertainment and foodservices,87426
+2021,MN,Male,Arts entertainment and foodservices,49643
+2021,MO,Male,Arts entertainment and foodservices,61713
+2021,MS,Male,Arts entertainment and foodservices,25488
+2021,MT,Male,Arts entertainment and foodservices,12633
+2021,NC,Male,Arts entertainment and foodservices,103608
+2021,ND,Male,Arts entertainment and foodservices,7865
+2021,NE,Male,Arts entertainment and foodservices,15900
+2021,NH,Male,Arts entertainment and foodservices,14527
+2021,NJ,Male,Arts entertainment and foodservices,97603
+2021,NM,Male,Arts entertainment and foodservices,23647
+2021,NV,Male,Arts entertainment and foodservices,104734
+2021,NY,Male,Arts entertainment and foodservices,265568
+2021,OH,Male,Arts entertainment and foodservices,100435
+2021,OK,Male,Arts entertainment and foodservices,39458
+2021,OR,Male,Arts entertainment and foodservices,44287
+2021,PA,Male,Arts entertainment and foodservices,112741
+2021,PR,Male,Arts entertainment and foodservices,25263
+2021,RI,Male,Arts entertainment and foodservices,12686
+2021,SC,Male,Arts entertainment and foodservices,54702
+2021,SD,Male,Arts entertainment and foodservices,9505
+2021,TN,Male,Arts entertainment and foodservices,75015
+2021,TX,Male,Arts entertainment and foodservices,317046
+2021,UT,Male,Arts entertainment and foodservices,28742
+2021,VA,Male,Arts entertainment and foodservices,88018
+2021,VT,Male,Arts entertainment and foodservices,7593
+2021,WA,Male,Arts entertainment and foodservices,73088
+2021,WI,Male,Arts entertainment and foodservices,55227
+2021,WV,Male,Arts entertainment and foodservices,15235
+2021,WY,Male,Arts entertainment and foodservices,6394
+2019,AK,Male,Otherservices ,5627
+2019,AL,Male,Otherservices ,37213
+2019,AR,Male,Otherservices ,22306
+2019,AZ,Male,Otherservices ,51965
+2019,CA,Male,Otherservices ,315212
+2019,CO,Male,Otherservices ,46468
+2019,CT,Male,Otherservices ,24746
+2019,DC,Male,Otherservices ,10760
+2019,DE,Male,Otherservices ,7218
+2019,FL,Male,Otherservices ,164643
+2019,GA,Male,Otherservices ,82613
+2019,HI,Male,Otherservices ,9482
+2019,IA,Male,Otherservices ,24626
+2019,ID,Male,Otherservices ,13080
+2019,IL,Male,Otherservices ,101383
+2019,IN,Male,Otherservices ,53014
+2019,KS,Male,Otherservices ,22398
+2019,KY,Male,Otherservices ,32599
+2019,LA,Male,Otherservices ,35522
+2019,MA,Male,Otherservices ,47442
+2019,MD,Male,Otherservices ,55165
+2019,ME,Male,Otherservices ,10323
+2019,MI,Male,Otherservices ,72511
+2019,MN,Male,Otherservices ,43273
+2019,MO,Male,Otherservices ,49369
+2019,MS,Male,Otherservices ,22844
+2019,MT,Male,Otherservices ,8610
+2019,NC,Male,Otherservices ,82557
+2019,ND,Male,Otherservices ,7003
+2019,NE,Male,Otherservices ,16700
+2019,NH,Male,Otherservices ,11260
+2019,NJ,Male,Otherservices ,66307
+2019,NM,Male,Otherservices ,16640
+2019,NV,Male,Otherservices ,22445
+2019,NY,Male,Otherservices ,147994
+2019,OH,Male,Otherservices ,84097
+2019,OK,Male,Otherservices ,34664
+2019,OR,Male,Otherservices ,27946
+2019,PA,Male,Otherservices ,102461
+2019,PR,Male,Otherservices ,20228
+2019,RI,Male,Otherservices ,7999
+2019,SC,Male,Otherservices ,41810
+2019,SD,Male,Otherservices ,7321
+2019,TN,Male,Otherservices ,54086
+2019,TX,Male,Otherservices ,251070
+2019,UT,Male,Otherservices ,24905
+2019,VA,Male,Otherservices ,71376
+2019,VT,Male,Otherservices ,4480
+2019,WA,Male,Otherservices ,50359
+2019,WI,Male,Otherservices ,41814
+2019,WV,Male,Otherservices ,13307
+2019,WY,Male,Otherservices ,4601
+2020,AK,Male,Otherservices ,5947
+2020,AL,Male,Otherservices ,37996
+2020,AR,Male,Otherservices ,23813
+2020,AZ,Male,Otherservices ,52017
+2020,CA,Male,Otherservices ,306996
+2020,CO,Male,Otherservices ,44678
+2020,CT,Male,Otherservices ,24189
+2020,DC,Male,Otherservices ,11287
+2020,DE,Male,Otherservices ,6805
+2020,FL,Male,Otherservices ,169744
+2020,GA,Male,Otherservices ,81414
+2020,HI,Male,Otherservices ,8566
+2020,IA,Male,Otherservices ,25742
+2020,ID,Male,Otherservices ,13975
+2020,IL,Male,Otherservices ,102612
+2020,IN,Male,Otherservices ,53426
+2020,KS,Male,Otherservices ,21636
+2020,KY,Male,Otherservices ,31874
+2020,LA,Male,Otherservices ,36054
+2020,MA,Male,Otherservices ,47271
+2020,MD,Male,Otherservices ,55188
+2020,ME,Male,Otherservices ,10128
+2020,MI,Male,Otherservices ,70519
+2020,MN,Male,Otherservices ,43342
+2020,MO,Male,Otherservices ,48163
+2020,MS,Male,Otherservices ,23022
+2020,MT,Male,Otherservices ,8258
+2020,NC,Male,Otherservices ,86143
+2020,ND,Male,Otherservices ,7151
+2020,NE,Male,Otherservices ,16876
+2020,NH,Male,Otherservices ,11495
+2020,NJ,Male,Otherservices ,62264
+2020,NM,Male,Otherservices ,18174
+2020,NV,Male,Otherservices ,23699
+2020,NY,Male,Otherservices ,143592
+2020,OH,Male,Otherservices ,84797
+2020,OK,Male,Otherservices ,34437
+2020,OR,Male,Otherservices ,27927
+2020,PA,Male,Otherservices ,103444
+2020,PR,Male,Otherservices ,20572
+2020,RI,Male,Otherservices ,8436
+2020,SC,Male,Otherservices ,42686
+2020,SD,Male,Otherservices ,7715
+2020,TN,Male,Otherservices ,54710
+2020,TX,Male,Otherservices ,247628
+2020,UT,Male,Otherservices ,25340
+2020,VA,Male,Otherservices ,73043
+2020,VT,Male,Otherservices ,4496
+2020,WA,Male,Otherservices ,51103
+2020,WI,Male,Otherservices ,42395
+2020,WV,Male,Otherservices ,13070
+2020,WY,Male,Otherservices ,4315
+2021,AK,Male,Otherservices ,5398
+2021,AL,Male,Otherservices ,39157
+2021,AR,Male,Otherservices ,22905
+2021,AZ,Male,Otherservices ,51970
+2021,CA,Male,Otherservices ,301317
+2021,CO,Male,Otherservices ,45201
+2021,CT,Male,Otherservices ,24464
+2021,DC,Male,Otherservices ,10864
+2021,DE,Male,Otherservices ,7149
+2021,FL,Male,Otherservices ,175745
+2021,GA,Male,Otherservices ,81172
+2021,HI,Male,Otherservices ,8303
+2021,IA,Male,Otherservices ,25901
+2021,ID,Male,Otherservices ,14347
+2021,IL,Male,Otherservices ,101047
+2021,IN,Male,Otherservices ,54782
+2021,KS,Male,Otherservices ,21277
+2021,KY,Male,Otherservices ,32462
+2021,LA,Male,Otherservices ,35720
+2021,MA,Male,Otherservices ,46557
+2021,MD,Male,Otherservices ,55675
+2021,ME,Male,Otherservices ,9879
+2021,MI,Male,Otherservices ,70344
+2021,MN,Male,Otherservices ,43818
+2021,MO,Male,Otherservices ,47913
+2021,MS,Male,Otherservices ,23210
+2021,MT,Male,Otherservices ,8560
+2021,NC,Male,Otherservices ,84389
+2021,ND,Male,Otherservices ,6790
+2021,NE,Male,Otherservices ,17348
+2021,NH,Male,Otherservices ,11459
+2021,NJ,Male,Otherservices ,64700
+2021,NM,Male,Otherservices ,17634
+2021,NV,Male,Otherservices ,23454
+2021,NY,Male,Otherservices ,141754
+2021,OH,Male,Otherservices ,84340
+2021,OK,Male,Otherservices ,34342
+2021,OR,Male,Otherservices ,28872
+2021,PA,Male,Otherservices ,103982
+2021,PR,Male,Otherservices ,20529
+2021,RI,Male,Otherservices ,7797
+2021,SC,Male,Otherservices ,43325
+2021,SD,Male,Otherservices ,7504
+2021,TN,Male,Otherservices ,54838
+2021,TX,Male,Otherservices ,248525
+2021,UT,Male,Otherservices ,25896
+2021,VA,Male,Otherservices ,73629
+2021,VT,Male,Otherservices ,4572
+2021,WA,Male,Otherservices ,50557
+2021,WI,Male,Otherservices ,42744
+2021,WV,Male,Otherservices ,13331
+2021,WY,Male,Otherservices ,4420
+2019,AK,Male,Public administration,19681
+2019,AL,Male,Public administration,59679
+2019,AR,Male,Public administration,27172
+2019,AZ,Male,Public administration,81084
+2019,CA,Male,Public administration,384973
+2019,CO,Male,Public administration,68445
+2019,CT,Male,Public administration,33801
+2019,DC,Male,Public administration,27515
+2019,DE,Male,Public administration,12010
+2019,FL,Male,Public administration,206478
+2019,GA,Male,Public administration,115835
+2019,HI,Male,Public administration,33614
+2019,IA,Male,Public administration,23944
+2019,ID,Male,Public administration,20673
+2019,IL,Male,Public administration,116890
+2019,IN,Male,Public administration,54114
+2019,KS,Male,Public administration,32984
+2019,KY,Male,Public administration,41707
+2019,LA,Male,Public administration,52134
+2019,MA,Male,Public administration,73062
+2019,MD,Male,Public administration,160912
+2019,ME,Male,Public administration,14358
+2019,MI,Male,Public administration,72177
+2019,MN,Male,Public administration,45216
+2019,MO,Male,Public administration,58805
+2019,MS,Male,Public administration,32167
+2019,MT,Male,Public administration,14676
+2019,NC,Male,Public administration,104752
+2019,ND,Male,Public administration,9500
+2019,NE,Male,Public administration,18687
+2019,NH,Male,Public administration,14312
+2019,NJ,Male,Public administration,99997
+2019,NM,Male,Public administration,34865
+2019,NV,Male,Public administration,29677
+2019,NY,Male,Public administration,229526
+2019,OH,Male,Public administration,108976
+2019,OK,Male,Public administration,58014
+2019,OR,Male,Public administration,39573
+2019,PA,Male,Public administration,127007
+2019,PR,Male,Public administration,42749
+2019,RI,Male,Public administration,12365
+2019,SC,Male,Public administration,50126
+2019,SD,Male,Public administration,9670
+2019,TN,Male,Public administration,65154
+2019,TX,Male,Public administration,279284
+2019,UT,Male,Public administration,38137
+2019,VA,Male,Public administration,199174
+2019,VT,Male,Public administration,6336
+2019,WA,Male,Public administration,89147
+2019,WI,Male,Public administration,47800
+2019,WV,Male,Public administration,25232
+2019,WY,Male,Public administration,7274
+2020,AK,Male,Public administration,18174
+2020,AL,Male,Public administration,60729
+2020,AR,Male,Public administration,26355
+2020,AZ,Male,Public administration,83773
+2020,CA,Male,Public administration,398533
+2020,CO,Male,Public administration,68012
+2020,CT,Male,Public administration,34345
+2020,DC,Male,Public administration,27933
+2020,DE,Male,Public administration,12163
+2020,FL,Male,Public administration,212778
+2020,GA,Male,Public administration,115842
+2020,HI,Male,Public administration,32529
+2020,IA,Male,Public administration,23642
+2020,ID,Male,Public administration,20492
+2020,IL,Male,Public administration,115918
+2020,IN,Male,Public administration,54335
+2020,KS,Male,Public administration,33376
+2020,KY,Male,Public administration,41238
+2020,LA,Male,Public administration,51342
+2020,MA,Male,Public administration,72985
+2020,MD,Male,Public administration,161906
+2020,ME,Male,Public administration,14785
+2020,MI,Male,Public administration,71279
+2020,MN,Male,Public administration,47266
+2020,MO,Male,Public administration,60398
+2020,MS,Male,Public administration,30768
+2020,MT,Male,Public administration,13473
+2020,NC,Male,Public administration,103828
+2020,ND,Male,Public administration,9242
+2020,NE,Male,Public administration,19478
+2020,NH,Male,Public administration,14861
+2020,NJ,Male,Public administration,103948
+2020,NM,Male,Public administration,34316
+2020,NV,Male,Public administration,29590
+2020,NY,Male,Public administration,234783
+2020,OH,Male,Public administration,111404
+2020,OK,Male,Public administration,57977
+2020,OR,Male,Public administration,40349
+2020,PA,Male,Public administration,127465
+2020,PR,Male,Public administration,42735
+2020,RI,Male,Public administration,11667
+2020,SC,Male,Public administration,50299
+2020,SD,Male,Public administration,10649
+2020,TN,Male,Public administration,65938
+2020,TX,Male,Public administration,282036
+2020,UT,Male,Public administration,39828
+2020,VA,Male,Public administration,199302
+2020,VT,Male,Public administration,6347
+2020,WA,Male,Public administration,89846
+2020,WI,Male,Public administration,47603
+2020,WV,Male,Public administration,25120
+2020,WY,Male,Public administration,7654
+2021,AK,Male,Public administration,17837
+2021,AL,Male,Public administration,60735
+2021,AR,Male,Public administration,27156
+2021,AZ,Male,Public administration,83765
+2021,CA,Male,Public administration,404701
+2021,CO,Male,Public administration,70799
+2021,CT,Male,Public administration,34618
+2021,DC,Male,Public administration,28287
+2021,DE,Male,Public administration,13012
+2021,FL,Male,Public administration,217564
+2021,GA,Male,Public administration,115922
+2021,HI,Male,Public administration,32295
+2021,IA,Male,Public administration,24112
+2021,ID,Male,Public administration,20803
+2021,IL,Male,Public administration,119398
+2021,IN,Male,Public administration,56650
+2021,KS,Male,Public administration,34028
+2021,KY,Male,Public administration,41711
+2021,LA,Male,Public administration,51939
+2021,MA,Male,Public administration,75337
+2021,MD,Male,Public administration,166088
+2021,ME,Male,Public administration,15304
+2021,MI,Male,Public administration,72565
+2021,MN,Male,Public administration,48793
+2021,MO,Male,Public administration,62149
+2021,MS,Male,Public administration,30937
+2021,MT,Male,Public administration,14103
+2021,NC,Male,Public administration,102627
+2021,ND,Male,Public administration,9287
+2021,NE,Male,Public administration,20341
+2021,NH,Male,Public administration,14655
+2021,NJ,Male,Public administration,108515
+2021,NM,Male,Public administration,34275
+2021,NV,Male,Public administration,30392
+2021,NY,Male,Public administration,239906
+2021,OH,Male,Public administration,115052
+2021,OK,Male,Public administration,58926
+2021,OR,Male,Public administration,41339
+2021,PA,Male,Public administration,131650
+2021,PR,Male,Public administration,41954
+2021,RI,Male,Public administration,12403
+2021,SC,Male,Public administration,50403
+2021,SD,Male,Public administration,10823
+2021,TN,Male,Public administration,67233
+2021,TX,Male,Public administration,292937
+2021,UT,Male,Public administration,40097
+2021,VA,Male,Public administration,205201
+2021,VT,Male,Public administration,6374
+2021,WA,Male,Public administration,90063
+2021,WI,Male,Public administration,48340
+2021,WV,Male,Public administration,23396
+2021,WY,Male,Public administration,8025
+2019,AK,Female,Agriculture ,2043
+2019,AL,Female,Agriculture ,2639
+2019,AR,Female,Agriculture ,3258
+2019,AZ,Female,Agriculture ,6087
+2019,CA,Female,Agriculture ,54153
+2019,CO,Female,Agriculture ,9594
+2019,CT,Female,Agriculture ,1580
+2019,DC,Female,Agriculture ,266
+2019,DE,Female,Agriculture ,907
+2019,FL,Female,Agriculture ,14606
+2019,GA,Female,Agriculture ,7076
+2019,HI,Female,Agriculture ,2399
+2019,IA,Female,Agriculture ,5459
+2019,ID,Female,Agriculture ,3716
+2019,IL,Female,Agriculture ,6663
+2019,IN,Female,Agriculture ,4118
+2019,KS,Female,Agriculture ,4031
+2019,KY,Female,Agriculture ,3647
+2019,LA,Female,Agriculture ,7191
+2019,MA,Female,Agriculture ,2065
+2019,MD,Female,Agriculture ,1959
+2019,ME,Female,Agriculture ,1482
+2019,MI,Female,Agriculture ,6087
+2019,MN,Female,Agriculture ,6188
+2019,MO,Female,Agriculture ,5060
+2019,MS,Female,Agriculture ,2264
+2019,MT,Female,Agriculture ,4475
+2019,NC,Female,Agriculture ,6821
+2019,ND,Female,Agriculture ,3007
+2019,NE,Female,Agriculture ,3624
+2019,NH,Female,Agriculture ,819
+2019,NJ,Female,Agriculture ,3133
+2019,NM,Female,Agriculture ,4187
+2019,NV,Female,Agriculture ,2570
+2019,NY,Female,Agriculture ,7201
+2019,OH,Female,Agriculture ,6030
+2019,OK,Female,Agriculture ,11839
+2019,OR,Female,Agriculture ,8406
+2019,PA,Female,Agriculture ,9872
+2019,PR,Female,Agriculture ,907
+2019,RI,Female,Agriculture ,299
+2019,SC,Female,Agriculture ,2529
+2019,SD,Female,Agriculture ,2300
+2019,TN,Female,Agriculture ,3365
+2019,TX,Female,Agriculture ,59341
+2019,UT,Female,Agriculture ,3374
+2019,VA,Female,Agriculture ,4314
+2019,VT,Female,Agriculture ,1101
+2019,WA,Female,Agriculture ,12325
+2019,WI,Female,Agriculture ,8426
+2019,WV,Female,Agriculture ,1943
+2019,WY,Female,Agriculture ,3268
+2020,AK,Female,Agriculture ,1937
+2020,AL,Female,Agriculture ,2873
+2020,AR,Female,Agriculture ,3395
+2020,AZ,Female,Agriculture ,5893
+2020,CA,Female,Agriculture ,52725
+2020,CO,Female,Agriculture ,9092
+2020,CT,Female,Agriculture ,1545
+2020,DC,Female,Agriculture ,267
+2020,DE,Female,Agriculture ,914
+2020,FL,Female,Agriculture ,12936
+2020,GA,Female,Agriculture ,7675
+2020,HI,Female,Agriculture ,2255
+2020,IA,Female,Agriculture ,5922
+2020,ID,Female,Agriculture ,4078
+2020,IL,Female,Agriculture ,6422
+2020,IN,Female,Agriculture ,4169
+2020,KS,Female,Agriculture ,4118
+2020,KY,Female,Agriculture ,3715
+2020,LA,Female,Agriculture ,6765
+2020,MA,Female,Agriculture ,2095
+2020,MD,Female,Agriculture ,2198
+2020,ME,Female,Agriculture ,1481
+2020,MI,Female,Agriculture ,6269
+2020,MN,Female,Agriculture ,6299
+2020,MO,Female,Agriculture ,5388
+2020,MS,Female,Agriculture ,2624
+2020,MT,Female,Agriculture ,4506
+2020,NC,Female,Agriculture ,7218
+2020,ND,Female,Agriculture ,3206
+2020,NE,Female,Agriculture ,3955
+2020,NH,Female,Agriculture ,887
+2020,NJ,Female,Agriculture ,3004
+2020,NM,Female,Agriculture ,4324
+2020,NV,Female,Agriculture ,2511
+2020,NY,Female,Agriculture ,7168
+2020,OH,Female,Agriculture ,5984
+2020,OK,Female,Agriculture ,11238
+2020,OR,Female,Agriculture ,8199
+2020,PA,Female,Agriculture ,9597
+2020,PR,Female,Agriculture ,839
+2020,RI,Female,Agriculture ,375
+2020,SC,Female,Agriculture ,2448
+2020,SD,Female,Agriculture ,2490
+2020,TN,Female,Agriculture ,3259
+2020,TX,Female,Agriculture ,58235
+2020,UT,Female,Agriculture ,2829
+2020,VA,Female,Agriculture ,4246
+2020,VT,Female,Agriculture ,1342
+2020,WA,Female,Agriculture ,12377
+2020,WI,Female,Agriculture ,8333
+2020,WV,Female,Agriculture ,1563
+2020,WY,Female,Agriculture ,3256
+2021,AK,Female,Agriculture ,1839
+2021,AL,Female,Agriculture ,3074
+2021,AR,Female,Agriculture ,3499
+2021,AZ,Female,Agriculture ,5968
+2021,CA,Female,Agriculture ,54185
+2021,CO,Female,Agriculture ,9275
+2021,CT,Female,Agriculture ,1515
+2021,DC,Female,Agriculture ,367
+2021,DE,Female,Agriculture ,839
+2021,FL,Female,Agriculture ,13684
+2021,GA,Female,Agriculture ,8367
+2021,HI,Female,Agriculture ,2097
+2021,IA,Female,Agriculture ,5991
+2021,ID,Female,Agriculture ,3925
+2021,IL,Female,Agriculture ,6651
+2021,IN,Female,Agriculture ,4407
+2021,KS,Female,Agriculture ,4021
+2021,KY,Female,Agriculture ,3746
+2021,LA,Female,Agriculture ,6115
+2021,MA,Female,Agriculture ,2598
+2021,MD,Female,Agriculture ,2446
+2021,ME,Female,Agriculture ,1632
+2021,MI,Female,Agriculture ,6778
+2021,MN,Female,Agriculture ,6622
+2021,MO,Female,Agriculture ,5351
+2021,MS,Female,Agriculture ,2592
+2021,MT,Female,Agriculture ,4130
+2021,NC,Female,Agriculture ,7119
+2021,ND,Female,Agriculture ,3182
+2021,NE,Female,Agriculture ,3796
+2021,NH,Female,Agriculture ,865
+2021,NJ,Female,Agriculture ,3150
+2021,NM,Female,Agriculture ,4319
+2021,NV,Female,Agriculture ,2780
+2021,NY,Female,Agriculture ,7336
+2021,OH,Female,Agriculture ,6119
+2021,OK,Female,Agriculture ,10966
+2021,OR,Female,Agriculture ,8074
+2021,PA,Female,Agriculture ,9821
+2021,PR,Female,Agriculture ,889
+2021,RI,Female,Agriculture ,299
+2021,SC,Female,Agriculture ,2121
+2021,SD,Female,Agriculture ,2589
+2021,TN,Female,Agriculture ,3805
+2021,TX,Female,Agriculture ,56884
+2021,UT,Female,Agriculture ,2817
+2021,VA,Female,Agriculture ,3891
+2021,VT,Female,Agriculture ,1391
+2021,WA,Female,Agriculture ,12638
+2021,WI,Female,Agriculture ,8778
+2021,WV,Female,Agriculture ,1174
+2021,WY,Female,Agriculture ,2723
+2019,AK,Female,Construction,1663
+2019,AL,Female,Construction,10515
+2019,AR,Female,Construction,5201
+2019,AZ,Female,Construction,16550
+2019,CA,Female,Construction,77591
+2019,CO,Female,Construction,17332
+2019,CT,Female,Construction,6455
+2019,DC,Female,Construction,1086
+2019,DE,Female,Construction,2110
+2019,FL,Female,Construction,59153
+2019,GA,Female,Construction,21952
+2019,HI,Female,Construction,4312
+2019,IA,Female,Construction,6037
+2019,ID,Female,Construction,3779
+2019,IL,Female,Construction,20413
+2019,IN,Female,Construction,12223
+2019,KS,Female,Construction,6496
+2019,KY,Female,Construction,6871
+2019,LA,Female,Construction,13116
+2019,MA,Female,Construction,12082
+2019,MD,Female,Construction,17050
+2019,ME,Female,Construction,2382
+2019,MI,Female,Construction,14773
+2019,MN,Female,Construction,11066
+2019,MO,Female,Construction,11851
+2019,MS,Female,Construction,4369
+2019,MT,Female,Construction,2455
+2019,NC,Female,Construction,21930
+2019,ND,Female,Construction,2103
+2019,NE,Female,Construction,4068
+2019,NH,Female,Construction,2782
+2019,NJ,Female,Construction,16374
+2019,NM,Female,Construction,3770
+2019,NV,Female,Construction,7224
+2019,NY,Female,Construction,34218
+2019,OH,Female,Construction,20729
+2019,OK,Female,Construction,7540
+2019,OR,Female,Construction,9429
+2019,PA,Female,Construction,23025
+2019,PR,Female,Construction,2897
+2019,RI,Female,Construction,1598
+2019,SC,Female,Construction,11862
+2019,SD,Female,Construction,1716
+2019,TN,Female,Construction,13023
+2019,TX,Female,Construction,75380
+2019,UT,Female,Construction,5803
+2019,VA,Female,Construction,22305
+2019,VT,Female,Construction,1429
+2019,WA,Female,Construction,18859
+2019,WI,Female,Construction,10763
+2019,WV,Female,Construction,3066
+2019,WY,Female,Construction,1272
+2020,AK,Female,Construction,2006
+2020,AL,Female,Construction,10952
+2020,AR,Female,Construction,5610
+2020,AZ,Female,Construction,18202
+2020,CA,Female,Construction,82223
+2020,CO,Female,Construction,18676
+2020,CT,Female,Construction,6385
+2020,DC,Female,Construction,1507
+2020,DE,Female,Construction,2298
+2020,FL,Female,Construction,66342
+2020,GA,Female,Construction,24164
+2020,HI,Female,Construction,4236
+2020,IA,Female,Construction,6408
+2020,ID,Female,Construction,4200
+2020,IL,Female,Construction,22161
+2020,IN,Female,Construction,13540
+2020,KS,Female,Construction,6490
+2020,KY,Female,Construction,8209
+2020,LA,Female,Construction,13301
+2020,MA,Female,Construction,12699
+2020,MD,Female,Construction,19151
+2020,ME,Female,Construction,2350
+2020,MI,Female,Construction,16040
+2020,MN,Female,Construction,12027
+2020,MO,Female,Construction,12205
+2020,MS,Female,Construction,5382
+2020,MT,Female,Construction,2406
+2020,NC,Female,Construction,24095
+2020,ND,Female,Construction,2503
+2020,NE,Female,Construction,4236
+2020,NH,Female,Construction,2929
+2020,NJ,Female,Construction,17106
+2020,NM,Female,Construction,4073
+2020,NV,Female,Construction,8358
+2020,NY,Female,Construction,35363
+2020,OH,Female,Construction,22382
+2020,OK,Female,Construction,8134
+2020,OR,Female,Construction,9803
+2020,PA,Female,Construction,22854
+2020,PR,Female,Construction,2557
+2020,RI,Female,Construction,1942
+2020,SC,Female,Construction,12312
+2020,SD,Female,Construction,1811
+2020,TN,Female,Construction,14032
+2020,TX,Female,Construction,84203
+2020,UT,Female,Construction,6641
+2020,VA,Female,Construction,22201
+2020,VT,Female,Construction,1485
+2020,WA,Female,Construction,20173
+2020,WI,Female,Construction,11317
+2020,WV,Female,Construction,2792
+2020,WY,Female,Construction,1526
+2021,AK,Female,Construction,2200
+2021,AL,Female,Construction,10964
+2021,AR,Female,Construction,5765
+2021,AZ,Female,Construction,19061
+2021,CA,Female,Construction,84409
+2021,CO,Female,Construction,20092
+2021,CT,Female,Construction,6985
+2021,DC,Female,Construction,1353
+2021,DE,Female,Construction,2534
+2021,FL,Female,Construction,71898
+2021,GA,Female,Construction,26113
+2021,HI,Female,Construction,4205
+2021,IA,Female,Construction,6468
+2021,ID,Female,Construction,4867
+2021,IL,Female,Construction,22753
+2021,IN,Female,Construction,13744
+2021,KS,Female,Construction,6404
+2021,KY,Female,Construction,8431
+2021,LA,Female,Construction,13341
+2021,MA,Female,Construction,13365
+2021,MD,Female,Construction,20562
+2021,ME,Female,Construction,2979
+2021,MI,Female,Construction,16127
+2021,MN,Female,Construction,13024
+2021,MO,Female,Construction,12767
+2021,MS,Female,Construction,5508
+2021,MT,Female,Construction,2580
+2021,NC,Female,Construction,25735
+2021,ND,Female,Construction,2226
+2021,NE,Female,Construction,4691
+2021,NH,Female,Construction,3226
+2021,NJ,Female,Construction,18472
+2021,NM,Female,Construction,3999
+2021,NV,Female,Construction,8399
+2021,NY,Female,Construction,36958
+2021,OH,Female,Construction,23940
+2021,OK,Female,Construction,8308
+2021,OR,Female,Construction,10785
+2021,PA,Female,Construction,23404
+2021,PR,Female,Construction,2826
+2021,RI,Female,Construction,2468
+2021,SC,Female,Construction,12717
+2021,SD,Female,Construction,1822
+2021,TN,Female,Construction,14509
+2021,TX,Female,Construction,86891
+2021,UT,Female,Construction,7290
+2021,VA,Female,Construction,23178
+2021,VT,Female,Construction,1420
+2021,WA,Female,Construction,20821
+2021,WI,Female,Construction,11609
+2021,WV,Female,Construction,2654
+2021,WY,Female,Construction,1618
+2019,AK,Female,Manufacturing,2122
+2019,AL,Female,Manufacturing,69382
+2019,AR,Female,Manufacturing,43593
+2019,AZ,Female,Manufacturing,48708
+2019,CA,Female,Manufacturing,428317
+2019,CO,Female,Manufacturing,42197
+2019,CT,Female,Manufacturing,46774
+2019,DC,Female,Manufacturing,1601
+2019,DE,Female,Manufacturing,9794
+2019,FL,Female,Manufacturing,115118
+2019,GA,Female,Manufacturing,138087
+2019,HI,Female,Manufacturing,4981
+2019,IA,Female,Manufacturing,56231
+2019,ID,Female,Manufacturing,15832
+2019,IL,Female,Manufacturing,186789
+2019,IN,Female,Manufacturing,141974
+2019,KS,Female,Manufacturing,38944
+2019,KY,Female,Manufacturing,64483
+2019,LA,Female,Manufacturing,24510
+2019,MA,Female,Manufacturing,80852
+2019,MD,Female,Manufacturing,34173
+2019,ME,Female,Manufacturing,10137
+2019,MI,Female,Manufacturing,189256
+2019,MN,Female,Manufacturing,97973
+2019,MO,Female,Manufacturing,78924
+2019,MS,Female,Manufacturing,40645
+2019,MT,Female,Manufacturing,4180
+2019,NC,Female,Manufacturing,155042
+2019,ND,Female,Manufacturing,5145
+2019,NE,Female,Manufacturing,24472
+2019,NH,Female,Manufacturing,22894
+2019,NJ,Female,Manufacturing,109269
+2019,NM,Female,Manufacturing,6991
+2019,NV,Female,Manufacturing,14096
+2019,NY,Female,Manufacturing,140279
+2019,OH,Female,Manufacturing,188843
+2019,OK,Female,Manufacturing,31697
+2019,OR,Female,Manufacturing,46630
+2019,PA,Female,Manufacturing,165774
+2019,PR,Female,Manufacturing,27781
+2019,RI,Female,Manufacturing,14845
+2019,SC,Female,Manufacturing,75296
+2019,SD,Female,Manufacturing,10073
+2019,TN,Female,Manufacturing,98724
+2019,TX,Female,Manufacturing,242073
+2019,UT,Female,Manufacturing,32917
+2019,VA,Female,Manufacturing,68738
+2019,VT,Female,Manufacturing,7888
+2019,WA,Female,Manufacturing,71697
+2019,WI,Female,Manufacturing,130074
+2019,WV,Female,Manufacturing,9978
+2019,WY,Female,Manufacturing,1346
+2020,AK,Female,Manufacturing,1886
+2020,AL,Female,Manufacturing,69775
+2020,AR,Female,Manufacturing,44187
+2020,AZ,Female,Manufacturing,50273
+2020,CA,Female,Manufacturing,423255
+2020,CO,Female,Manufacturing,43426
+2020,CT,Female,Manufacturing,46867
+2020,DC,Female,Manufacturing,1506
+2020,DE,Female,Manufacturing,9993
+2020,FL,Female,Manufacturing,116712
+2020,GA,Female,Manufacturing,138454
+2020,HI,Female,Manufacturing,4485
+2020,IA,Female,Manufacturing,54752
+2020,ID,Female,Manufacturing,16421
+2020,IL,Female,Manufacturing,180573
+2020,IN,Female,Manufacturing,140223
+2020,KS,Female,Manufacturing,40718
+2020,KY,Female,Manufacturing,63584
+2020,LA,Female,Manufacturing,23524
+2020,MA,Female,Manufacturing,83636
+2020,MD,Female,Manufacturing,35813
+2020,ME,Female,Manufacturing,10416
+2020,MI,Female,Manufacturing,187791
+2020,MN,Female,Manufacturing,99004
+2020,MO,Female,Manufacturing,80366
+2020,MS,Female,Manufacturing,40159
+2020,MT,Female,Manufacturing,4629
+2020,NC,Female,Manufacturing,155721
+2020,ND,Female,Manufacturing,5395
+2020,NE,Female,Manufacturing,24608
+2020,NH,Female,Manufacturing,23135
+2020,NJ,Female,Manufacturing,109681
+2020,NM,Female,Manufacturing,6906
+2020,NV,Female,Manufacturing,15008
+2020,NY,Female,Manufacturing,138282
+2020,OH,Female,Manufacturing,186518
+2020,OK,Female,Manufacturing,32467
+2020,OR,Female,Manufacturing,45866
+2020,PA,Female,Manufacturing,163118
+2020,PR,Female,Manufacturing,27476
+2020,RI,Female,Manufacturing,13817
+2020,SC,Female,Manufacturing,74496
+2020,SD,Female,Manufacturing,10021
+2020,TN,Female,Manufacturing,99379
+2020,TX,Female,Manufacturing,246331
+2020,UT,Female,Manufacturing,32855
+2020,VA,Female,Manufacturing,69638
+2020,VT,Female,Manufacturing,7929
+2020,WA,Female,Manufacturing,70051
+2020,WI,Female,Manufacturing,130265
+2020,WV,Female,Manufacturing,10226
+2020,WY,Female,Manufacturing,1701
+2021,AK,Female,Manufacturing,1978
+2021,AL,Female,Manufacturing,69999
+2021,AR,Female,Manufacturing,43316
+2021,AZ,Female,Manufacturing,50988
+2021,CA,Female,Manufacturing,422787
+2021,CO,Female,Manufacturing,45856
+2021,CT,Female,Manufacturing,47369
+2021,DC,Female,Manufacturing,1464
+2021,DE,Female,Manufacturing,9799
+2021,FL,Female,Manufacturing,119892
+2021,GA,Female,Manufacturing,140502
+2021,HI,Female,Manufacturing,4639
+2021,IA,Female,Manufacturing,55496
+2021,ID,Female,Manufacturing,17073
+2021,IL,Female,Manufacturing,179802
+2021,IN,Female,Manufacturing,139867
+2021,KS,Female,Manufacturing,40065
+2021,KY,Female,Manufacturing,63060
+2021,LA,Female,Manufacturing,24066
+2021,MA,Female,Manufacturing,85146
+2021,MD,Female,Manufacturing,36864
+2021,ME,Female,Manufacturing,10611
+2021,MI,Female,Manufacturing,189027
+2021,MN,Female,Manufacturing,99670
+2021,MO,Female,Manufacturing,80552
+2021,MS,Female,Manufacturing,38414
+2021,MT,Female,Manufacturing,4472
+2021,NC,Female,Manufacturing,155640
+2021,ND,Female,Manufacturing,5424
+2021,NE,Female,Manufacturing,25704
+2021,NH,Female,Manufacturing,23459
+2021,NJ,Female,Manufacturing,112970
+2021,NM,Female,Manufacturing,6931
+2021,NV,Female,Manufacturing,15814
+2021,NY,Female,Manufacturing,136416
+2021,OH,Female,Manufacturing,186881
+2021,OK,Female,Manufacturing,32963
+2021,OR,Female,Manufacturing,44692
+2021,PA,Female,Manufacturing,166105
+2021,PR,Female,Manufacturing,26695
+2021,RI,Female,Manufacturing,14020
+2021,SC,Female,Manufacturing,74982
+2021,SD,Female,Manufacturing,9744
+2021,TN,Female,Manufacturing,100597
+2021,TX,Female,Manufacturing,251110
+2021,UT,Female,Manufacturing,35080
+2021,VA,Female,Manufacturing,70271
+2021,VT,Female,Manufacturing,7444
+2021,WA,Female,Manufacturing,68813
+2021,WI,Female,Manufacturing,130178
+2021,WV,Female,Manufacturing,9414
+2021,WY,Female,Manufacturing,1752
+2019,AK,Female,Wholesale trade,1147
+2019,AL,Female,Wholesale trade,10897
+2019,AR,Female,Wholesale trade,7020
+2019,AZ,Female,Wholesale trade,14740
+2019,CA,Female,Wholesale trade,131413
+2019,CO,Female,Wholesale trade,15708
+2019,CT,Female,Wholesale trade,10275
+2019,DC,Female,Wholesale trade,506
+2019,DE,Female,Wholesale trade,2089
+2019,FL,Female,Wholesale trade,60301
+2019,GA,Female,Wholesale trade,34251
+2019,HI,Female,Wholesale trade,3794
+2019,IA,Female,Wholesale trade,8383
+2019,ID,Female,Wholesale trade,4414
+2019,IL,Female,Wholesale trade,48984
+2019,IN,Female,Wholesale trade,17963
+2019,KS,Female,Wholesale trade,8057
+2019,KY,Female,Wholesale trade,10417
+2019,LA,Female,Wholesale trade,10301
+2019,MA,Female,Wholesale trade,18202
+2019,MD,Female,Wholesale trade,11551
+2019,ME,Female,Wholesale trade,2417
+2019,MI,Female,Wholesale trade,22529
+2019,MN,Female,Wholesale trade,18711
+2019,MO,Female,Wholesale trade,18083
+2019,MS,Female,Wholesale trade,6388
+2019,MT,Female,Wholesale trade,2070
+2019,NC,Female,Wholesale trade,28010
+2019,ND,Female,Wholesale trade,2284
+2019,NE,Female,Wholesale trade,4828
+2019,NH,Female,Wholesale trade,4404
+2019,NJ,Female,Wholesale trade,40179
+2019,NM,Female,Wholesale trade,3036
+2019,NV,Female,Wholesale trade,7451
+2019,NY,Female,Wholesale trade,54023
+2019,OH,Female,Wholesale trade,34470
+2019,OK,Female,Wholesale trade,9577
+2019,OR,Female,Wholesale trade,11768
+2019,PA,Female,Wholesale trade,37812
+2019,PR,Female,Wholesale trade,6012
+2019,RI,Female,Wholesale trade,2682
+2019,SC,Female,Wholesale trade,12580
+2019,SD,Female,Wholesale trade,1943
+2019,TN,Female,Wholesale trade,19183
+2019,TX,Female,Wholesale trade,88470
+2019,UT,Female,Wholesale trade,7419
+2019,VA,Female,Wholesale trade,16303
+2019,VT,Female,Wholesale trade,1231
+2019,WA,Female,Wholesale trade,22465
+2019,WI,Female,Wholesale trade,18533
+2019,WV,Female,Wholesale trade,2225
+2019,WY,Female,Wholesale trade,890
+2020,AK,Female,Wholesale trade,1192
+2020,AL,Female,Wholesale trade,11788
+2020,AR,Female,Wholesale trade,7367
+2020,AZ,Female,Wholesale trade,14607
+2020,CA,Female,Wholesale trade,127679
+2020,CO,Female,Wholesale trade,15612
+2020,CT,Female,Wholesale trade,10037
+2020,DC,Female,Wholesale trade,453
+2020,DE,Female,Wholesale trade,2261
+2020,FL,Female,Wholesale trade,60205
+2020,GA,Female,Wholesale trade,34092
+2020,HI,Female,Wholesale trade,3700
+2020,IA,Female,Wholesale trade,8473
+2020,ID,Female,Wholesale trade,3787
+2020,IL,Female,Wholesale trade,49474
+2020,IN,Female,Wholesale trade,17699
+2020,KS,Female,Wholesale trade,7554
+2020,KY,Female,Wholesale trade,10402
+2020,LA,Female,Wholesale trade,10765
+2020,MA,Female,Wholesale trade,18948
+2020,MD,Female,Wholesale trade,11690
+2020,ME,Female,Wholesale trade,2427
+2020,MI,Female,Wholesale trade,22755
+2020,MN,Female,Wholesale trade,18628
+2020,MO,Female,Wholesale trade,18342
+2020,MS,Female,Wholesale trade,6276
+2020,MT,Female,Wholesale trade,1883
+2020,NC,Female,Wholesale trade,28479
+2020,ND,Female,Wholesale trade,2075
+2020,NE,Female,Wholesale trade,4873
+2020,NH,Female,Wholesale trade,4367
+2020,NJ,Female,Wholesale trade,39026
+2020,NM,Female,Wholesale trade,3019
+2020,NV,Female,Wholesale trade,7159
+2020,NY,Female,Wholesale trade,51458
+2020,OH,Female,Wholesale trade,33076
+2020,OK,Female,Wholesale trade,10660
+2020,OR,Female,Wholesale trade,10889
+2020,PA,Female,Wholesale trade,36475
+2020,PR,Female,Wholesale trade,5662
+2020,RI,Female,Wholesale trade,2555
+2020,SC,Female,Wholesale trade,13548
+2020,SD,Female,Wholesale trade,1934
+2020,TN,Female,Wholesale trade,18699
+2020,TX,Female,Wholesale trade,87118
+2020,UT,Female,Wholesale trade,7256
+2020,VA,Female,Wholesale trade,16764
+2020,VT,Female,Wholesale trade,1052
+2020,WA,Female,Wholesale trade,21762
+2020,WI,Female,Wholesale trade,17917
+2020,WV,Female,Wholesale trade,2027
+2020,WY,Female,Wholesale trade,868
+2021,AK,Female,Wholesale trade,988
+2021,AL,Female,Wholesale trade,11260
+2021,AR,Female,Wholesale trade,7624
+2021,AZ,Female,Wholesale trade,14537
+2021,CA,Female,Wholesale trade,124104
+2021,CO,Female,Wholesale trade,16214
+2021,CT,Female,Wholesale trade,9912
+2021,DC,Female,Wholesale trade,472
+2021,DE,Female,Wholesale trade,2320
+2021,FL,Female,Wholesale trade,58833
+2021,GA,Female,Wholesale trade,32640
+2021,HI,Female,Wholesale trade,3775
+2021,IA,Female,Wholesale trade,8316
+2021,ID,Female,Wholesale trade,3837
+2021,IL,Female,Wholesale trade,49286
+2021,IN,Female,Wholesale trade,16878
+2021,KS,Female,Wholesale trade,7769
+2021,KY,Female,Wholesale trade,10154
+2021,LA,Female,Wholesale trade,9723
+2021,MA,Female,Wholesale trade,18709
+2021,MD,Female,Wholesale trade,11949
+2021,ME,Female,Wholesale trade,2590
+2021,MI,Female,Wholesale trade,21740
+2021,MN,Female,Wholesale trade,18735
+2021,MO,Female,Wholesale trade,18358
+2021,MS,Female,Wholesale trade,5594
+2021,MT,Female,Wholesale trade,1554
+2021,NC,Female,Wholesale trade,28414
+2021,ND,Female,Wholesale trade,2018
+2021,NE,Female,Wholesale trade,4886
+2021,NH,Female,Wholesale trade,4152
+2021,NJ,Female,Wholesale trade,39443
+2021,NM,Female,Wholesale trade,3200
+2021,NV,Female,Wholesale trade,6044
+2021,NY,Female,Wholesale trade,50384
+2021,OH,Female,Wholesale trade,31874
+2021,OK,Female,Wholesale trade,9478
+2021,OR,Female,Wholesale trade,10895
+2021,PA,Female,Wholesale trade,37582
+2021,PR,Female,Wholesale trade,5549
+2021,RI,Female,Wholesale trade,2591
+2021,SC,Female,Wholesale trade,13191
+2021,SD,Female,Wholesale trade,1917
+2021,TN,Female,Wholesale trade,18195
+2021,TX,Female,Wholesale trade,84679
+2021,UT,Female,Wholesale trade,6922
+2021,VA,Female,Wholesale trade,17060
+2021,VT,Female,Wholesale trade,994
+2021,WA,Female,Wholesale trade,21768
+2021,WI,Female,Wholesale trade,17985
+2021,WV,Female,Wholesale trade,1805
+2021,WY,Female,Wholesale trade,720
+2019,AK,Female,Retail trade,9197
+2019,AL,Female,Retail trade,66431
+2019,AR,Female,Retail trade,50884
+2019,AZ,Female,Retail trade,98728
+2019,CA,Female,Retail trade,476210
+2019,CO,Female,Retail trade,79177
+2019,CT,Female,Retail trade,42396
+2019,DC,Female,Retail trade,4071
+2019,DE,Female,Retail trade,13244
+2019,FL,Female,Retail trade,319254
+2019,GA,Female,Retail trade,152408
+2019,HI,Female,Retail trade,25639
+2019,IA,Female,Retail trade,45657
+2019,ID,Female,Retail trade,24996
+2019,IL,Female,Retail trade,164397
+2019,IN,Female,Retail trade,91633
+2019,KS,Female,Retail trade,39660
+2019,KY,Female,Retail trade,60362
+2019,LA,Female,Retail trade,69073
+2019,MA,Female,Retail trade,78229
+2019,MD,Female,Retail trade,70756
+2019,ME,Female,Retail trade,20502
+2019,MI,Female,Retail trade,120672
+2019,MN,Female,Retail trade,77315
+2019,MO,Female,Retail trade,88615
+2019,MS,Female,Retail trade,39557
+2019,MT,Female,Retail trade,15815
+2019,NC,Female,Retail trade,141742
+2019,ND,Female,Retail trade,11960
+2019,NE,Female,Retail trade,28942
+2019,NH,Female,Retail trade,19907
+2019,NJ,Female,Retail trade,118378
+2019,NM,Female,Retail trade,26809
+2019,NV,Female,Retail trade,46852
+2019,NY,Female,Retail trade,222419
+2019,OH,Female,Retail trade,166408
+2019,OK,Female,Retail trade,57496
+2019,OR,Female,Retail trade,57270
+2019,PA,Female,Retail trade,168934
+2019,PR,Female,Retail trade,29811
+2019,RI,Female,Retail trade,13528
+2019,SC,Female,Retail trade,75079
+2019,SD,Female,Retail trade,12142
+2019,TN,Female,Retail trade,99217
+2019,TX,Female,Retail trade,411557
+2019,UT,Female,Retail trade,39829
+2019,VA,Female,Retail trade,110517
+2019,VT,Female,Retail trade,9188
+2019,WA,Female,Retail trade,109111
+2019,WI,Female,Retail trade,83757
+2019,WV,Female,Retail trade,24480
+2019,WY,Female,Retail trade,8797
+2020,AK,Female,Retail trade,8599
+2020,AL,Female,Retail trade,68676
+2020,AR,Female,Retail trade,51380
+2020,AZ,Female,Retail trade,100001
+2020,CA,Female,Retail trade,479186
+2020,CO,Female,Retail trade,77592
+2020,CT,Female,Retail trade,41452
+2020,DC,Female,Retail trade,4677
+2020,DE,Female,Retail trade,13006
+2020,FL,Female,Retail trade,320718
+2020,GA,Female,Retail trade,154168
+2020,HI,Female,Retail trade,25232
+2020,IA,Female,Retail trade,44823
+2020,ID,Female,Retail trade,25448
+2020,IL,Female,Retail trade,164780
+2020,IN,Female,Retail trade,92567
+2020,KS,Female,Retail trade,40778
+2020,KY,Female,Retail trade,58759
+2020,LA,Female,Retail trade,67970
+2020,MA,Female,Retail trade,78301
+2020,MD,Female,Retail trade,69828
+2020,ME,Female,Retail trade,20732
+2020,MI,Female,Retail trade,122182
+2020,MN,Female,Retail trade,73674
+2020,MO,Female,Retail trade,89242
+2020,MS,Female,Retail trade,38618
+2020,MT,Female,Retail trade,16625
+2020,NC,Female,Retail trade,146265
+2020,ND,Female,Retail trade,11286
+2020,NE,Female,Retail trade,27169
+2020,NH,Female,Retail trade,21041
+2020,NJ,Female,Retail trade,114828
+2020,NM,Female,Retail trade,25899
+2020,NV,Female,Retail trade,47499
+2020,NY,Female,Retail trade,217559
+2020,OH,Female,Retail trade,165497
+2020,OK,Female,Retail trade,57439
+2020,OR,Female,Retail trade,58314
+2020,PA,Female,Retail trade,168933
+2020,PR,Female,Retail trade,30674
+2020,RI,Female,Retail trade,13451
+2020,SC,Female,Retail trade,75832
+2020,SD,Female,Retail trade,12397
+2020,TN,Female,Retail trade,99589
+2020,TX,Female,Retail trade,409817
+2020,UT,Female,Retail trade,41057
+2020,VA,Female,Retail trade,109114
+2020,VT,Female,Retail trade,8868
+2020,WA,Female,Retail trade,112556
+2020,WI,Female,Retail trade,83786
+2020,WV,Female,Retail trade,24825
+2020,WY,Female,Retail trade,8435
+2021,AK,Female,Retail trade,8630
+2021,AL,Female,Retail trade,70767
+2021,AR,Female,Retail trade,51668
+2021,AZ,Female,Retail trade,99530
+2021,CA,Female,Retail trade,474637
+2021,CO,Female,Retail trade,76342
+2021,CT,Female,Retail trade,41890
+2021,DC,Female,Retail trade,4708
+2021,DE,Female,Retail trade,12863
+2021,FL,Female,Retail trade,325679
+2021,GA,Female,Retail trade,158121
+2021,HI,Female,Retail trade,24734
+2021,IA,Female,Retail trade,44778
+2021,ID,Female,Retail trade,25650
+2021,IL,Female,Retail trade,160339
+2021,IN,Female,Retail trade,92286
+2021,KS,Female,Retail trade,40705
+2021,KY,Female,Retail trade,59993
+2021,LA,Female,Retail trade,67826
+2021,MA,Female,Retail trade,78286
+2021,MD,Female,Retail trade,69066
+2021,ME,Female,Retail trade,20827
+2021,MI,Female,Retail trade,122789
+2021,MN,Female,Retail trade,75021
+2021,MO,Female,Retail trade,89325
+2021,MS,Female,Retail trade,39723
+2021,MT,Female,Retail trade,16669
+2021,NC,Female,Retail trade,145849
+2021,ND,Female,Retail trade,10810
+2021,NE,Female,Retail trade,26549
+2021,NH,Female,Retail trade,20751
+2021,NJ,Female,Retail trade,118078
+2021,NM,Female,Retail trade,26121
+2021,NV,Female,Retail trade,47759
+2021,NY,Female,Retail trade,218440
+2021,OH,Female,Retail trade,167614
+2021,OK,Female,Retail trade,56607
+2021,OR,Female,Retail trade,59047
+2021,PA,Female,Retail trade,168702
+2021,PR,Female,Retail trade,32623
+2021,RI,Female,Retail trade,13659
+2021,SC,Female,Retail trade,74352
+2021,SD,Female,Retail trade,12120
+2021,TN,Female,Retail trade,100813
+2021,TX,Female,Retail trade,412479
+2021,UT,Female,Retail trade,41894
+2021,VA,Female,Retail trade,106355
+2021,VT,Female,Retail trade,9342
+2021,WA,Female,Retail trade,111596
+2021,WI,Female,Retail trade,84444
+2021,WV,Female,Retail trade,25412
+2021,WY,Female,Retail trade,8756
+2019,AK,Female,Transportation warehousing utilities,5222
+2019,AL,Female,Transportation warehousing utilities,19739
+2019,AR,Female,Transportation warehousing utilities,13869
+2019,AZ,Female,Transportation warehousing utilities,31271
+2019,CA,Female,Transportation warehousing utilities,174318
+2019,CO,Female,Transportation warehousing utilities,22119
+2019,CT,Female,Transportation warehousing utilities,12909
+2019,DC,Female,Transportation warehousing utilities,2654
+2019,DE,Female,Transportation warehousing utilities,3564
+2019,FL,Female,Transportation warehousing utilities,94730
+2019,GA,Female,Transportation warehousing utilities,64838
+2019,HI,Female,Transportation warehousing utilities,9987
+2019,IA,Female,Transportation warehousing utilities,11969
+2019,ID,Female,Transportation warehousing utilities,5032
+2019,IL,Female,Transportation warehousing utilities,72484
+2019,IN,Female,Transportation warehousing utilities,31493
+2019,KS,Female,Transportation warehousing utilities,10987
+2019,KY,Female,Transportation warehousing utilities,22252
+2019,LA,Female,Transportation warehousing utilities,18423
+2019,MA,Female,Transportation warehousing utilities,22012
+2019,MD,Female,Transportation warehousing utilities,26543
+2019,ME,Female,Transportation warehousing utilities,4200
+2019,MI,Female,Transportation warehousing utilities,37807
+2019,MN,Female,Transportation warehousing utilities,21901
+2019,MO,Female,Transportation warehousing utilities,26388
+2019,MS,Female,Transportation warehousing utilities,12556
+2019,MT,Female,Transportation warehousing utilities,4076
+2019,NC,Female,Transportation warehousing utilities,41580
+2019,ND,Female,Transportation warehousing utilities,3101
+2019,NE,Female,Transportation warehousing utilities,8770
+2019,NH,Female,Transportation warehousing utilities,5165
+2019,NJ,Female,Transportation warehousing utilities,47102
+2019,NM,Female,Transportation warehousing utilities,6022
+2019,NV,Female,Transportation warehousing utilities,14664
+2019,NY,Female,Transportation warehousing utilities,81872
+2019,OH,Female,Transportation warehousing utilities,49287
+2019,OK,Female,Transportation warehousing utilities,15292
+2019,OR,Female,Transportation warehousing utilities,15986
+2019,PA,Female,Transportation warehousing utilities,56823
+2019,PR,Female,Transportation warehousing utilities,6283
+2019,RI,Female,Transportation warehousing utilities,2839
+2019,SC,Female,Transportation warehousing utilities,21449
+2019,SD,Female,Transportation warehousing utilities,2986
+2019,TN,Female,Transportation warehousing utilities,40161
+2019,TX,Female,Transportation warehousing utilities,137985
+2019,UT,Female,Transportation warehousing utilities,12007
+2019,VA,Female,Transportation warehousing utilities,32389
+2019,VT,Female,Transportation warehousing utilities,1773
+2019,WA,Female,Transportation warehousing utilities,34379
+2019,WI,Female,Transportation warehousing utilities,24151
+2019,WV,Female,Transportation warehousing utilities,5027
+2019,WY,Female,Transportation warehousing utilities,2106
+2020,AK,Female,Transportation warehousing utilities,5645
+2020,AL,Female,Transportation warehousing utilities,21077
+2020,AR,Female,Transportation warehousing utilities,14862
+2020,AZ,Female,Transportation warehousing utilities,33805
+2020,CA,Female,Transportation warehousing utilities,183933
+2020,CO,Female,Transportation warehousing utilities,22996
+2020,CT,Female,Transportation warehousing utilities,13708
+2020,DC,Female,Transportation warehousing utilities,2673
+2020,DE,Female,Transportation warehousing utilities,4249
+2020,FL,Female,Transportation warehousing utilities,100557
+2020,GA,Female,Transportation warehousing utilities,66771
+2020,HI,Female,Transportation warehousing utilities,9898
+2020,IA,Female,Transportation warehousing utilities,12439
+2020,ID,Female,Transportation warehousing utilities,5328
+2020,IL,Female,Transportation warehousing utilities,73691
+2020,IN,Female,Transportation warehousing utilities,33921
+2020,KS,Female,Transportation warehousing utilities,11952
+2020,KY,Female,Transportation warehousing utilities,22675
+2020,LA,Female,Transportation warehousing utilities,18401
+2020,MA,Female,Transportation warehousing utilities,22478
+2020,MD,Female,Transportation warehousing utilities,26756
+2020,ME,Female,Transportation warehousing utilities,4102
+2020,MI,Female,Transportation warehousing utilities,38465
+2020,MN,Female,Transportation warehousing utilities,22385
+2020,MO,Female,Transportation warehousing utilities,29258
+2020,MS,Female,Transportation warehousing utilities,13696
+2020,MT,Female,Transportation warehousing utilities,3833
+2020,NC,Female,Transportation warehousing utilities,43465
+2020,ND,Female,Transportation warehousing utilities,2961
+2020,NE,Female,Transportation warehousing utilities,8697
+2020,NH,Female,Transportation warehousing utilities,5073
+2020,NJ,Female,Transportation warehousing utilities,50254
+2020,NM,Female,Transportation warehousing utilities,5816
+2020,NV,Female,Transportation warehousing utilities,15787
+2020,NY,Female,Transportation warehousing utilities,80038
+2020,OH,Female,Transportation warehousing utilities,52575
+2020,OK,Female,Transportation warehousing utilities,15679
+2020,OR,Female,Transportation warehousing utilities,16115
+2020,PA,Female,Transportation warehousing utilities,59505
+2020,PR,Female,Transportation warehousing utilities,6086
+2020,RI,Female,Transportation warehousing utilities,2932
+2020,SC,Female,Transportation warehousing utilities,23589
+2020,SD,Female,Transportation warehousing utilities,3209
+2020,TN,Female,Transportation warehousing utilities,41743
+2020,TX,Female,Transportation warehousing utilities,142409
+2020,UT,Female,Transportation warehousing utilities,13137
+2020,VA,Female,Transportation warehousing utilities,34182
+2020,VT,Female,Transportation warehousing utilities,1484
+2020,WA,Female,Transportation warehousing utilities,34926
+2020,WI,Female,Transportation warehousing utilities,25588
+2020,WV,Female,Transportation warehousing utilities,5972
+2020,WY,Female,Transportation warehousing utilities,2071
+2021,AK,Female,Transportation warehousing utilities,5951
+2021,AL,Female,Transportation warehousing utilities,21443
+2021,AR,Female,Transportation warehousing utilities,14539
+2021,AZ,Female,Transportation warehousing utilities,34394
+2021,CA,Female,Transportation warehousing utilities,189725
+2021,CO,Female,Transportation warehousing utilities,23844
+2021,CT,Female,Transportation warehousing utilities,13484
+2021,DC,Female,Transportation warehousing utilities,2110
+2021,DE,Female,Transportation warehousing utilities,4150
+2021,FL,Female,Transportation warehousing utilities,103434
+2021,GA,Female,Transportation warehousing utilities,69844
+2021,HI,Female,Transportation warehousing utilities,10350
+2021,IA,Female,Transportation warehousing utilities,12905
+2021,ID,Female,Transportation warehousing utilities,5890
+2021,IL,Female,Transportation warehousing utilities,75124
+2021,IN,Female,Transportation warehousing utilities,34985
+2021,KS,Female,Transportation warehousing utilities,12222
+2021,KY,Female,Transportation warehousing utilities,23016
+2021,LA,Female,Transportation warehousing utilities,17813
+2021,MA,Female,Transportation warehousing utilities,22981
+2021,MD,Female,Transportation warehousing utilities,27879
+2021,ME,Female,Transportation warehousing utilities,4179
+2021,MI,Female,Transportation warehousing utilities,39561
+2021,MN,Female,Transportation warehousing utilities,22454
+2021,MO,Female,Transportation warehousing utilities,29915
+2021,MS,Female,Transportation warehousing utilities,14387
+2021,MT,Female,Transportation warehousing utilities,3546
+2021,NC,Female,Transportation warehousing utilities,44050
+2021,ND,Female,Transportation warehousing utilities,2954
+2021,NE,Female,Transportation warehousing utilities,8380
+2021,NH,Female,Transportation warehousing utilities,5164
+2021,NJ,Female,Transportation warehousing utilities,52105
+2021,NM,Female,Transportation warehousing utilities,5788
+2021,NV,Female,Transportation warehousing utilities,17023
+2021,NY,Female,Transportation warehousing utilities,82893
+2021,OH,Female,Transportation warehousing utilities,54911
+2021,OK,Female,Transportation warehousing utilities,15870
+2021,OR,Female,Transportation warehousing utilities,16781
+2021,PA,Female,Transportation warehousing utilities,62407
+2021,PR,Female,Transportation warehousing utilities,6102
+2021,RI,Female,Transportation warehousing utilities,3174
+2021,SC,Female,Transportation warehousing utilities,24518
+2021,SD,Female,Transportation warehousing utilities,2988
+2021,TN,Female,Transportation warehousing utilities,43825
+2021,TX,Female,Transportation warehousing utilities,147946
+2021,UT,Female,Transportation warehousing utilities,13388
+2021,VA,Female,Transportation warehousing utilities,34065
+2021,VT,Female,Transportation warehousing utilities,1667
+2021,WA,Female,Transportation warehousing utilities,36185
+2021,WI,Female,Transportation warehousing utilities,26549
+2021,WV,Female,Transportation warehousing utilities,6053
+2021,WY,Female,Transportation warehousing utilities,1901
+2019,AK,Female,Information,2108
+2019,AL,Female,Information,10279
+2019,AR,Female,Information,5981
+2019,AZ,Female,Information,14688
+2019,CA,Female,Information,139326
+2019,CO,Female,Information,22993
+2019,CT,Female,Information,10969
+2019,DC,Female,Information,5398
+2019,DE,Female,Information,1994
+2019,FL,Female,Information,46014
+2019,GA,Female,Information,36092
+2019,HI,Female,Information,2847
+2019,IA,Female,Information,8510
+2019,ID,Female,Information,3310
+2019,IL,Female,Information,34257
+2019,IN,Female,Information,13939
+2019,KS,Female,Information,8428
+2019,KY,Female,Information,9196
+2019,LA,Female,Information,9263
+2019,MA,Female,Information,24582
+2019,MD,Female,Information,18982
+2019,ME,Female,Information,3559
+2019,MI,Female,Information,17176
+2019,MN,Female,Information,14294
+2019,MO,Female,Information,17705
+2019,MS,Female,Information,4330
+2019,MT,Female,Information,2846
+2019,NC,Female,Information,23192
+2019,ND,Female,Information,1316
+2019,NE,Female,Information,5338
+2019,NH,Female,Information,4543
+2019,NJ,Female,Information,33103
+2019,NM,Female,Information,3819
+2019,NV,Female,Information,5535
+2019,NY,Female,Information,87086
+2019,OH,Female,Information,25879
+2019,OK,Female,Information,8805
+2019,OR,Female,Information,9436
+2019,PA,Female,Information,28694
+2019,PR,Female,Information,4613
+2019,RI,Female,Information,2143
+2019,SC,Female,Information,13569
+2019,SD,Female,Information,2086
+2019,TN,Female,Information,15695
+2019,TX,Female,Information,63268
+2019,UT,Female,Information,6749
+2019,VA,Female,Information,22801
+2019,VT,Female,Information,1634
+2019,WA,Female,Information,19265
+2019,WI,Female,Information,14326
+2019,WV,Female,Information,2799
+2019,WY,Female,Information,965
+2020,AK,Female,Information,1726
+2020,AL,Female,Information,9804
+2020,AR,Female,Information,5396
+2020,AZ,Female,Information,14784
+2020,CA,Female,Information,144793
+2020,CO,Female,Information,21347
+2020,CT,Female,Information,10531
+2020,DC,Female,Information,5765
+2020,DE,Female,Information,1722
+2020,FL,Female,Information,47152
+2020,GA,Female,Information,35386
+2020,HI,Female,Information,2950
+2020,IA,Female,Information,7921
+2020,ID,Female,Information,3033
+2020,IL,Female,Information,33303
+2020,IN,Female,Information,13115
+2020,KS,Female,Information,8423
+2020,KY,Female,Information,9303
+2020,LA,Female,Information,9520
+2020,MA,Female,Information,24758
+2020,MD,Female,Information,18387
+2020,ME,Female,Information,3605
+2020,MI,Female,Information,17195
+2020,MN,Female,Information,13405
+2020,MO,Female,Information,17526
+2020,MS,Female,Information,3965
+2020,MT,Female,Information,2629
+2020,NC,Female,Information,23711
+2020,ND,Female,Information,1451
+2020,NE,Female,Information,5188
+2020,NH,Female,Information,4373
+2020,NJ,Female,Information,32526
+2020,NM,Female,Information,3338
+2020,NV,Female,Information,5715
+2020,NY,Female,Information,87050
+2020,OH,Female,Information,25155
+2020,OK,Female,Information,8161
+2020,OR,Female,Information,9487
+2020,PA,Female,Information,28290
+2020,PR,Female,Information,5011
+2020,RI,Female,Information,2042
+2020,SC,Female,Information,12651
+2020,SD,Female,Information,2201
+2020,TN,Female,Information,15800
+2020,TX,Female,Information,62782
+2020,UT,Female,Information,7355
+2020,VA,Female,Information,22561
+2020,VT,Female,Information,1372
+2020,WA,Female,Information,19613
+2020,WI,Female,Information,14191
+2020,WV,Female,Information,3280
+2020,WY,Female,Information,939
+2021,AK,Female,Information,1555
+2021,AL,Female,Information,9312
+2021,AR,Female,Information,4963
+2021,AZ,Female,Information,14309
+2021,CA,Female,Information,145176
+2021,CO,Female,Information,20757
+2021,CT,Female,Information,10308
+2021,DC,Female,Information,5609
+2021,DE,Female,Information,1653
+2021,FL,Female,Information,45754
+2021,GA,Female,Information,34493
+2021,HI,Female,Information,3147
+2021,IA,Female,Information,7477
+2021,ID,Female,Information,3071
+2021,IL,Female,Information,32664
+2021,IN,Female,Information,11931
+2021,KS,Female,Information,8142
+2021,KY,Female,Information,8661
+2021,LA,Female,Information,9139
+2021,MA,Female,Information,24468
+2021,MD,Female,Information,17546
+2021,ME,Female,Information,4123
+2021,MI,Female,Information,16125
+2021,MN,Female,Information,12671
+2021,MO,Female,Information,16136
+2021,MS,Female,Information,3917
+2021,MT,Female,Information,2672
+2021,NC,Female,Information,22609
+2021,ND,Female,Information,1393
+2021,NE,Female,Information,5031
+2021,NH,Female,Information,4110
+2021,NJ,Female,Information,35034
+2021,NM,Female,Information,3174
+2021,NV,Female,Information,5560
+2021,NY,Female,Information,89049
+2021,OH,Female,Information,24268
+2021,OK,Female,Information,7833
+2021,OR,Female,Information,8562
+2021,PA,Female,Information,28348
+2021,PR,Female,Information,5017
+2021,RI,Female,Information,2318
+2021,SC,Female,Information,11991
+2021,SD,Female,Information,2225
+2021,TN,Female,Information,14797
+2021,TX,Female,Information,62260
+2021,UT,Female,Information,7531
+2021,VA,Female,Information,22537
+2021,VT,Female,Information,1615
+2021,WA,Female,Information,20067
+2021,WI,Female,Information,13720
+2021,WV,Female,Information,2999
+2021,WY,Female,Information,940
+2019,AK,Female,Finance insurance realestate ,5290
+2019,AL,Female,Finance insurance realestate ,57416
+2019,AR,Female,Finance insurance realestate ,28631
+2019,AZ,Female,Finance insurance realestate ,115361
+2019,CA,Female,Finance insurance realestate ,441073
+2019,CO,Female,Finance insurance realestate ,82853
+2019,CT,Female,Finance insurance realestate ,63983
+2019,DC,Female,Finance insurance realestate ,8567
+2019,DE,Female,Finance insurance realestate ,20043
+2019,FL,Female,Finance insurance realestate ,315136
+2019,GA,Female,Finance insurance realestate ,136242
+2019,HI,Female,Finance insurance realestate ,19130
+2019,IA,Female,Finance insurance realestate ,59993
+2019,ID,Female,Finance insurance realestate ,17729
+2019,IL,Female,Finance insurance realestate ,192124
+2019,IN,Female,Finance insurance realestate ,79161
+2019,KS,Female,Finance insurance realestate ,40099
+2019,KY,Female,Finance insurance realestate ,51991
+2019,LA,Female,Finance insurance realestate ,51320
+2019,MA,Female,Finance insurance realestate ,105335
+2019,MD,Female,Finance insurance realestate ,79546
+2019,ME,Female,Finance insurance realestate ,21000
+2019,MI,Female,Finance insurance realestate ,113733
+2019,MN,Female,Finance insurance realestate ,92595
+2019,MO,Female,Finance insurance realestate ,95490
+2019,MS,Female,Finance insurance realestate ,28489
+2019,MT,Female,Finance insurance realestate ,14437
+2019,NC,Female,Finance insurance realestate ,136810
+2019,ND,Female,Finance insurance realestate ,11549
+2019,NE,Female,Finance insurance realestate ,35231
+2019,NH,Female,Finance insurance realestate ,20175
+2019,NJ,Female,Finance insurance realestate ,136086
+2019,NM,Female,Finance insurance realestate ,18445
+2019,NV,Female,Finance insurance realestate ,32308
+2019,NY,Female,Finance insurance realestate ,272957
+2019,OH,Female,Finance insurance realestate ,160580
+2019,OK,Female,Finance insurance realestate ,47286
+2019,OR,Female,Finance insurance realestate ,45385
+2019,PA,Female,Finance insurance realestate ,177568
+2019,PR,Female,Finance insurance realestate ,27197
+2019,RI,Female,Finance insurance realestate ,15260
+2019,SC,Female,Finance insurance realestate ,61979
+2019,SD,Female,Finance insurance realestate ,15263
+2019,TN,Female,Finance insurance realestate ,86128
+2019,TX,Female,Finance insurance realestate ,397209
+2019,UT,Female,Finance insurance realestate ,37279
+2019,VA,Female,Finance insurance realestate ,117685
+2019,VT,Female,Finance insurance realestate ,7246
+2019,WA,Female,Finance insurance realestate ,78747
+2019,WI,Female,Finance insurance realestate ,87185
+2019,WV,Female,Finance insurance realestate ,14366
+2019,WY,Female,Finance insurance realestate ,5850
+2020,AK,Female,Finance insurance realestate ,5924
+2020,AL,Female,Finance insurance realestate ,59479
+2020,AR,Female,Finance insurance realestate ,31105
+2020,AZ,Female,Finance insurance realestate ,119865
+2020,CA,Female,Finance insurance realestate ,443146
+2020,CO,Female,Finance insurance realestate ,87070
+2020,CT,Female,Finance insurance realestate ,65279
+2020,DC,Female,Finance insurance realestate ,8757
+2020,DE,Female,Finance insurance realestate ,19976
+2020,FL,Female,Finance insurance realestate ,318024
+2020,GA,Female,Finance insurance realestate ,141829
+2020,HI,Female,Finance insurance realestate ,19722
+2020,IA,Female,Finance insurance realestate ,61374
+2020,ID,Female,Finance insurance realestate ,19723
+2020,IL,Female,Finance insurance realestate ,195748
+2020,IN,Female,Finance insurance realestate ,77871
+2020,KS,Female,Finance insurance realestate ,40917
+2020,KY,Female,Finance insurance realestate ,54818
+2020,LA,Female,Finance insurance realestate ,50719
+2020,MA,Female,Finance insurance realestate ,104398
+2020,MD,Female,Finance insurance realestate ,80251
+2020,ME,Female,Finance insurance realestate ,21188
+2020,MI,Female,Finance insurance realestate ,118998
+2020,MN,Female,Finance insurance realestate ,93537
+2020,MO,Female,Finance insurance realestate ,99128
+2020,MS,Female,Finance insurance realestate ,27531
+2020,MT,Female,Finance insurance realestate ,13651
+2020,NC,Female,Finance insurance realestate ,142907
+2020,ND,Female,Finance insurance realestate ,11313
+2020,NE,Female,Finance insurance realestate ,36431
+2020,NH,Female,Finance insurance realestate ,20562
+2020,NJ,Female,Finance insurance realestate ,136144
+2020,NM,Female,Finance insurance realestate ,19415
+2020,NV,Female,Finance insurance realestate ,34087
+2020,NY,Female,Finance insurance realestate ,278390
+2020,OH,Female,Finance insurance realestate ,164160
+2020,OK,Female,Finance insurance realestate ,48042
+2020,OR,Female,Finance insurance realestate ,47018
+2020,PA,Female,Finance insurance realestate ,182773
+2020,PR,Female,Finance insurance realestate ,26955
+2020,RI,Female,Finance insurance realestate ,15851
+2020,SC,Female,Finance insurance realestate ,62367
+2020,SD,Female,Finance insurance realestate ,15515
+2020,TN,Female,Finance insurance realestate ,89360
+2020,TX,Female,Finance insurance realestate ,409477
+2020,UT,Female,Finance insurance realestate ,38029
+2020,VA,Female,Finance insurance realestate ,121282
+2020,VT,Female,Finance insurance realestate ,7626
+2020,WA,Female,Finance insurance realestate ,80446
+2020,WI,Female,Finance insurance realestate ,88280
+2020,WV,Female,Finance insurance realestate ,14413
+2020,WY,Female,Finance insurance realestate ,6364
+2021,AK,Female,Finance insurance realestate ,6033
+2021,AL,Female,Finance insurance realestate ,61364
+2021,AR,Female,Finance insurance realestate ,32364
+2021,AZ,Female,Finance insurance realestate ,121175
+2021,CA,Female,Finance insurance realestate ,442597
+2021,CO,Female,Finance insurance realestate ,89449
+2021,CT,Female,Finance insurance realestate ,65846
+2021,DC,Female,Finance insurance realestate ,8869
+2021,DE,Female,Finance insurance realestate ,20080
+2021,FL,Female,Finance insurance realestate ,327379
+2021,GA,Female,Finance insurance realestate ,142272
+2021,HI,Female,Finance insurance realestate ,19021
+2021,IA,Female,Finance insurance realestate ,61854
+2021,ID,Female,Finance insurance realestate ,20668
+2021,IL,Female,Finance insurance realestate ,196805
+2021,IN,Female,Finance insurance realestate ,79256
+2021,KS,Female,Finance insurance realestate ,41689
+2021,KY,Female,Finance insurance realestate ,53954
+2021,LA,Female,Finance insurance realestate ,47910
+2021,MA,Female,Finance insurance realestate ,105344
+2021,MD,Female,Finance insurance realestate ,81042
+2021,ME,Female,Finance insurance realestate ,21937
+2021,MI,Female,Finance insurance realestate ,120919
+2021,MN,Female,Finance insurance realestate ,93485
+2021,MO,Female,Finance insurance realestate ,100385
+2021,MS,Female,Finance insurance realestate ,28924
+2021,MT,Female,Finance insurance realestate ,13495
+2021,NC,Female,Finance insurance realestate ,144977
+2021,ND,Female,Finance insurance realestate ,11475
+2021,NE,Female,Finance insurance realestate ,37079
+2021,NH,Female,Finance insurance realestate ,21248
+2021,NJ,Female,Finance insurance realestate ,141621
+2021,NM,Female,Finance insurance realestate ,19597
+2021,NV,Female,Finance insurance realestate ,35202
+2021,NY,Female,Finance insurance realestate ,286480
+2021,OH,Female,Finance insurance realestate ,168033
+2021,OK,Female,Finance insurance realestate ,48204
+2021,OR,Female,Finance insurance realestate ,46962
+2021,PA,Female,Finance insurance realestate ,183024
+2021,PR,Female,Finance insurance realestate ,28911
+2021,RI,Female,Finance insurance realestate ,16428
+2021,SC,Female,Finance insurance realestate ,62242
+2021,SD,Female,Finance insurance realestate ,15469
+2021,TN,Female,Finance insurance realestate ,91528
+2021,TX,Female,Finance insurance realestate ,415527
+2021,UT,Female,Finance insurance realestate ,40366
+2021,VA,Female,Finance insurance realestate ,123054
+2021,VT,Female,Finance insurance realestate ,7237
+2021,WA,Female,Finance insurance realestate ,80777
+2021,WI,Female,Finance insurance realestate ,88726
+2021,WV,Female,Finance insurance realestate ,14561
+2021,WY,Female,Finance insurance realestate ,6240
+2019,AK,Female,Professional  services,8229
+2019,AL,Female,Professional  services,57703
+2019,AR,Female,Professional  services,28679
+2019,AZ,Female,Professional  services,104153
+2019,CA,Female,Professional  services,681294
+2019,CO,Female,Professional  services,115242
+2019,CT,Female,Professional  services,55311
+2019,DC,Female,Professional  services,32360
+2019,DE,Female,Professional  services,14300
+2019,FL,Female,Professional  services,369007
+2019,GA,Female,Professional  services,176657
+2019,HI,Female,Professional  services,18971
+2019,IA,Female,Professional  services,35801
+2019,ID,Female,Professional  services,19137
+2019,IL,Female,Professional  services,225609
+2019,IN,Female,Professional  services,76651
+2019,KS,Female,Professional  services,39405
+2019,KY,Female,Professional  services,48135
+2019,LA,Female,Professional  services,55790
+2019,MA,Female,Professional  services,140814
+2019,MD,Female,Professional  services,150872
+2019,ME,Female,Professional  services,17962
+2019,MI,Female,Professional  services,121228
+2019,MN,Female,Professional  services,85603
+2019,MO,Female,Professional  services,89656
+2019,MS,Female,Professional  services,23745
+2019,MT,Female,Professional  services,11758
+2019,NC,Female,Professional  services,152255
+2019,ND,Female,Professional  services,8290
+2019,NE,Female,Professional  services,25677
+2019,NH,Female,Professional  services,20775
+2019,NJ,Female,Professional  services,173227
+2019,NM,Female,Professional  services,28772
+2019,NV,Female,Professional  services,43900
+2019,NY,Female,Professional  services,348783
+2019,OH,Female,Professional  services,150762
+2019,OK,Female,Professional  services,44745
+2019,OR,Female,Professional  services,59208
+2019,PA,Female,Professional  services,186653
+2019,PR,Female,Professional  services,22920
+2019,RI,Female,Professional  services,13931
+2019,SC,Female,Professional  services,68914
+2019,SD,Female,Professional  services,8592
+2019,TN,Female,Professional  services,93340
+2019,TX,Female,Professional  services,436580
+2019,UT,Female,Professional  services,41967
+2019,VA,Female,Professional  services,192726
+2019,VT,Female,Professional  services,7930
+2019,WA,Female,Professional  services,125004
+2019,WI,Female,Professional  services,72114
+2019,WV,Female,Professional  services,16014
+2019,WY,Female,Professional  services,4900
+2020,AK,Female,Professional  services,7889
+2020,AL,Female,Professional  services,57695
+2020,AR,Female,Professional  services,29422
+2020,AZ,Female,Professional  services,113430
+2020,CA,Female,Professional  services,708787
+2020,CO,Female,Professional  services,118809
+2020,CT,Female,Professional  services,58333
+2020,DC,Female,Professional  services,34913
+2020,DE,Female,Professional  services,13791
+2020,FL,Female,Professional  services,383309
+2020,GA,Female,Professional  services,188416
+2020,HI,Female,Professional  services,18558
+2020,IA,Female,Professional  services,36450
+2020,ID,Female,Professional  services,19578
+2020,IL,Female,Professional  services,233815
+2020,IN,Female,Professional  services,79090
+2020,KS,Female,Professional  services,39287
+2020,KY,Female,Professional  services,51008
+2020,LA,Female,Professional  services,53918
+2020,MA,Female,Professional  services,150429
+2020,MD,Female,Professional  services,151345
+2020,ME,Female,Professional  services,18380
+2020,MI,Female,Professional  services,124427
+2020,MN,Female,Professional  services,87756
+2020,MO,Female,Professional  services,89502
+2020,MS,Female,Professional  services,25380
+2020,MT,Female,Professional  services,12447
+2020,NC,Female,Professional  services,162860
+2020,ND,Female,Professional  services,8247
+2020,NE,Female,Professional  services,26406
+2020,NH,Female,Professional  services,20981
+2020,NJ,Female,Professional  services,178930
+2020,NM,Female,Professional  services,29808
+2020,NV,Female,Professional  services,46482
+2020,NY,Female,Professional  services,349485
+2020,OH,Female,Professional  services,152295
+2020,OK,Female,Professional  services,45669
+2020,OR,Female,Professional  services,62264
+2020,PA,Female,Professional  services,191270
+2020,PR,Female,Professional  services,22692
+2020,RI,Female,Professional  services,15435
+2020,SC,Female,Professional  services,71069
+2020,SD,Female,Professional  services,9147
+2020,TN,Female,Professional  services,95350
+2020,TX,Female,Professional  services,459996
+2020,UT,Female,Professional  services,45020
+2020,VA,Female,Professional  services,201209
+2020,VT,Female,Professional  services,8257
+2020,WA,Female,Professional  services,134507
+2020,WI,Female,Professional  services,76490
+2020,WV,Female,Professional  services,16479
+2020,WY,Female,Professional  services,4583
+2021,AK,Female,Professional  services,8141
+2021,AL,Female,Professional  services,59768
+2021,AR,Female,Professional  services,30267
+2021,AZ,Female,Professional  services,114694
+2021,CA,Female,Professional  services,725230
+2021,CO,Female,Professional  services,123073
+2021,CT,Female,Professional  services,58534
+2021,DC,Female,Professional  services,35795
+2021,DE,Female,Professional  services,14184
+2021,FL,Female,Professional  services,396848
+2021,GA,Female,Professional  services,194388
+2021,HI,Female,Professional  services,18945
+2021,IA,Female,Professional  services,37169
+2021,ID,Female,Professional  services,20943
+2021,IL,Female,Professional  services,237145
+2021,IN,Female,Professional  services,82231
+2021,KS,Female,Professional  services,39059
+2021,KY,Female,Professional  services,51105
+2021,LA,Female,Professional  services,53585
+2021,MA,Female,Professional  services,159044
+2021,MD,Female,Professional  services,156824
+2021,ME,Female,Professional  services,18826
+2021,MI,Female,Professional  services,126267
+2021,MN,Female,Professional  services,87101
+2021,MO,Female,Professional  services,90458
+2021,MS,Female,Professional  services,26265
+2021,MT,Female,Professional  services,12692
+2021,NC,Female,Professional  services,167495
+2021,ND,Female,Professional  services,8031
+2021,NE,Female,Professional  services,27030
+2021,NH,Female,Professional  services,22210
+2021,NJ,Female,Professional  services,186634
+2021,NM,Female,Professional  services,30379
+2021,NV,Female,Professional  services,46792
+2021,NY,Female,Professional  services,364026
+2021,OH,Female,Professional  services,154120
+2021,OK,Female,Professional  services,45865
+2021,OR,Female,Professional  services,63736
+2021,PA,Female,Professional  services,198757
+2021,PR,Female,Professional  services,24423
+2021,RI,Female,Professional  services,16880
+2021,SC,Female,Professional  services,72409
+2021,SD,Female,Professional  services,9594
+2021,TN,Female,Professional  services,97424
+2021,TX,Female,Professional  services,476834
+2021,UT,Female,Professional  services,47174
+2021,VA,Female,Professional  services,205297
+2021,VT,Female,Professional  services,8683
+2021,WA,Female,Professional  services,142364
+2021,WI,Female,Professional  services,79375
+2021,WV,Female,Professional  services,17110
+2021,WY,Female,Professional  services,4717
+2019,AK,Female,Educationalservices healthcare socialassistance,36231
+2019,AL,Female,Educationalservices healthcare socialassistance,258187
+2019,AR,Female,Educationalservices healthcare socialassistance,171929
+2019,AZ,Female,Educationalservices healthcare socialassistance,319561
+2019,CA,Female,Educationalservices healthcare socialassistance,1651883
+2019,CO,Female,Educationalservices healthcare socialassistance,279884
+2019,CT,Female,Educationalservices healthcare socialassistance,209858
+2019,DC,Female,Educationalservices healthcare socialassistance,31632
+2019,DE,Female,Educationalservices healthcare socialassistance,57629
+2019,FL,Female,Educationalservices healthcare socialassistance,1031292
+2019,GA,Female,Educationalservices healthcare socialassistance,538637
+2019,HI,Female,Educationalservices healthcare socialassistance,68032
+2019,IA,Female,Educationalservices healthcare socialassistance,188972
+2019,ID,Female,Educationalservices healthcare socialassistance,75856
+2019,IL,Female,Educationalservices healthcare socialassistance,674930
+2019,IN,Female,Educationalservices healthcare socialassistance,348962
+2019,KS,Female,Educationalservices healthcare socialassistance,173341
+2019,KY,Female,Educationalservices healthcare socialassistance,245169
+2019,LA,Female,Educationalservices healthcare socialassistance,273033
+2019,MA,Female,Educationalservices healthcare socialassistance,437894
+2019,MD,Female,Educationalservices healthcare socialassistance,357055
+2019,ME,Female,Educationalservices healthcare socialassistance,86942
+2019,MI,Female,Educationalservices healthcare socialassistance,491475
+2019,MN,Female,Educationalservices healthcare socialassistance,319095
+2019,MO,Female,Educationalservices healthcare socialassistance,358082
+2019,MS,Female,Educationalservices healthcare socialassistance,178172
+2019,MT,Female,Educationalservices healthcare socialassistance,57124
+2019,NC,Female,Educationalservices healthcare socialassistance,554881
+2019,ND,Female,Educationalservices healthcare socialassistance,48919
+2019,NE,Female,Educationalservices healthcare socialassistance,119469
+2019,NH,Female,Educationalservices healthcare socialassistance,82112
+2019,NJ,Female,Educationalservices healthcare socialassistance,481047
+2019,NM,Female,Educationalservices healthcare socialassistance,109655
+2019,NV,Female,Educationalservices healthcare socialassistance,109276
+2019,NY,Female,Educationalservices healthcare socialassistance,1253464
+2019,OH,Female,Educationalservices healthcare socialassistance,659448
+2019,OK,Female,Educationalservices healthcare socialassistance,212221
+2019,OR,Female,Educationalservices healthcare socialassistance,194724
+2019,PA,Female,Educationalservices healthcare socialassistance,784046
+2019,PR,Female,Educationalservices healthcare socialassistance,120146
+2019,RI,Female,Educationalservices healthcare socialassistance,64480
+2019,SC,Female,Educationalservices healthcare socialassistance,265088
+2019,SD,Female,Educationalservices healthcare socialassistance,52397
+2019,TN,Female,Educationalservices healthcare socialassistance,363304
+2019,TX,Female,Educationalservices healthcare socialassistance,1485255
+2019,UT,Female,Educationalservices healthcare socialassistance,117554
+2019,VA,Female,Educationalservices healthcare socialassistance,457052
+2019,VT,Female,Educationalservices healthcare socialassistance,41156
+2019,WA,Female,Educationalservices healthcare socialassistance,333797
+2019,WI,Female,Educationalservices healthcare socialassistance,318084
+2019,WV,Female,Educationalservices healthcare socialassistance,105466
+2019,WY,Female,Educationalservices healthcare socialassistance,29922
+2020,AK,Female,Educationalservices healthcare socialassistance,35809
+2020,AL,Female,Educationalservices healthcare socialassistance,264903
+2020,AR,Female,Educationalservices healthcare socialassistance,175271
+2020,AZ,Female,Educationalservices healthcare socialassistance,332117
+2020,CA,Female,Educationalservices healthcare socialassistance,1696311
+2020,CO,Female,Educationalservices healthcare socialassistance,289243
+2020,CT,Female,Educationalservices healthcare socialassistance,213126
+2020,DC,Female,Educationalservices healthcare socialassistance,31135
+2020,DE,Female,Educationalservices healthcare socialassistance,58313
+2020,FL,Female,Educationalservices healthcare socialassistance,1059506
+2020,GA,Female,Educationalservices healthcare socialassistance,553506
+2020,HI,Female,Educationalservices healthcare socialassistance,70103
+2020,IA,Female,Educationalservices healthcare socialassistance,189238
+2020,ID,Female,Educationalservices healthcare socialassistance,78207
+2020,IL,Female,Educationalservices healthcare socialassistance,688660
+2020,IN,Female,Educationalservices healthcare socialassistance,357780
+2020,KS,Female,Educationalservices healthcare socialassistance,175149
+2020,KY,Female,Educationalservices healthcare socialassistance,248617
+2020,LA,Female,Educationalservices healthcare socialassistance,279708
+2020,MA,Female,Educationalservices healthcare socialassistance,445983
+2020,MD,Female,Educationalservices healthcare socialassistance,359180
+2020,ME,Female,Educationalservices healthcare socialassistance,88704
+2020,MI,Female,Educationalservices healthcare socialassistance,496288
+2020,MN,Female,Educationalservices healthcare socialassistance,325437
+2020,MO,Female,Educationalservices healthcare socialassistance,363099
+2020,MS,Female,Educationalservices healthcare socialassistance,183072
+2020,MT,Female,Educationalservices healthcare socialassistance,56534
+2020,NC,Female,Educationalservices healthcare socialassistance,564105
+2020,ND,Female,Educationalservices healthcare socialassistance,50183
+2020,NE,Female,Educationalservices healthcare socialassistance,120525
+2020,NH,Female,Educationalservices healthcare socialassistance,82636
+2020,NJ,Female,Educationalservices healthcare socialassistance,488351
+2020,NM,Female,Educationalservices healthcare socialassistance,111891
+2020,NV,Female,Educationalservices healthcare socialassistance,114292
+2020,NY,Female,Educationalservices healthcare socialassistance,1267743
+2020,OH,Female,Educationalservices healthcare socialassistance,669973
+2020,OK,Female,Educationalservices healthcare socialassistance,214484
+2020,OR,Female,Educationalservices healthcare socialassistance,204875
+2020,PA,Female,Educationalservices healthcare socialassistance,800707
+2020,PR,Female,Educationalservices healthcare socialassistance,118699
+2020,RI,Female,Educationalservices healthcare socialassistance,66622
+2020,SC,Female,Educationalservices healthcare socialassistance,277150
+2020,SD,Female,Educationalservices healthcare socialassistance,52009
+2020,TN,Female,Educationalservices healthcare socialassistance,372080
+2020,TX,Female,Educationalservices healthcare socialassistance,1528057
+2020,UT,Female,Educationalservices healthcare socialassistance,123183
+2020,VA,Female,Educationalservices healthcare socialassistance,461816
+2020,VT,Female,Educationalservices healthcare socialassistance,41106
+2020,WA,Female,Educationalservices healthcare socialassistance,350171
+2020,WI,Female,Educationalservices healthcare socialassistance,322109
+2020,WV,Female,Educationalservices healthcare socialassistance,107805
+2020,WY,Female,Educationalservices healthcare socialassistance,30858
+2021,AK,Female,Educationalservices healthcare socialassistance,35467
+2021,AL,Female,Educationalservices healthcare socialassistance,270091
+2021,AR,Female,Educationalservices healthcare socialassistance,175515
+2021,AZ,Female,Educationalservices healthcare socialassistance,334060
+2021,CA,Female,Educationalservices healthcare socialassistance,1712778
+2021,CO,Female,Educationalservices healthcare socialassistance,297320
+2021,CT,Female,Educationalservices healthcare socialassistance,217020
+2021,DC,Female,Educationalservices healthcare socialassistance,29700
+2021,DE,Female,Educationalservices healthcare socialassistance,59021
+2021,FL,Female,Educationalservices healthcare socialassistance,1081336
+2021,GA,Female,Educationalservices healthcare socialassistance,565890
+2021,HI,Female,Educationalservices healthcare socialassistance,72793
+2021,IA,Female,Educationalservices healthcare socialassistance,189684
+2021,ID,Female,Educationalservices healthcare socialassistance,80713
+2021,IL,Female,Educationalservices healthcare socialassistance,703653
+2021,IN,Female,Educationalservices healthcare socialassistance,366085
+2021,KS,Female,Educationalservices healthcare socialassistance,178415
+2021,KY,Female,Educationalservices healthcare socialassistance,252010
+2021,LA,Female,Educationalservices healthcare socialassistance,281875
+2021,MA,Female,Educationalservices healthcare socialassistance,452541
+2021,MD,Female,Educationalservices healthcare socialassistance,365515
+2021,ME,Female,Educationalservices healthcare socialassistance,89639
+2021,MI,Female,Educationalservices healthcare socialassistance,498053
+2021,MN,Female,Educationalservices healthcare socialassistance,328347
+2021,MO,Female,Educationalservices healthcare socialassistance,364922
+2021,MS,Female,Educationalservices healthcare socialassistance,183501
+2021,MT,Female,Educationalservices healthcare socialassistance,57108
+2021,NC,Female,Educationalservices healthcare socialassistance,565346
+2021,ND,Female,Educationalservices healthcare socialassistance,50099
+2021,NE,Female,Educationalservices healthcare socialassistance,121803
+2021,NH,Female,Educationalservices healthcare socialassistance,83702
+2021,NJ,Female,Educationalservices healthcare socialassistance,508185
+2021,NM,Female,Educationalservices healthcare socialassistance,111114
+2021,NV,Female,Educationalservices healthcare socialassistance,117687
+2021,NY,Female,Educationalservices healthcare socialassistance,1308416
+2021,OH,Female,Educationalservices healthcare socialassistance,673742
+2021,OK,Female,Educationalservices healthcare socialassistance,218786
+2021,OR,Female,Educationalservices healthcare socialassistance,208564
+2021,PA,Female,Educationalservices healthcare socialassistance,813062
+2021,PR,Female,Educationalservices healthcare socialassistance,120213
+2021,RI,Female,Educationalservices healthcare socialassistance,67326
+2021,SC,Female,Educationalservices healthcare socialassistance,278118
+2021,SD,Female,Educationalservices healthcare socialassistance,52908
+2021,TN,Female,Educationalservices healthcare socialassistance,381371
+2021,TX,Female,Educationalservices healthcare socialassistance,1546858
+2021,UT,Female,Educationalservices healthcare socialassistance,128012
+2021,VA,Female,Educationalservices healthcare socialassistance,469415
+2021,VT,Female,Educationalservices healthcare socialassistance,42765
+2021,WA,Female,Educationalservices healthcare socialassistance,354792
+2021,WI,Female,Educationalservices healthcare socialassistance,328293
+2021,WV,Female,Educationalservices healthcare socialassistance,105660
+2021,WY,Female,Educationalservices healthcare socialassistance,29326
+2019,AK,Female,Arts entertainment and foodservices,7003
+2019,AL,Female,Arts entertainment and foodservices,42816
+2019,AR,Female,Arts entertainment and foodservices,24575
+2019,AZ,Female,Arts entertainment and foodservices,72476
+2019,CA,Female,Arts entertainment and foodservices,403218
+2019,CO,Female,Arts entertainment and foodservices,64119
+2019,CT,Female,Arts entertainment and foodservices,28246
+2019,DC,Female,Arts entertainment and foodservices,10361
+2019,DE,Female,Arts entertainment and foodservices,8539
+2019,FL,Female,Arts entertainment and foodservices,285707
+2019,GA,Female,Arts entertainment and foodservices,108471
+2019,HI,Female,Arts entertainment and foodservices,33188
+2019,IA,Female,Arts entertainment and foodservices,24051
+2019,ID,Female,Arts entertainment and foodservices,14482
+2019,IL,Female,Arts entertainment and foodservices,116447
+2019,IN,Female,Arts entertainment and foodservices,60220
+2019,KS,Female,Arts entertainment and foodservices,25333
+2019,KY,Female,Arts entertainment and foodservices,36338
+2019,LA,Female,Arts entertainment and foodservices,58707
+2019,MA,Female,Arts entertainment and foodservices,60054
+2019,MD,Female,Arts entertainment and foodservices,57719
+2019,ME,Female,Arts entertainment and foodservices,11398
+2019,MI,Female,Arts entertainment and foodservices,84441
+2019,MN,Female,Arts entertainment and foodservices,45585
+2019,MO,Female,Arts entertainment and foodservices,56011
+2019,MS,Female,Arts entertainment and foodservices,32014
+2019,MT,Female,Arts entertainment and foodservices,12739
+2019,NC,Female,Arts entertainment and foodservices,100955
+2019,ND,Female,Arts entertainment and foodservices,6724
+2019,NE,Female,Arts entertainment and foodservices,15445
+2019,NH,Female,Arts entertainment and foodservices,12996
+2019,NJ,Female,Arts entertainment and foodservices,73199
+2019,NM,Female,Arts entertainment and foodservices,24105
+2019,NV,Female,Arts entertainment and foodservices,101193
+2019,NY,Female,Arts entertainment and foodservices,179774
+2019,OH,Female,Arts entertainment and foodservices,97550
+2019,OK,Female,Arts entertainment and foodservices,44876
+2019,OR,Female,Arts entertainment and foodservices,38695
+2019,PA,Female,Arts entertainment and foodservices,101619
+2019,PR,Female,Arts entertainment and foodservices,16304
+2019,RI,Female,Arts entertainment and foodservices,10824
+2019,SC,Female,Arts entertainment and foodservices,55754
+2019,SD,Female,Arts entertainment and foodservices,9257
+2019,TN,Female,Arts entertainment and foodservices,67860
+2019,TX,Female,Arts entertainment and foodservices,293993
+2019,UT,Female,Arts entertainment and foodservices,25204
+2019,VA,Female,Arts entertainment and foodservices,83338
+2019,VT,Female,Arts entertainment and foodservices,7209
+2019,WA,Female,Arts entertainment and foodservices,70448
+2019,WI,Female,Arts entertainment and foodservices,47452
+2019,WV,Female,Arts entertainment and foodservices,15530
+2019,WY,Female,Arts entertainment and foodservices,6369
+2020,AK,Female,Arts entertainment and foodservices,6225
+2020,AL,Female,Arts entertainment and foodservices,42291
+2020,AR,Female,Arts entertainment and foodservices,24198
+2020,AZ,Female,Arts entertainment and foodservices,70871
+2020,CA,Female,Arts entertainment and foodservices,389928
+2020,CO,Female,Arts entertainment and foodservices,62935
+2020,CT,Female,Arts entertainment and foodservices,27903
+2020,DC,Female,Arts entertainment and foodservices,9739
+2020,DE,Female,Arts entertainment and foodservices,7818
+2020,FL,Female,Arts entertainment and foodservices,281402
+2020,GA,Female,Arts entertainment and foodservices,106916
+2020,HI,Female,Arts entertainment and foodservices,30491
+2020,IA,Female,Arts entertainment and foodservices,24201
+2020,ID,Female,Arts entertainment and foodservices,13720
+2020,IL,Female,Arts entertainment and foodservices,112695
+2020,IN,Female,Arts entertainment and foodservices,59122
+2020,KS,Female,Arts entertainment and foodservices,25645
+2020,KY,Female,Arts entertainment and foodservices,35431
+2020,LA,Female,Arts entertainment and foodservices,56316
+2020,MA,Female,Arts entertainment and foodservices,57093
+2020,MD,Female,Arts entertainment and foodservices,55118
+2020,ME,Female,Arts entertainment and foodservices,11007
+2020,MI,Female,Arts entertainment and foodservices,80708
+2020,MN,Female,Arts entertainment and foodservices,44051
+2020,MO,Female,Arts entertainment and foodservices,52726
+2020,MS,Female,Arts entertainment and foodservices,30834
+2020,MT,Female,Arts entertainment and foodservices,11547
+2020,NC,Female,Arts entertainment and foodservices,98466
+2020,ND,Female,Arts entertainment and foodservices,6465
+2020,NE,Female,Arts entertainment and foodservices,14422
+2020,NH,Female,Arts entertainment and foodservices,12937
+2020,NJ,Female,Arts entertainment and foodservices,69427
+2020,NM,Female,Arts entertainment and foodservices,22715
+2020,NV,Female,Arts entertainment and foodservices,95835
+2020,NY,Female,Arts entertainment and foodservices,169842
+2020,OH,Female,Arts entertainment and foodservices,96181
+2020,OK,Female,Arts entertainment and foodservices,45074
+2020,OR,Female,Arts entertainment and foodservices,38407
+2020,PA,Female,Arts entertainment and foodservices,98328
+2020,PR,Female,Arts entertainment and foodservices,15752
+2020,RI,Female,Arts entertainment and foodservices,10136
+2020,SC,Female,Arts entertainment and foodservices,54592
+2020,SD,Female,Arts entertainment and foodservices,8504
+2020,TN,Female,Arts entertainment and foodservices,68949
+2020,TX,Female,Arts entertainment and foodservices,289286
+2020,UT,Female,Arts entertainment and foodservices,25020
+2020,VA,Female,Arts entertainment and foodservices,80539
+2020,VT,Female,Arts entertainment and foodservices,6794
+2020,WA,Female,Arts entertainment and foodservices,69701
+2020,WI,Female,Arts entertainment and foodservices,45102
+2020,WV,Female,Arts entertainment and foodservices,14803
+2020,WY,Female,Arts entertainment and foodservices,5194
+2021,AK,Female,Arts entertainment and foodservices,6382
+2021,AL,Female,Arts entertainment and foodservices,43153
+2021,AR,Female,Arts entertainment and foodservices,23680
+2021,AZ,Female,Arts entertainment and foodservices,67451
+2021,CA,Female,Arts entertainment and foodservices,371583
+2021,CO,Female,Arts entertainment and foodservices,59026
+2021,CT,Female,Arts entertainment and foodservices,26514
+2021,DC,Female,Arts entertainment and foodservices,8338
+2021,DE,Female,Arts entertainment and foodservices,7840
+2021,FL,Female,Arts entertainment and foodservices,269263
+2021,GA,Female,Arts entertainment and foodservices,104299
+2021,HI,Female,Arts entertainment and foodservices,28058
+2021,IA,Female,Arts entertainment and foodservices,23019
+2021,ID,Female,Arts entertainment and foodservices,13318
+2021,IL,Female,Arts entertainment and foodservices,110933
+2021,IN,Female,Arts entertainment and foodservices,56357
+2021,KS,Female,Arts entertainment and foodservices,23747
+2021,KY,Female,Arts entertainment and foodservices,34210
+2021,LA,Female,Arts entertainment and foodservices,53912
+2021,MA,Female,Arts entertainment and foodservices,53216
+2021,MD,Female,Arts entertainment and foodservices,52308
+2021,ME,Female,Arts entertainment and foodservices,10438
+2021,MI,Female,Arts entertainment and foodservices,77083
+2021,MN,Female,Arts entertainment and foodservices,41800
+2021,MO,Female,Arts entertainment and foodservices,51537
+2021,MS,Female,Arts entertainment and foodservices,29572
+2021,MT,Female,Arts entertainment and foodservices,11036
+2021,NC,Female,Arts entertainment and foodservices,95718
+2021,ND,Female,Arts entertainment and foodservices,6738
+2021,NE,Female,Arts entertainment and foodservices,14114
+2021,NH,Female,Arts entertainment and foodservices,12107
+2021,NJ,Female,Arts entertainment and foodservices,66727
+2021,NM,Female,Arts entertainment and foodservices,21505
+2021,NV,Female,Arts entertainment and foodservices,87641
+2021,NY,Female,Arts entertainment and foodservices,164789
+2021,OH,Female,Arts entertainment and foodservices,94041
+2021,OK,Female,Arts entertainment and foodservices,44279
+2021,OR,Female,Arts entertainment and foodservices,37156
+2021,PA,Female,Arts entertainment and foodservices,92543
+2021,PR,Female,Arts entertainment and foodservices,15670
+2021,RI,Female,Arts entertainment and foodservices,9558
+2021,SC,Female,Arts entertainment and foodservices,51769
+2021,SD,Female,Arts entertainment and foodservices,8440
+2021,TN,Female,Arts entertainment and foodservices,68493
+2021,TX,Female,Arts entertainment and foodservices,283506
+2021,UT,Female,Arts entertainment and foodservices,24387
+2021,VA,Female,Arts entertainment and foodservices,77811
+2021,VT,Female,Arts entertainment and foodservices,6371
+2021,WA,Female,Arts entertainment and foodservices,68485
+2021,WI,Female,Arts entertainment and foodservices,43772
+2021,WV,Female,Arts entertainment and foodservices,13609
+2021,WY,Female,Arts entertainment and foodservices,5081
+2019,AK,Female,Otherservices ,4275
+2019,AL,Female,Otherservices ,28013
+2019,AR,Female,Otherservices ,15672
+2019,AZ,Female,Otherservices ,38458
+2019,CA,Female,Otherservices ,255766
+2019,CO,Female,Otherservices ,39887
+2019,CT,Female,Otherservices ,23509
+2019,DC,Female,Otherservices ,16835
+2019,DE,Female,Otherservices ,4587
+2019,FL,Female,Otherservices ,138625
+2019,GA,Female,Otherservices ,64583
+2019,HI,Female,Otherservices ,9737
+2019,IA,Female,Otherservices ,17030
+2019,ID,Female,Otherservices ,8051
+2019,IL,Female,Otherservices ,80000
+2019,IN,Female,Otherservices ,34513
+2019,KS,Female,Otherservices ,16329
+2019,KY,Female,Otherservices ,22215
+2019,LA,Female,Otherservices ,27091
+2019,MA,Female,Otherservices ,45406
+2019,MD,Female,Otherservices ,55577
+2019,ME,Female,Otherservices ,7141
+2019,MI,Female,Otherservices ,50117
+2019,MN,Female,Otherservices ,33311
+2019,MO,Female,Otherservices ,35280
+2019,MS,Female,Otherservices ,14076
+2019,MT,Female,Otherservices ,5931
+2019,NC,Female,Otherservices ,58330
+2019,ND,Female,Otherservices ,4299
+2019,NE,Female,Otherservices ,11976
+2019,NH,Female,Otherservices ,7210
+2019,NJ,Female,Otherservices ,52813
+2019,NM,Female,Otherservices ,11856
+2019,NV,Female,Otherservices ,19182
+2019,NY,Female,Otherservices ,141782
+2019,OH,Female,Otherservices ,60006
+2019,OK,Female,Otherservices ,24212
+2019,OR,Female,Otherservices ,22645
+2019,PA,Female,Otherservices ,72430
+2019,PR,Female,Otherservices ,9342
+2019,RI,Female,Otherservices ,6041
+2019,SC,Female,Otherservices ,28205
+2019,SD,Female,Otherservices ,5287
+2019,TN,Female,Otherservices ,38175
+2019,TX,Female,Otherservices ,182942
+2019,UT,Female,Otherservices ,14155
+2019,VA,Female,Otherservices ,69079
+2019,VT,Female,Otherservices ,3522
+2019,WA,Female,Otherservices ,43881
+2019,WI,Female,Otherservices ,32212
+2019,WV,Female,Otherservices ,6895
+2019,WY,Female,Otherservices ,2722
+2020,AK,Female,Otherservices ,3715
+2020,AL,Female,Otherservices ,26541
+2020,AR,Female,Otherservices ,15402
+2020,AZ,Female,Otherservices ,38477
+2020,CA,Female,Otherservices ,252227
+2020,CO,Female,Otherservices ,40297
+2020,CT,Female,Otherservices ,22240
+2020,DC,Female,Otherservices ,17319
+2020,DE,Female,Otherservices ,4637
+2020,FL,Female,Otherservices ,140777
+2020,GA,Female,Otherservices ,65214
+2020,HI,Female,Otherservices ,9936
+2020,IA,Female,Otherservices ,17874
+2020,ID,Female,Otherservices ,8006
+2020,IL,Female,Otherservices ,80201
+2020,IN,Female,Otherservices ,34676
+2020,KS,Female,Otherservices ,17219
+2020,KY,Female,Otherservices ,22308
+2020,LA,Female,Otherservices ,27456
+2020,MA,Female,Otherservices ,44281
+2020,MD,Female,Otherservices ,54846
+2020,ME,Female,Otherservices ,7505
+2020,MI,Female,Otherservices ,50260
+2020,MN,Female,Otherservices ,32086
+2020,MO,Female,Otherservices ,37007
+2020,MS,Female,Otherservices ,14482
+2020,MT,Female,Otherservices ,6292
+2020,NC,Female,Otherservices ,58949
+2020,ND,Female,Otherservices ,4080
+2020,NE,Female,Otherservices ,12381
+2020,NH,Female,Otherservices ,6902
+2020,NJ,Female,Otherservices ,53022
+2020,NM,Female,Otherservices ,11634
+2020,NV,Female,Otherservices ,18401
+2020,NY,Female,Otherservices ,138681
+2020,OH,Female,Otherservices ,58585
+2020,OK,Female,Otherservices ,24050
+2020,OR,Female,Otherservices ,21763
+2020,PA,Female,Otherservices ,72996
+2020,PR,Female,Otherservices ,9237
+2020,RI,Female,Otherservices ,5781
+2020,SC,Female,Otherservices ,28438
+2020,SD,Female,Otherservices ,5229
+2020,TN,Female,Otherservices ,38370
+2020,TX,Female,Otherservices ,180387
+2020,UT,Female,Otherservices ,14288
+2020,VA,Female,Otherservices ,68427
+2020,VT,Female,Otherservices ,3844
+2020,WA,Female,Otherservices ,43559
+2020,WI,Female,Otherservices ,31765
+2020,WV,Female,Otherservices ,6479
+2020,WY,Female,Otherservices ,2430
+2021,AK,Female,Otherservices ,3942
+2021,AL,Female,Otherservices ,26823
+2021,AR,Female,Otherservices ,16345
+2021,AZ,Female,Otherservices ,37759
+2021,CA,Female,Otherservices ,239346
+2021,CO,Female,Otherservices ,39606
+2021,CT,Female,Otherservices ,21718
+2021,DC,Female,Otherservices ,17025
+2021,DE,Female,Otherservices ,4188
+2021,FL,Female,Otherservices ,137487
+2021,GA,Female,Otherservices ,62757
+2021,HI,Female,Otherservices ,9832
+2021,IA,Female,Otherservices ,17051
+2021,ID,Female,Otherservices ,8713
+2021,IL,Female,Otherservices ,78607
+2021,IN,Female,Otherservices ,34704
+2021,KS,Female,Otherservices ,16812
+2021,KY,Female,Otherservices ,21783
+2021,LA,Female,Otherservices ,26539
+2021,MA,Female,Otherservices ,42423
+2021,MD,Female,Otherservices ,54221
+2021,ME,Female,Otherservices ,7806
+2021,MI,Female,Otherservices ,49636
+2021,MN,Female,Otherservices ,31810
+2021,MO,Female,Otherservices ,37530
+2021,MS,Female,Otherservices ,14545
+2021,MT,Female,Otherservices ,6749
+2021,NC,Female,Otherservices ,58200
+2021,ND,Female,Otherservices ,4224
+2021,NE,Female,Otherservices ,12311
+2021,NH,Female,Otherservices ,6637
+2021,NJ,Female,Otherservices ,55802
+2021,NM,Female,Otherservices ,10310
+2021,NV,Female,Otherservices ,16964
+2021,NY,Female,Otherservices ,139192
+2021,OH,Female,Otherservices ,57637
+2021,OK,Female,Otherservices ,23487
+2021,OR,Female,Otherservices ,22166
+2021,PA,Female,Otherservices ,72180
+2021,PR,Female,Otherservices ,10059
+2021,RI,Female,Otherservices ,6154
+2021,SC,Female,Otherservices ,28004
+2021,SD,Female,Otherservices ,5160
+2021,TN,Female,Otherservices ,38428
+2021,TX,Female,Otherservices ,178619
+2021,UT,Female,Otherservices ,14859
+2021,VA,Female,Otherservices ,67962
+2021,VT,Female,Otherservices ,4104
+2021,WA,Female,Otherservices ,43155
+2021,WI,Female,Otherservices ,31698
+2021,WV,Female,Otherservices ,6501
+2021,WY,Female,Otherservices ,2275
+2019,AK,Female,Public administration,13706
+2019,AL,Female,Public administration,44106
+2019,AR,Female,Public administration,24873
+2019,AZ,Female,Public administration,55393
+2019,CA,Female,Public administration,314103
+2019,CO,Female,Public administration,51803
+2019,CT,Female,Public administration,23072
+2019,DC,Female,Public administration,27779
+2019,DE,Female,Public administration,10320
+2019,FL,Female,Public administration,155753
+2019,GA,Female,Public administration,94424
+2019,HI,Female,Public administration,20194
+2019,IA,Female,Public administration,19404
+2019,ID,Female,Public administration,13520
+2019,IL,Female,Public administration,80365
+2019,IN,Female,Public administration,41349
+2019,KS,Female,Public administration,24497
+2019,KY,Female,Public administration,33071
+2019,LA,Female,Public administration,43102
+2019,MA,Female,Public administration,45592
+2019,MD,Female,Public administration,147415
+2019,ME,Female,Public administration,9810
+2019,MI,Female,Public administration,59039
+2019,MN,Female,Public administration,42659
+2019,MO,Female,Public administration,51200
+2019,MS,Female,Public administration,26164
+2019,MT,Female,Public administration,12211
+2019,NC,Female,Public administration,74076
+2019,ND,Female,Public administration,7441
+2019,NE,Female,Public administration,16655
+2019,NH,Female,Public administration,9359
+2019,NJ,Female,Public administration,63364
+2019,NM,Female,Public administration,25294
+2019,NV,Female,Public administration,22148
+2019,NY,Female,Public administration,156218
+2019,OH,Female,Public administration,76624
+2019,OK,Female,Public administration,41334
+2019,OR,Female,Public administration,36362
+2019,PA,Female,Public administration,90251
+2019,PR,Female,Public administration,35707
+2019,RI,Female,Public administration,6786
+2019,SC,Female,Public administration,39132
+2019,SD,Female,Public administration,8113
+2019,TN,Female,Public administration,50515
+2019,TX,Female,Public administration,202010
+2019,UT,Female,Public administration,23298
+2019,VA,Female,Public administration,133941
+2019,VT,Female,Public administration,6572
+2019,WA,Female,Public administration,67577
+2019,WI,Female,Public administration,39460
+2019,WV,Female,Public administration,19537
+2019,WY,Female,Public administration,6971
+2020,AK,Female,Public administration,14619
+2020,AL,Female,Public administration,46577
+2020,AR,Female,Public administration,25056
+2020,AZ,Female,Public administration,58390
+2020,CA,Female,Public administration,323515
+2020,CO,Female,Public administration,51059
+2020,CT,Female,Public administration,22719
+2020,DC,Female,Public administration,29711
+2020,DE,Female,Public administration,10870
+2020,FL,Female,Public administration,163049
+2020,GA,Female,Public administration,95803
+2020,HI,Female,Public administration,20444
+2020,IA,Female,Public administration,19567
+2020,ID,Female,Public administration,14559
+2020,IL,Female,Public administration,83520
+2020,IN,Female,Public administration,42479
+2020,KS,Female,Public administration,24297
+2020,KY,Female,Public administration,33715
+2020,LA,Female,Public administration,43767
+2020,MA,Female,Public administration,46787
+2020,MD,Female,Public administration,148436
+2020,ME,Female,Public administration,10929
+2020,MI,Female,Public administration,62405
+2020,MN,Female,Public administration,44302
+2020,MO,Female,Public administration,52711
+2020,MS,Female,Public administration,27181
+2020,MT,Female,Public administration,12391
+2020,NC,Female,Public administration,74890
+2020,ND,Female,Public administration,7483
+2020,NE,Female,Public administration,17167
+2020,NH,Female,Public administration,9813
+2020,NJ,Female,Public administration,65566
+2020,NM,Female,Public administration,26399
+2020,NV,Female,Public administration,23232
+2020,NY,Female,Public administration,160758
+2020,OH,Female,Public administration,78887
+2020,OK,Female,Public administration,41807
+2020,OR,Female,Public administration,38362
+2020,PA,Female,Public administration,89915
+2020,PR,Female,Public administration,35658
+2020,RI,Female,Public administration,7324
+2020,SC,Female,Public administration,40976
+2020,SD,Female,Public administration,8409
+2020,TN,Female,Public administration,51471
+2020,TX,Female,Public administration,211714
+2020,UT,Female,Public administration,23247
+2020,VA,Female,Public administration,136802
+2020,VT,Female,Public administration,7096
+2020,WA,Female,Public administration,68480
+2020,WI,Female,Public administration,40234
+2020,WV,Female,Public administration,19976
+2020,WY,Female,Public administration,7062
+2021,AK,Female,Public administration,13991
+2021,AL,Female,Public administration,47703
+2021,AR,Female,Public administration,25097
+2021,AZ,Female,Public administration,57595
+2021,CA,Female,Public administration,332017
+2021,CO,Female,Public administration,52806
+2021,CT,Female,Public administration,22692
+2021,DC,Female,Public administration,30088
+2021,DE,Female,Public administration,11321
+2021,FL,Female,Public administration,166387
+2021,GA,Female,Public administration,96733
+2021,HI,Female,Public administration,20066
+2021,IA,Female,Public administration,20267
+2021,ID,Female,Public administration,15804
+2021,IL,Female,Public administration,84026
+2021,IN,Female,Public administration,43056
+2021,KS,Female,Public administration,25661
+2021,KY,Female,Public administration,34765
+2021,LA,Female,Public administration,45215
+2021,MA,Female,Public administration,48577
+2021,MD,Female,Public administration,150942
+2021,ME,Female,Public administration,10835
+2021,MI,Female,Public administration,63325
+2021,MN,Female,Public administration,45418
+2021,MO,Female,Public administration,51742
+2021,MS,Female,Public administration,26449
+2021,MT,Female,Public administration,12543
+2021,NC,Female,Public administration,76024
+2021,ND,Female,Public administration,7463
+2021,NE,Female,Public administration,17655
+2021,NH,Female,Public administration,10035
+2021,NJ,Female,Public administration,68053
+2021,NM,Female,Public administration,27673
+2021,NV,Female,Public administration,24285
+2021,NY,Female,Public administration,163630
+2021,OH,Female,Public administration,79592
+2021,OK,Female,Public administration,41235
+2021,OR,Female,Public administration,39473
+2021,PA,Female,Public administration,91122
+2021,PR,Female,Public administration,37435
+2021,RI,Female,Public administration,8046
+2021,SC,Female,Public administration,40813
+2021,SD,Female,Public administration,8010
+2021,TN,Female,Public administration,51723
+2021,TX,Female,Public administration,219361
+2021,UT,Female,Public administration,25504
+2021,VA,Female,Public administration,140133
+2021,VT,Female,Public administration,7360
+2021,WA,Female,Public administration,69304
+2021,WI,Female,Public administration,40379
+2021,WV,Female,Public administration,20334
+2021,WY,Female,Public administration,7097

@@ -1,0 +1,12 @@
+name: US-Salary-Range-Industry-Education-Analysis
+title: US-Salary-Range-Industry-Education-Analysis
+username: mitvinay
+account: mitvinay
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10521036
+bundleId: 7926455
+url: https://mitvinay.shinyapps.io/US-Salary-Range-Industry-Education-Analysis/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
