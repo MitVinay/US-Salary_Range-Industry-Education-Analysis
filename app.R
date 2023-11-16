@@ -1,5 +1,5 @@
 
-devtools::install_github("davidsjoberg/ggsankey")
+# devtools::install_github("davidsjoberg/ggsankey")
 
 ## Library
 library(shiny)
@@ -298,7 +298,8 @@ fluidRow(column(12, p("Following our analysis, It is clear from our data that yo
               12,
               plotlyOutput("sankeyPlot")
             )
-  ),br(),
+  ),
+br(),
 fluidRow(column(12, p("As observed earlier, People working in the education, healthcare, and social 
                       assistance sectors typically fall into a variety of income brackets. 
                       Why is this phenomenon?. After a more thorough investigation 
@@ -777,9 +778,9 @@ server <- function(input, output, session) {
         axis.ticks = element_blank(),
         plot.background = element_blank(),
         panel.border = element_blank()
-      ) 
-    
-  }) 
+      )
+
+  })
 
     #Correlation Matrix
     output$correlation_matrix <- renderPlot({corrplot(transposed_matrix,
